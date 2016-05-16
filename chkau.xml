@@ -1,7 +1,7 @@
 <AppUpdater>
   <update>
     <latestVersion>2.3.3</latestVersion>
-    <url>https://github.com/javiersantos/AppUpdater/releases</url>
+    <url>http://dl-xda.xposed.info/modules/kmod.xposed_v2_dbbd16.apk</url>
     <releaseNotes>
 - First evolution
 - Second evolution
