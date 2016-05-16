@@ -1,6 +1,6 @@
 <AppUpdater>
   <update>
-    <latestVersion>2.3.2</latestVersion>
+    <latestVersion>2.3.3</latestVersion>
     <url>https://github.com/javiersantos/AppUpdater/releases</url>
     <releaseNotes>
 - First evolution
