@@ -1,6 +1,6 @@
 <AppUpdater>
   <update>
-    <latestVersion>5.0.0</latestVersion>
+    <latestVersion>2.4.0</latestVersion>
     <url>http://dl-xda.xposed.info/modules/kmod.xposed_v2_dbbd16.apk</url>
     <releaseNotes>
 - First evolution
