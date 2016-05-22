@@ -3,9 +3,16 @@
     <latestVersion>2.4.0</latestVersion>
     <url>http://dl-xda.xposed.info/modules/kmod.xposed_v2_dbbd16.apk</url>
     <releaseNotes>
-- First evolution
-- Second evolution
-- Bug fixes
+      <es>
+        - Primer cambio
+        - Segundo cambio
+        - Fallos arreglados
+      </es>
+      <en>
+        - First evolution
+        - Second evolution
+        - Bug fixes
+      </en>
     </releaseNotes>
   </update>
 </AppUpdater>
