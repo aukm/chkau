@@ -1,31 +1,38 @@
 <AppUpdater>
   <update>
-    <latestVersion>2.3.3</latestVersion>
-    <url>http://dl-xda.xposed.info/modules/kmod.xposed_v2_dd6320.apk</url>
+    <latestVersion>2.3.4</latestVersion>
+    <url>http://dl-xda.xposed.info/modules/kmod.xposed_v2_73f32f.apk</url>
     <en>
-- Your update is in Englis
+- Fixed for last beta version of Play Store.
+- You can now save the application in internal memory or SD Card.
     </en>
     <bn>
-- Your update is in Bengali
+- প্লে স্টোর সর্বশেষ বিটা সংস্করণ জন্য সংশোধন করা হয়েছে.
+- আপনি এখন অভ্যন্তরীণ মেমরি বা এসডি কার্ড মধ্যে অ্যাপ্লিকেশন সঞ্চয় করতে সক্ষম হবেন.
     </bn>
     <de>
-- Your update is in German
+- Fest für letzte Beta-Version von Play Store.
+- Sie können nun die Anwendung im internen Speicher oder SD-Karte speichern.
     </de>
     <es>
-N - Añadido autoupdate, para detectar y descargar las futuras versiones de KMod.
-F - Se han solucionado algunos problemas.
+- Corregidos errores para la última versión beta de Play Store.
+- Ahora se puede guardar la aplicación en la memoria interna o la tarjeta SD.
     </es>
     <hi>
-- Your update is in Hindi
+- प्ले स्टोर के अंतिम बीटा संस्करण के लिए फिक्स्ड।
+- अब आप आंतरिक स्मृति या एसडी कार्ड में आवेदन बचा सकता है।
     </hi>
     <pt>
-- Your update is in Portuguese
+- Corrigido para última versão beta do Play Store.
+- Agora você pode salvar o aplicativo na memória interna ou cartão SD.
     </pt>
     <ru>
-- Your update is in Russian
+- Исправлено для последней бета-версии Play Store.
+- Теперь вы можете сохранить приложение во внутренней памяти или карты памяти SD.
     </ru>
     <tr>
-- Your update is in Tuskish
+- Play Store'un son beta sürümü için düzeltildi.
+- Şimdi dahili bellek ya da SD Kart uygulama kaydedebilirsiniz.
     </tr>
   </update>
 </AppUpdater>
