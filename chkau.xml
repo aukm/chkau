@@ -1,38 +1,38 @@
 <AppUpdater>
   <update>
-    <latestVersion>2.3.4</latestVersion>
+    <latestVersion>2.3.5</latestVersion>
     <url>http://dl-xda.xposed.info/modules/kmod.xposed_v2_73f32f.apk</url>
     <en>
 - Fixed for last beta version of Play Store.
-- You can now save the application in internal memory or SD Card.
+- Fixed some problems.
     </en>
     <bn>
-- প্লে স্টোর সর্বশেষ বিটা সংস্করণ জন্য সংশোধন করা হয়েছে.
-- আপনি এখন অভ্যন্তরীণ মেমরি বা এসডি কার্ড মধ্যে অ্যাপ্লিকেশন সঞ্চয় করতে সক্ষম হবেন.
+- Play Store সর্বশেষ বিটা সংস্করণ জন্য সংশোধন করা হয়েছে.
+- কিছু সমস্যা সংশোধন করা হয়েছে.ন.
     </bn>
     <de>
 - Fest für letzte Beta-Version von Play Store.
-- Sie können nun die Anwendung im internen Speicher oder SD-Karte speichern.
+- Einige Probleme behoben.
     </de>
     <es>
 - Corregidos errores para la última versión beta de Play Store.
-- Ahora se puede guardar la aplicación en la memoria interna o la tarjeta SD.
+- Se han solucionado algunos problemas.
     </es>
     <hi>
-- प्ले स्टोर के अंतिम बीटा संस्करण के लिए फिक्स्ड।
-- अब आप आंतरिक स्मृति या एसडी कार्ड में आवेदन बचा सकता है।
+- Play Store के अंतिम बीटा संस्करण के लिए फिक्स्ड।
+- कुछ समस्याओं फिक्स्ड।
     </hi>
     <pt>
 - Corrigido para última versão beta do Play Store.
-- Agora você pode salvar o aplicativo na memória interna ou cartão SD.
+- Corrigido alguns problemas.
     </pt>
     <ru>
 - Исправления для последней бета версии в Google Play. 
-- Теперь Вы можете сохранить приложение во внутреннюю память устройства или SD-карту. 
+- Исправлены некоторые проблемы.
     </ru>
     <tr>
 - Play Store'un son beta sürümü için düzeltildi.
-- Şimdi dahili bellek ya da SD Kart uygulama kaydedebilirsiniz.
+- Bazı sorunlar düzeltildi.
     </tr>
   </update>
 </AppUpdater>
