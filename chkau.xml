@@ -1,7 +1,7 @@
 <AppUpdater>
   <update>
     <latestVersion>2.3.5</latestVersion>
-    <url>http://dl-xda.xposed.info/modules/kmod.xposed_v2_73f32f.apk</url>
+    <url>http://dl-xda.xposed.info/modules/kmod.xposed_v2_eb0d9d.apk</url>
     <en>
 - Fixed for last beta version of Play Store.
 - Fixed some problems.
