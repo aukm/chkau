@@ -1,38 +1,30 @@
 <AppUpdater>
   <update>
-    <latestVersion>2.3.5</latestVersion>
-    <url>http://dl-xda.xposed.info/modules/kmod.xposed_v2_eb0d9d.apk</url>
+    <latestVersion>2.3.6</latestVersion>
+    <url>http://dl-xda.xposed.info/modules/kmod.xposed_v2_735a95.apk</url>
     <en>
-- Fixed for last beta version of Play Store.
-- Fixed some problems.
+- Fixed bug 2.3.5 version, to access the backup section.
     </en>
     <bn>
-- Play Store সর্বশেষ বিটা সংস্করণ জন্য সংশোধন করা হয়েছে.
-- কিছু সমস্যা সংশোধন করা হয়েছে.ন.
+- ফিক্সড বাগ 2.3.5 সংস্করণ, ব্যাকআপ অধ্যায় অ্যাক্সেস করতে.যা.
     </bn>
     <de>
-- Fest für letzte Beta-Version von Play Store.
-- Einige Probleme behoben.
+- Ein Fehler wurde behoben 2.3.5 Version, um den Sicherungsabschnitt zuzugreifen.
     </de>
     <es>
-- Corregidos errores para la última versión beta de Play Store.
-- Se han solucionado algunos problemas.
+- Corregido un fallo de la versión 2.3.5, para acceder a la sección de copia de seguridad.
     </es>
     <hi>
-- Play Store के अंतिम बीटा संस्करण के लिए फिक्स्ड।
-- कुछ समस्याओं फिक्स्ड।
+- फिक्स्ड बग 2.3.5 संस्करण, बैकअप भाग का उपयोग करने के लिए।्याओं।
     </hi>
     <pt>
-- Corrigido para última versão beta do Play Store.
-- Corrigido alguns problemas.
+- Corrigido o erro 2.3.5 versão, para acessar a seção de backup.
     </pt>
     <ru>
-- Исправления для последней бета версии в Google Play. 
-- Исправлены некоторые проблемы.
+- Исправлена ошибка 2.3.5 версии, чтобы получить доступ к разделу резервного копирования.
     </ru>
     <tr>
-- Play Store'un son beta sürümü için düzeltildi.
-- Bazı sorunlar düzeltildi.
+- Sabit hata 2.3.5 sürümü, yedekleme bölümüne erişmek için.
     </tr>
   </update>
 </AppUpdater>
