@@ -1,30 +1,62 @@
 <AppUpdater>
   <update>
-    <latestVersion>2.3.6</latestVersion>
-    <url>http://dl-xda.xposed.info/modules/kmod.xposed_v2_735a95.apk</url>
+    <latestVersion>2.3.8</latestVersion>
+    <url>http://dl-xda.xposed.info/modules/kmod.xposed_v2_07260e.apk</url>
     <en>
-- Fixed bug 2.3.5 version, to access the backup section.
+- Added icons of new interface (more information forum XDA-Developers).
+- Added customizing floating buttons, in .
+- Added personalization floating button, of message counter, in conversation screen.
+- Fix to the latest beta version of Google Play.
+- Fixed other bugs.
     </en>
     <bn>
-- ফিক্সড বাগ 2.3.5 সংস্করণ, ব্যাকআপ অধ্যায় অ্যাক্সেস করতে.যা.
+- নতুন ইন্টারফেস আইকন যোগ করা হয়েছে (আরো তথ্য ফোরাম XDA-Deverlopers).
+- যোগ করা হয়েছে কাস্টমাইজ ভাসমান বোতাম.
+- যোগ করা হয়েছে স্বনির্ধারণ ভাসমান বোতাম, বার্তা কাউন্টার, কথোপকথন পর্দায়.
+- গুগল প্লে এর সর্বশেষ বিটা সংস্করণ জন্য সংশোধন.
+- অন্যান্য ত্রুটি সংশোধন করা হয়েছে.
     </bn>
     <de>
-- Ein Fehler wurde behoben 2.3.5 Version, um den Sicherungsabschnitt zuzugreifen.
+- Added neue Schnittstelle Icons (mehr Informationen Forum XDA-Developers).
+- Added Customizing floating Tasten.
+- Added Anpassung Floating-Taste, Nachrichtenzähler , im Gespräch Bildschirm.
+- Fixes für die neueste Beta-Version von Google Play.
+- Feste andere Fehler.
     </de>
     <es>
-- Corregido un fallo de la versión 2.3.5, para acceder a la sección de copia de seguridad.
+- Añadidos iconos de la nueva interfaz (más información en el foro de XDA-Developers).
+- Añadida personalización de botones flotantes.
+- Añadida personalización del botón flotante, del contador de mensajes, en pantalla de conversación.
+- Correcciones para la última versión beta de Google Play.
+- Solucionados otros errores.
     </es>
     <hi>
-- फिक्स्ड बग 2.3.5 संस्करण, बैकअप भाग का उपयोग करने के लिए।्याओं।
+- नया इंटरफ़ेस माउस को जोड़ा गया (और जानकारी के मंच XDA डेवलपर्स)।
+- गयी अनुरूपण चल बटन।
+- जब जोड़ा गया अनुकूलन चल बटन, संदेश काउंटर, बातचीत स्क्रीन में।
+- गूगल प्ले के नवीनतम बीटा संस्करण के लिए फिक्स।
+- अन्य त्रुटियों फिक्स्ड।
     </hi>
     <pt>
-- Corrigido o erro 2.3.5 versão, para acessar a seção de backup.
+- Novos ícones da interface Adicionado (mais informações fórum XDA-Developers).
+- Personalização Adicionado botões flutuantes.
+- Personalização Adicionado botão, contador de mensagens, na tela conversa flutuante.
+- Correções para a mais recente versão beta do Google Play.
+- Corrigido outros erros.
     </pt>
     <ru>
-- Исправлена ошибка 2.3.5 версии, чтобы получить доступ к разделу резервного копирования.
+- Добавлены новые иконки интерфейса (подробнее форум XDA-Developers).
+- Добавлены кастомизации плавающие кнопки.
+- Добавлена настройка кнопка, счетчик сообщений, в экране разговора с плавающей.
+- Исправлены ошибки в последней бета-версии Google Play.
+- Исправлены другие ошибки.
     </ru>
     <tr>
-- Sabit hata 2.3.5 sürümü, yedekleme bölümüne erişmek için.
+- Yeni eklenen arayüz simgeleri (Daha fazla bilgi için forum XDA-Developers).
+- Added özelleştirme yüzen düğmeleri.
+- Konuşma ekranında butonuna mesaj sayacı, yüzen eklendi özelleştirme.
+- Google Play'in son beta sürümü giderir.
+- Diğer hatalar düzeltildi.
     </tr>
   </update>
 </AppUpdater>
