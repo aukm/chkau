@@ -1,54 +1,30 @@
 <AppUpdater>
   <update>
-    <latestVersion>2.3.9</latestVersion>
-    <url>http://dl-xda.xposed.info/modules/kmod.xposed_v2_cfb3cf.apk</url>
+    <latestVersion>2.3.9.1</latestVersion>
+    <url>http://dl-xda.xposed.info/modules/kmod.xposed_v2_e92f38.apk</url>
     <en>
-- Added iOS bubbles.
-- Deleting KMod access from menu.
-- Fix to the latest beta version of Google Play.
-- Fixed other bugs.
+- Fixed a bug that doesn't allow open KMod on Samsung devices.
     </en>
     <bn>
-- যোগ করা হয়েছে আইওএস বুদবুদ.
-- মেনু থেকে KMod এক্সেস মোছা.
-- গুগল প্লে এর সর্বশেষ বিটা সংস্করণ জন্য সংশোধন.
-- অন্যান্য ত্রুটি সংশোধন করা হয়েছে.
+- একটি বাগ, যে স্যামসাং ডিভাইসের খোলা KMod অনুমতি দেয় না সংশোধন করা হয়েছে.
     </bn>
     <de>
-- Hinzugefügt iOS Blasen.
-- Löschen von KMod Zugriff aus dem Menü.
-- Kompatibel zur neusten Beta version aus dem Google Playstore .
-- Kleinere Fehler behoben.
+- Ein Fehler wurde behoben, die nicht offen lässt KMod auf Samsung-Geräten.
     </de>
     <es>
-- Añadidos bocadillos iOS.
-- Eliminado el acceso a KMod desde el menú.
-- Correcciones para la última versión beta de Google Play.
-- Solucionados otros errores.
+- Se ha corregido un error, que no permitia abrir KMod en dispositivos Samsung.
     </es>
     <hi>
-- जोड़ा गया आईओएस बुलबुले।
-- मेनू से KMod पहुँच हटाना।
-- गूगल प्ले के नवीनतम बीटा संस्करण के लिए फिक्स।
-- अन्य त्रुटियों फिक्स्ड।
+- Fixed a bug that doesn't allow open KMod on Samsung devices.।
     </hi>
     <pt>
-- Adicionado bolhas iOS.
-- Excluindo o acesso KMod a partir do menu.
-- Correções para a mais recente versão beta do Google Play.
-- Corrigido outros erros.
+- Corrigido um erro, que não permite aberta KMod em dispositivos Samsung.
     </pt>
     <ru>
-- Добавлено iOS пузыри.
-- Удаление доступа KMod из меню.
-- Исправления жир последней бета-версию в Google Play.
-- Исправлены найденные ошибки.
+- Исправлена ошибка, которая не позволяет открытым KMod на устройствах Samsung.
     </ru>
     <tr>
-- Eklenen iOS kabarcıklar.
-- Silme KMod Erişim menüsü Frome.
-- Google Play'in son beta sürümü giderir.
-- Diğer hatalar düzeltildi.
+- Samsung cihazlarında açık KMod izin vermez bir hata, düzeltildi.
     </tr>
   </update>
 </AppUpdater>
