@@ -4,41 +4,49 @@
     <url>http://dl-xda.xposed.info/modules/kmod.xposed_v2_cfb3cf.apk</url>
     <en>
 - Added iOS bubbles.
+- Deleting KMod access from menu.
 - Fix to the latest beta version of Google Play.
 - Fixed other bugs.
     </en>
     <bn>
 - যোগ করা হয়েছে আইওএস বুদবুদ.
+- মেনু থেকে KMod এক্সেস মোছা.
 - গুগল প্লে এর সর্বশেষ বিটা সংস্করণ জন্য সংশোধন.
 - অন্যান্য ত্রুটি সংশোধন করা হয়েছে.
     </bn>
     <de>
 - Hinzugefügt iOS Blasen.
+- Löschen von KMod Zugriff aus dem Menü.
 - Kompatibel zur neusten Beta version aus dem Google Playstore .
 - Kleinere Fehler behoben.
     </de>
     <es>
 - Añadidos bocadillos iOS.
+- Eliminado el acceso a KMod desde el menú.
 - Correcciones para la última versión beta de Google Play.
 - Solucionados otros errores.
     </es>
     <hi>
 - जोड़ा गया आईओएस बुलबुले।
+- मेनू से KMod पहुँच हटाना।
 - गूगल प्ले के नवीनतम बीटा संस्करण के लिए फिक्स।
 - अन्य त्रुटियों फिक्स्ड।
     </hi>
     <pt>
 - Adicionado bolhas iOS.
+- Excluindo o acesso KMod a partir do menu.
 - Correções para a mais recente versão beta do Google Play.
 - Corrigido outros erros.
     </pt>
     <ru>
 - Добавлено iOS пузыри.
+- Удаление доступа KMod из меню.
 - Исправления жир последней бета-версию в Google Play.
 - Исправлены найденные ошибки.
     </ru>
     <tr>
 - Eklenen iOS kabarcıklar.
+- Silme KMod Erişim menüsü Frome.
 - Google Play'in son beta sürümü giderir.
 - Diğer hatalar düzeltildi.
     </tr>
