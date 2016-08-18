@@ -1,60 +1,44 @@
 <AppUpdater>
   <update>
-    <latestVersion>2.3.8</latestVersion>
-    <url>http://dl-xda.xposed.info/modules/kmod.xposed_v2_07260e.apk</url>
+    <latestVersion>2.3.9</latestVersion>
+    <url>http://dl-xda.xposed.info/modules/kmod.xposed_v2_cfb3cf.apk</url>
     <en>
-- Added icons of new interface (more information forum XDA-Developers).
-- Added customizing floating buttons.
-- Added personalization floating button, of message counter, in conversation screen.
+- Added iOS bubbles.
 - Fix to the latest beta version of Google Play.
 - Fixed other bugs.
     </en>
     <bn>
-- নতুন ইন্টারফেস আইকন যোগ করা হয়েছে (আরো তথ্য ফোরাম XDA-Deverlopers).
-- যোগ করা হয়েছে কাস্টমাইজ ভাসমান বোতাম.
-- যোগ করা হয়েছে স্বনির্ধারণ ভাসমান বোতাম, বার্তা কাউন্টার, কথোপকথন পর্দায়.
+- যোগ করা হয়েছে আইওএস বুদবুদ.
 - গুগল প্লে এর সর্বশেষ বিটা সংস্করণ জন্য সংশোধন.
 - অন্যান্য ত্রুটি সংশোধন করা হয়েছে.
     </bn>
     <de>
-- Hinzugefügt neue Symbole im Abschnitt Schnittstelle (Weitere Informationen auf XDA-Developers) 
-- Hinzugefügt anpassbare Floating-Taste.
-- Hinzugefügt Personalisierung - Gespräche - Erweiterung - Floating-Taste.
+- Hinzugefügt iOS Blasen.
 - Kompatibel zur neusten Beta version aus dem Google Playstore .
 - Kleinere Fehler behoben.
     </de>
     <es>
-- Añadidos iconos de la nueva interfaz (más información en el foro de XDA-Developers).
-- Añadida personalización de botones flotantes.
-- Añadida personalización del botón flotante, del contador de mensajes, en pantalla de conversación.
+- Añadidos bocadillos iOS.
 - Correcciones para la última versión beta de Google Play.
 - Solucionados otros errores.
     </es>
     <hi>
-- नया इंटरफ़ेस माउस को जोड़ा गया (और जानकारी के मंच XDA डेवलपर्स)।
-- गयी अनुरूपण चल बटन।
-- जब जोड़ा गया अनुकूलन चल बटन, संदेश काउंटर, बातचीत स्क्रीन में।
+- जोड़ा गया आईओएस बुलबुले।
 - गूगल प्ले के नवीनतम बीटा संस्करण के लिए फिक्स।
 - अन्य त्रुटियों फिक्स्ड।
     </hi>
     <pt>
-- Novos ícones da interface Adicionado (mais informações fórum XDA-Developers).
-- Personalização Adicionado botões flutuantes.
-- Personalização Adicionado botão, contador de mensagens, na tela conversa flutuante.
+- Adicionado bolhas iOS.
 - Correções para a mais recente versão beta do Google Play.
 - Corrigido outros erros.
     </pt>
     <ru>
-- Добавлены новые иконки интерфейса (Дополнительная информация на форуме XDA).
-- Добавлена настройка плавающей кнопки.
-- Добавлена персонализация плавающей кнопки, счетчика сообщений, на экране разговора.
+- Добавлено iOS пузыри.
 - Исправления жир последней бета-версию в Google Play.
 - Исправлены найденные ошибки.
     </ru>
     <tr>
-- Yeni eklenen arayüz simgeleri (Daha fazla bilgi için forum XDA-Developers).
-- Added özelleştirme yüzen düğmeleri.
-- Konuşma ekranında butonuna mesaj sayacı, yüzen eklendi özelleştirme.
+- Eklenen iOS kabarcıklar.
 - Google Play'in son beta sürümü giderir.
 - Diğer hatalar düzeltildi.
     </tr>
