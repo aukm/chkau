@@ -1,7 +1,7 @@
 <AppUpdater>
   <update>
-    <latestVersion>2.4.0</latestVersion>
-    <url>http://dl-xda.xposed.info/modules/kmod.xposed_v2_76e740.apk</url>
+    <latestVersion>2.4.1</latestVersion>
+    <url>http://dl-xda.xposed.info/modules/kmod.xposed_v2_214e37.apk</url>
     <en>
 - Added bWin bubbles.
 - Updating the Android SDK to version 24.
