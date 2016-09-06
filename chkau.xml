@@ -1,30 +1,62 @@
 <AppUpdater>
   <update>
-    <latestVersion>2.3.9.1</latestVersion>
-    <url>http://dl-xda.xposed.info/modules/kmod.xposed_v2_e92f38.apk</url>
+    <latestVersion>2.4.0</latestVersion>
+    <url>http://dl-xda.xposed.info/modules/kmod.xposed_v2_76e740.apk</url>
     <en>
-- Fixed a bug that doesn't allow open KMod on Samsung devices.
+- Added bWin bubbles.
+- Updating the Android SDK to version 24.
+- Fixed donation button.
+- Fix to the latest beta version of Google Play.
+- Fixed other bugs.
     </en>
     <bn>
-- একটি বাগ, যে স্যামসাং ডিভাইসের খোলা KMod অনুমতি দেয় না সংশোধন করা হয়েছে.
+- যোগ করা হয়েছে bWin বুদবুদ.
+- সংস্করণ থেকে 24 অ্যান্ড্রয়েড SDK এর আপডেট করা হচ্ছে.
+- ফিক্সড দান বাটন.
+- গুগল প্লে এর সর্বশেষ বিটা সংস্করণ জন্য সংশোধন.
+- অন্যান্য ত্রুটি সংশোধন করা হয়েছে.
     </bn>
     <de>
-- Ein Fehler wurde behoben, die nicht offen lässt KMod auf Samsung-Geräten.
+- Added BWIN Blasen.
+- Aktualisierung der Android SDK Version 24.
+- Festspendenbutton .
+- Kompatibel zur neusten Beta version aus dem Google Playstore .
+- Kleinere Fehler behoben.
     </de>
     <es>
-- Se ha corregido un error, que no permitía abrir KMod en dispositivos Samsung.
+- Añadidos bocadillos bWin.
+- Actualización del SDK de Android a la versión 24.
+- Arreglado botón de donación.
+- Correcciones para la última versión beta de Google Play.
+- Solucionados otros errores.
     </es>
     <hi>
-- Fixed a bug that doesn't allow open KMod on Samsung devices.।
+- जोड़ा Bwin बुलबुले।
+- संस्करण से 24 एंड्रॉयड एसडीके अद्यतन कर रहा है।
+- फिक्स्ड दान बटन।
+- गूगल प्ले के नवीनतम बीटा संस्करण के लिए फिक्स।
+- अन्य त्रुटियों फिक्स्ड।
     </hi>
     <pt>
-- Corrigido um erro, que não permite aberta KMod em dispositivos Samsung.
+- Bolhas Adicionado bwin.
+- Atualizando o SDK Android para a versão 24.
+- Botão de doação fixo.
+- Correções para a mais recente versão beta do Google Play.
+- Corrigido outros erros.
     </pt>
     <ru>
-- Исправлена ошибка, которая не позволяет открытым KMod на устройствах Samsung.
+- Добавлены Bwin пузыри.
+- Обновление Android SDK до версии 24.
+- Исправлена кнопка пожертвования.
+- Исправления жир последней бета-версию в Google Play.
+- Исправлены найденные ошибки.
     </ru>
     <tr>
-- Samsung cihazlarında açık KMod izin vermez bir hata, düzeltildi.
+- Katma Bwin kabarcıklar.
+- Sürüm 24 Android SDK güncellenmesi.
+- Sabit bağış düğmesine basın.
+- Google Play'in son beta sürümü giderir.
+- Diğer hatalar düzeltildi.
     </tr>
   </update>
 </AppUpdater>
