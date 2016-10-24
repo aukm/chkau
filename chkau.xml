@@ -1,62 +1,105 @@
 <AppUpdater>
   <update>
-    <latestVersion>2.4.1</latestVersion>
-    <url>http://dl-xda.xposed.info/modules/kmod.xposed_v2_214e37.apk</url>
+    <latestVersion>2.4.5</latestVersion>
+    <url>http://dl-xda.xposed.info/modules/kmod.xposed_v2_af35e8.apk</url>
     <en>
-- Added bWin bubbles.
-- Updating the Android SDK to version 24.
-- Fixed donation button.
-- Fix to the latest beta version of Google Play.
-- Fixed other bugs.
+- Added a new bubble.
+- Added highlight in groups.
+- Added highlight in contacts (up to 3).
+- Added support for GIF Gallery.
+- Added option to hide last connection (you'll see the last connection of the other, but they not yours).
+- Added Italian language
+- Fixed backup section, you can now save and load properly themes with background images.
+- Fixes for the latest beta version of Google Play.
+- Fixed other errors.
     </en>
     <bn>
-- যোগ করা হয়েছে bWin বুদবুদ.
-- সংস্করণ থেকে 24 অ্যান্ড্রয়েড SDK এর আপডেট করা হচ্ছে.
-- ফিক্সড দান বাটন.
+- একটি নতুন বুদ্বুদ যোগ করা হয়েছে.
+- দলের মধ্যে হাইলাইট যোগ করা হয়েছে.
+- পরিচিতি (3 পর্যন্ত) মধ্যে হাইলাইট যোগ করা হয়েছে.
+- জিআইএফ গ্যালারি জন্য সমর্থন যোগ করা হয়েছে.
+- যোগ করা হয়েছে গত সংযোগ লুকাতে বিকল্প (তুমি একে অপরের গত সংযোগ দেখতে পাবেন, কিন্তু তারা না পুলিশের).
+- যোগ করা হয়েছে ইতালীয় ভাষা
+- করতে ব্যাকআপ অধ্যায় ফিক্সড, আপনি এখন সংরক্ষণ এবং সঠিকভাবে ব্যাকগ্রাউন্ড ইমেজ সঙ্গে থিম লোড.
 - গুগল প্লে এর সর্বশেষ বিটা সংস্করণ জন্য সংশোধন.
 - অন্যান্য ত্রুটি সংশোধন করা হয়েছে.
     </bn>
     <de>
-- Added BWIN Blasen.
-- Aktualisierung der Android SDK Version 24.
-- Festspendenbutton .
-- Kompatibel zur neusten Beta version aus dem Google Playstore .
-- Kleinere Fehler behoben.
+- Eine neue Blase hinzugefügt. 
+- Hinzugefügt Highlight in Gruppen. 
+- Hinzugefügt Highlight in Kontakten (bis zu 3).
+- Zusätzliche Unterstützung für GIF-Galerie. 
+- Option hinzugefügt, um letzte Verbindung verstecken (Sie werden die letzte Verbindung des anderen sehen, aber sie nicht verkaufen). 
+- Hinzugefügt italienische Sprache
+- Backup-Abschnitt wurde behoben,  Sie können jetzt Themen mit Hintergrundbildern laden. 
+- Fehlerbehebungen für die neueste Beta-Versionen aus dem Google Play. 
+- Fehlerbehebungen von anderen Fehlern
     </de>
     <es>
-- Añadidos bocadillos bWin.
-- Actualización del SDK de Android a la versión 24.
-- Arreglado botón de donación.
+- Añadida una nueva burbuja.
+- Añadido resalte en grupos.
+- Añadido resalte en contactos (hasta 3).
+- Añadido soporte para GIF en Galería.
+- Añadido opción para ocultar última conexión (tu verás la de los demás).
+- Añadido idioma Italiano.
+- Arreglada sección copia de seguridad, ahora puedes guardar y cargar temas correctamente con sus imagenes de fondo.
 - Correcciones para la última versión beta de Google Play.
 - Solucionados otros errores.
     </es>
     <hi>
-- जोड़ा Bwin बुलबुले।
-- संस्करण से 24 एंड्रॉयड एसडीके अद्यतन कर रहा है।
-- फिक्स्ड दान बटन।
+- एक नया बुलबुला जोड़ा।
+- समूहों में प्रकाश डाला गया है।
+- संपर्क (3 तक) में प्रकाश डाला गया है।
+- GIF गैलरी के लिए समर्थन जोड़ा गया।
+- गयी अंतिम कनेक्शन छिपाने के लिए विकल्प (आप दूसरे के अंतिम कनेक्शन देखेंगे, लेकिन वे नहीं तुम्हारा)।
+- गयी इतालवी भाषा
+- बैकअप कर सकते हैं अनुभाग तय, अब आप को बचाने के लिए और ठीक पृष्ठभूमि छवियों के साथ विषयों लोड।
 - गूगल प्ले के नवीनतम बीटा संस्करण के लिए फिक्स।
 - अन्य त्रुटियों फिक्स्ड।
     </hi>
+- Aggiunta una nuova bolla 
+- Aggiunta l'evidenziazione nei gruppi 
+- Aggiunta l'evidenziazione dei contatti (fino a 3)
+- Aggiuntivo il supporto alla galleria delle GIF 
+- Aggiunta l'opzione per nascondere l'ultimo accesso (è possibile vedere l'ultimo accesso dei propri contatti, senza che loro stessi vedano il tuo) 
+- Aggiunta lingua italiana.
+- Migliorata la sezione backup, è ora possibile salvare e caricare correttamente i temi con le immagini di sfondo 
+- Miglioramenti per l'ultima versione beta del Google Play. 
+- Sistemati altri errori. 
+	<it>
+	</it>
     <pt>
-- Bolhas Adicionado bwin.
-- Atualizando o SDK Android para a versão 24.
-- Botão de doação fixo.
+- Adicionado uma nova "bolha".
+- Destaque adicionado para grupos.
+- Destaque adicionado para contatos (até 3).
+- Adicionado suporte para Galeria GIF.
+- Opção para ocultar última conexão adicionada (você verá a última conexão do outro, mas não verá a sua).
+- Adicionada língua italiana
+- Corrigido seção de backup, agora você poderá salvar e carregar corretamente os temas com imagens de fundo.
 - Correções para a mais recente versão beta do Google Play.
 - Corrigido outros erros.
     </pt>
     <ru>
-- Добавлены Bwin пузыри.
-- Обновление Android SDK до версии 24.
-- Исправлена кнопка пожертвования.
-- Исправления жир последней бета-версию в Google Play.
-- Исправлены найденные ошибки.
+- Добавлен новый пузырь.
+- Добавлена подсветка в группах.
+- Добавлена подсветка в контактах (до 3).
+- Добавлена поддержка GIF в Галерее.
+- Добавлена опция для скрытия последнего соединения (вы увидите последнее подключение других, а они твои нет).
+- Добавлен итальянский язык.
+- Исправлена ошибка резервного копирования раздела, теперь вы можете правильно сохранять и загружать темы с фоновыми изображениями.
+- Исправления для последней бета-версии Google Play.
+- Исправлены другие ошибки.
     </ru>
     <tr>
-- Katma Bwin kabarcıklar.
-- Sürüm 24 Android SDK güncellenmesi.
-- Sabit bağış düğmesine basın.
-- Google Play'in son beta sürümü giderir.
-- Diğer hatalar düzeltildi.
+-Yeni bir balon eklendi
+-Grup konuşmalarını vurgulayabilirsiniz.
+-Konuşmaları vurgulayabilirsiniz (3 kişiye kadar).
+-GIF galerisi desteği eklendi.
+-Son görülmeyi gizleme eklendi (diğerlerinin son görülmesini görebilirsiniz ancak onlar sizinkini göremez)
+-İtalyanca eklendi
+-Yedekleme işlevi düzeltildi, artık temaları düzgünce yükleyebilir ya da yedekleyebilirsiniz.
+-Google Play'de ki son beta için hatalar düzeltildi.
+-Diğer hatalar düzeltildi
     </tr>
   </update>
 </AppUpdater>
