@@ -77,7 +77,7 @@
 - Aggiunta opzione per nascondere la doppia spunta (sarà possibile vedere i messaggi letti dai propri contatti, ma loro non saranno in grado di vedere la propria doppia spunta una volta letti). 
 - Aggiunta opzione per disattivare la seconda spunta (un messaggio ricevuto non apparirà come tale, quindi una sola spunta). 
 - Risolto il problema per cui quando si disattivava l'ultimo accesso, si risultava sempre online. 
-Correzioni per le ultime versioni beta del Google Play. 
+- Correzioni per le ultime versioni beta del Google Play. 
 - Altre correzioni di errori.
     </it>
 	<nl>
@@ -120,17 +120,17 @@ Correzioni per le ultime versioni beta del Google Play.
 - Другие исправления ошибок.
     </ru>
     <tr>
--Kmod için yüzen pencere arayüzü
+- Kmod için yüzen pencere arayüzü
 - Katma BB SRB kabarcıklar.
--Yeni Whatsapp durum arayüzünü aktif hale getirmek için seçenek eklendi (2.16.353 ve daha üstü sürümlerde).
--Ayarlar kısmına Kmod dilini ayarlama seçeneği eklendi.
--Flemenkçe dili eklendi.
--Kmod arayüzünün rengini değiştirme seçeneği eklendi (Açık,Koyu,Mavi).
--Okundu bilgisini gizleme eklendi (Senin tarafından gönderilen mesajları okuduklarını görebileceksin ancak aldığın mesajları okuduğunu göremeyecekler).
--Mesaj alındı bilgisini kapatma seçeneği eklendi (Mesaj aldığında alındı bilgisi gösterilmeyecek).
--Son görülme gizliyken çevrimiçi görünme sorunu çözüldü.
--Son Google play beta'sı için düzeltmeler yapıldı.
--Diğer hatalar düzeltildi.
+- Yeni Whatsapp durum arayüzünü aktif hale getirmek için seçenek eklendi (2.16.353 ve daha üstü sürümlerde).
+- Ayarlar kısmına Kmod dilini ayarlama seçeneği eklendi.
+- Flemenkçe dili eklendi.
+- Kmod arayüzünün rengini değiştirme seçeneği eklendi (Açık,Koyu,Mavi).
+- Okundu bilgisini gizleme eklendi (Senin tarafından gönderilen mesajları okuduklarını görebileceksin ancak aldığın mesajları okuduğunu göremeyecekler).
+- Mesaj alındı bilgisini kapatma seçeneği eklendi (Mesaj aldığında alındı bilgisi gösterilmeyecek).
+- Son görülme gizliyken çevrimiçi görünme sorunu çözüldü.
+- Son Google play beta'sı için düzeltmeler yapıldı.
+- Diğer hatalar düzeltildi.
     </tr>
   </update>
 </AppUpdater>
