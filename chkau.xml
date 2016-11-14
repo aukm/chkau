@@ -1,105 +1,136 @@
 <AppUpdater>
   <update>
-    <latestVersion>2.4.5</latestVersion>
-    <url>http://dl-xda.xposed.info/modules/kmod.xposed_v2_a07f79.apk</url>
+    <latestVersion>2.5.0</latestVersion>
+    <url>http://dl-xda.xposed.info/modules/kmod.xposed_v2_2877d7.apk</url>
     <en>
-- Added a new bubble.
-- Added highlight in groups.
-- Added highlight in contacts (up to 3).
-- Added support for GIF Gallery.
-- Added option to hide last connection (you'll see the last connection of the other, but they not yours).
-- Added Italian language
-- Fixed backup section, you can now save and load properly themes with background images.
-- Fixes for the latest beta version of Google Play.
-- Fixed other errors.
+- New floating window interface for KMod.
+- Added BB SRB bubbles.
+- Added option to activate new interface Status of WhatsApp (Only for 2.16.353 or higher).
+- Added option to select the KMod language from within the Settings section.
+- Added Dutch language.
+- Added option to change the color of the KMod interface (Light, Dark, Blue).
+- Added option to hide the read messages (You will be able to see when they read the messages sent by you, but they will not be able to see when you read the messages that you receive).
+- Added option to deactivate delivery report (When you receive a message, it will not appear as received).
+- Fixed the problem, when the last connection was hidden, was always online.
+- Corrections for the latest beta versions of Google Play.
+- Other corrections of errors.
     </en>
     <bn>
-- একটি নতুন বুদ্বুদ যোগ করা হয়েছে.
-- দলের মধ্যে হাইলাইট যোগ করা হয়েছে.
-- পরিচিতি (3 পর্যন্ত) মধ্যে হাইলাইট যোগ করা হয়েছে.
-- জিআইএফ গ্যালারি জন্য সমর্থন যোগ করা হয়েছে.
-- যোগ করা হয়েছে গত সংযোগ লুকাতে বিকল্প (তুমি একে অপরের গত সংযোগ দেখতে পাবেন, কিন্তু তারা না পুলিশের).
-- যোগ করা হয়েছে ইতালীয় ভাষা
-- করতে ব্যাকআপ অধ্যায় ফিক্সড, আপনি এখন সংরক্ষণ এবং সঠিকভাবে ব্যাকগ্রাউন্ড ইমেজ সঙ্গে থিম লোড.
-- গুগল প্লে এর সর্বশেষ বিটা সংস্করণ জন্য সংশোধন.
-- অন্যান্য ত্রুটি সংশোধন করা হয়েছে.
+- Kmod জন্য নতুন ভাসমান উইন্ডোতে ইন্টারফেস.
+- যোগ করা হয়েছে BB SRB বুদবুদ.
+- হোয়াটসঅ্যাপ (শুধু জন্য 2.16.353 বা উচ্চতর) এর নতুন ইন্টারফেস স্থিতি সক্রিয় করার বিকল্প যোগ করা হয়েছে.
+- সেটিংস বিভাগে থেকে kmod ভাষা নির্বাচন করার বিকল্প যোগ করা হয়েছে.
+- ডাচ ভাষা যোগ করা হয়েছে.
+- Kmod ইন্টারফেস (হাল্কা, অন্ধকার, নীল) এর রং পরিবর্তন করার অপশন যোগ করা হয়েছে.
+- যোগ করা হয়েছে পঠিত বার্তা লুকাতে বিকল্প (আপনি দেখতে যখন তারা আপনার দ্বারা প্রেরিত বার্তা পড়তে সক্ষম হবে, কিন্তু তারা যখন আপনি আপনার পাওয়া বার্তাগুলি পড়া দেখতে পারবে না).
+- ডেলিভারি রিপোর্ট নিষ্ক্রিয় করতে (আপনি একটি বার্তা পান, তখন এটা হিসাবে গৃহীত প্রদর্শিত হবে না) বিকল্প যোগ করা হয়েছে.
+- সমস্যা সংশোধন করা হয়েছে, যখন গত সংযোগ লুকানো ছিল, অনলাইন সবসময় ছিল.
+- গুগল এর সর্বশেষ বিটা সংস্করণ জন্য সংশোধণী খেলুন.
+- ত্রুটি অন্যান্য সংশোধন.
     </bn>
     <de>
-- Eine neue Blase hinzugefügt. 
-- Hinzugefügt Highlight in Gruppen. 
-- Hinzugefügt Highlight in Kontakten (bis zu 3).
-- Zusätzliche Unterstützung für GIF-Galerie. 
-- Option hinzugefügt, um letzte Verbindung verstecken (Sie werden die letzte Verbindung des anderen sehen, aber sie nicht verkaufen). 
-- Hinzugefügt italienische Sprache
-- Backup-Abschnitt wurde behoben,  Sie können jetzt Themen mit Hintergrundbildern laden. 
-- Fehlerbehebungen für die neueste Beta-Versionen aus dem Google Play. 
-- Fehlerbehebungen von anderen Fehlern
+- Neues schwebendes Fenster Schnittstelle für Kmod
+- Added BB SRB Blasen.
+- Option zum aktivieren des WhatsApp Status hinzugefügt nur für die Version 2.16.353 oder höher 
+- Option Sprachen in den Einstellungen hinzugefügt 
+- Holländisch als Sprache hinzugefügt 
+- Option zum Wechseln der Farben für die KMod Oberfläche hinzugefügt Hell oder Dunkel oder Blau 
+- Option zum Abschalten der gelesenen Nachrichten (Man kann sehen das die Nachrichten versendet und gelesen wurden jedoch nicht wenn du Nachrichten erhalten hast) 
+- Option Deaktivieren der Sendeberichte möglich hinzugefügt 
+- Problem gelöst. Wenn die letzte Verbindung versteckt war, aber trotzdem online angezeigt wurde.
+- Anpassung der letzten Beta Version des Google Playstore 
+- Andere Korrekturen von Fehlern.
     </de>
     <es>
-- Añadida una nueva burbuja.
-- Añadido resalte en grupos.
-- Añadido resalte en contactos (hasta 3).
-- Añadido soporte para GIF en Galería.
-- Añadido opción para ocultar última conexión (tu verás la de los demás).
-- Añadido idioma Italiano.
-- Arreglada sección copia de seguridad, ahora puedes guardar y cargar temas correctamente con sus imágenes de fondo.
-- Correcciones para la última versión beta de Google Play.
-- Solucionados otros errores.
+- Nueva interfaz de ventanas flotantes para KMod.
+- Añadidos bocadillos BB SRB.
+- Añadida opción para activar nueva interfaz Status de WhatsApp (Solo para 2.16.353 o superior).
+- Añadida opción para seleccionar el idioma de KMod desde dentro de la sección Ajustes.
+- Añadido idioma Holandés.
+- Añadida opción para cambiar el color de la interfaz de KMod (Clara, Oscura, Azul).
+- Añadida opción de ocultar los mensajes leidos (Podrás ver cuando leen los mensajes enviados por ti, pero no podrán ver cuando tu lees los mensajes que recibes).
+- Añadida opción para desactivar informe de entrega (Cuando recibas un mensaje, esté no aparecerá como recibido).
+- Arreglado el problema, de cuando se ocultaba la última conexión, se quedaba siempre en línea.
+- Correcciones para las últimas versiones beta de Google Play.
+- Otras correcciones de errores.
     </es>
     <hi>
-- एक नया बुलबुला जोड़ा।
-- समूहों में प्रकाश डाला गया है।
-- संपर्क (3 तक) में प्रकाश डाला गया है।
-- GIF गैलरी के लिए समर्थन जोड़ा गया।
-- गयी अंतिम कनेक्शन छिपाने के लिए विकल्प (आप दूसरे के अंतिम कनेक्शन देखेंगे, लेकिन वे नहीं तुम्हारा)।
-- गयी इतालवी भाषा
-- बैकअप कर सकते हैं अनुभाग तय, अब आप को बचाने के लिए और ठीक पृष्ठभूमि छवियों के साथ विषयों लोड।
-- गूगल प्ले के नवीनतम बीटा संस्करण के लिए फिक्स।
-- अन्य त्रुटियों फिक्स्ड।
+- Kmod के लिए नए अस्थायी खिड़की इंटरफेस।
+- जोड़ा BB SRB बुलबुले।
+- WhatsApp (केवल 2.16.353 या अधिक) का नया इंटरफेस स्थिति सक्रिय करने के लिए विकल्प जोड़ा गया।
+- सेटिंग्स अनुभाग के भीतर से kmod भाषा का चयन करने के लिए विकल्प जोड़ा गया।
+- डच भाषा जोड़ा।
+- Kmod इंटरफेस (लाइट, डार्क, नीला) का रंग बदलने के लिए विकल्प जोड़ा गया।
+- गयी पढ़ें संदेशों को छिपाने के लिए विकल्प (आप देखने के लिए जब वे आप द्वारा भेजे गए संदेशों को पढ़ने में सक्षम हो जाएगा, लेकिन वे जब आप संदेश है कि आप प्राप्त पढ़ देखने के लिए सक्षम नहीं होगा)।
+- डिलीवरी रिपोर्ट को निष्क्रिय करने के लिए (यदि आप एक संदेश प्राप्त होता है, यह के रूप में प्राप्त दिखाई नहीं होगा) विकल्प जोड़ा गया।
+- समस्या तय है, जब अंतिम कनेक्शन छिपा हुआ था, ऑनलाइन हमेशा से था।
+- गूगल के नवीनतम बीटा संस्करण के लिए सुधार खेलते हैं।
+- त्रुटियों के अन्य सुधार।
     </hi>
     <it>
-- Aggiunta una nuova bolla 
-- Aggiunta l'evidenziazione nei gruppi 
-- Aggiunta l'evidenziazione dei contatti (fino a 3)
-- Aggiuntivo il supporto alla galleria delle GIF 
-- Aggiunta l'opzione per nascondere l'ultimo accesso (è possibile vedere l'ultimo accesso dei propri contatti, senza che loro stessi vedano il tuo) 
-- Aggiunta lingua italiana.
-- Migliorata la sezione backup, è ora possibile salvare e caricare correttamente i temi con le immagini di sfondo 
-- Miglioramenti per l'ultima versione beta del Google Play. 
-- Sistemati altri errori. 
+- Nuova interfaccia di KMod in una finestra flottante. 
+- Aggiunta BB SRB bolla 
+- Aggiunta opzione per attivare la nuova interfaccia per lo Stato di WhatsApp (solo su versione 2.16.353 o successive). 
+- Aggiunta opzione per selezionare la lingua di KMod dalla sezione Impostazioni. 
+- Aggiunta lingua Tedesca. 
+- Aggiunta opzione per cambiare il colore dell'interfaccia di KMod (Light, Dark, Blue). 
+- Aggiunta opzione per nascondere la doppia spunta (sarà possibile vedere i messaggi letti dai propri contatti, ma loro non saranno in grado di vedere la propria doppia spunta una volta letti). 
+- Aggiunta opzione per disattivare la seconda spunta (un messaggio ricevuto non apparirà come tale, quindi una sola spunta). 
+- Risolto il problema per cui quando si disattivava l'ultimo accesso, si risultava sempre online. 
+Correzioni per le ultime versioni beta del Google Play. 
+- Altre correzioni di errori.
     </it>
+	<nl>
+- Nieuw zwevend venster uiterlijk voor KMod. 
+- Added BB SRB bubbels.
+- Optie toegevoegd voor nieuw uiterlijk van Status WhatsApp (Alleen voor 2.16.353 of hoger) 
+- Optie toegevoegd om taal van KMod te selecteren binnen KMod. 
+- Nederlandse taal toegevoegd.
+- Optie toegevoegd om de kleur van het KMod uiterlijk te veranderen (Licht, Donker, Blauw) 
+- Optie toegevoegd om "bericht gelezen" te verbergen (Je kan wel zien dat ze jou berichten hebben  gelezen, maar men kan niet zien dat je de ontvangen berichten hebt gelezen). 
+- Optie toegevoegd om verzend rapport te deactiveren (Als je een bericht ontvangt, zal het niet als ontvangen worden weergegeven). 
+- Probleem opgelost, wanneer de laatste verbinding verborgen was, als online bleef gezien. 
+- Correcties voor de laatste beta versies van Google Play. 
+- Andere fout correcties.
+	</nl>	
     <pt>
-- Adicionado uma nova "bolha".
-- Destaque adicionado para grupos.
-- Destaque adicionado para contatos (até 3).
-- Adicionado suporte para Galeria GIF.
-- Opção para ocultar última conexão adicionada (você verá a última conexão do outro, mas não verá a sua).
-- Adicionada língua italiana
-- Corrigido seção de backup, agora você poderá salvar e carregar corretamente os temas com imagens de fundo.
-- Correções para a mais recente versão beta do Google Play.
-- Corrigido outros erros.
+- Nova interface de janela flutuante para o KMod.
+- Bolhas Adicionado BB SRB.
+- Adicionado opção para ativar a nova interface Status do WhatsApp (Apenas para 2.16.353 ou superior).
+- Adicionado opção para selecionar o idioma KMod dentro da seção Configurações.
+- Adicionado idioma holandês.
+- Adicionado opção para alterar a cor da interface KMod (Light, Dark, Blue).
+- Adicionado opção para ocultar as mensagens lidas (Você poderá ver quando ler as mensagens enviadas por você, mas elas não serão capazes de ver quando você lê as mensagens que você recebe).
+- Opção adicionada para desativar o relatório de entrega (quando você receber uma mensagem, ela não aparecerá como recebida).
+- Corrigido o problema, quando a última conexão estava escondida, estava sempre online.
+- Correções para as versões beta mais recentes do Google Play.
+- Outras correcções de erros.
     </pt>
     <ru>
-- Добавлен новый пузырь.
-- Добавлена подсветка в группах.
-- Добавлена подсветка в контактах (до 3).
-- Добавлена поддержка GIF в Галерее.
-- Добавлена опция для скрытия последнего соединения (вы увидите последнее подключение других, а они твои нет).
-- Добавлен итальянский язык.
-- Исправлена ошибка резервного копирования раздела, теперь вы можете правильно сохранять и загружать темы с фоновыми изображениями.
-- Исправления для последней бета-версии Google Play.
-- Исправлены другие ошибки.
+- Новый интерфейс плавающих окон для KMod.
+- Добавлены BB SRB пузыри.
+- Добавлена ​​опция для активации нового интерфейса Статуса WhatsApp (только для 2.16.353 или выше).
+- Добавлена ​​опция для выбора языка KMod в разделе Настройки.
+- Добавлен голландский язык.
+- Добавлена ​​возможность менять цвет интерфейса KMod (светлый, темный, синий).
+- Добавлена ​​возможность скрывать прочитанные сообщения (Вы сможете увидеть, когда они читают сообщения, отправленные вами, но они не будут иметь возможность видеть, когда вы читаете сообщения, которые вы получаете).
+- Добавлена ​​возможность отключить отчет о доставке (Когда вы получите сообщение, оно не будет отображаться как полученое).
+- Исправлена ​​проблема, когда последний соединение было скрыто, всегда онлайн.
+- Исправления для последних бета-версий Google Play.
+- Другие исправления ошибок.
     </ru>
     <tr>
--Yeni bir balon eklendi
--Grup konuşmalarını vurgulayabilirsiniz.
--Konuşmaları vurgulayabilirsiniz (3 kişiye kadar).
--GIF galerisi desteği eklendi.
--Son görülmeyi gizleme eklendi (diğerlerinin son görülmesini görebilirsiniz ancak onlar sizinkini göremez)
--İtalyanca eklendi
--Yedekleme işlevi düzeltildi, artık temaları düzgünce yükleyebilir ya da yedekleyebilirsiniz.
--Google Play'de ki son beta için hatalar düzeltildi.
--Diğer hatalar düzeltildi
+-Kmod için yüzen pencere arayüzü
+- Katma BB SRB kabarcıklar.
+-Yeni Whatsapp durum arayüzünü aktif hale getirmek için seçenek eklendi (2.16.353 ve daha üstü sürümlerde).
+-Ayarlar kısmına Kmod dilini ayarlama seçeneği eklendi.
+-Flemenkçe dili eklendi.
+-Kmod arayüzünün rengini değiştirme seçeneği eklendi (Açık,Koyu,Mavi).
+-Okundu bilgisini gizleme eklendi (Senin tarafından gönderilen mesajları okuduklarını görebileceksin ancak aldığın mesajları okuduğunu göremeyecekler).
+-Mesaj alındı bilgisini kapatma seçeneği eklendi (Mesaj aldığında alındı bilgisi gösterilmeyecek).
+-Son görülme gizliyken çevrimiçi görünme sorunu çözüldü.
+-Son Google play beta'sı için düzeltmeler yapıldı.
+-Diğer hatalar düzeltildi.
     </tr>
   </update>
 </AppUpdater>
