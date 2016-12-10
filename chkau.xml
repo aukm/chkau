@@ -1,134 +1,169 @@
 <AppUpdater>
   <update>
-    <latestVersion>2.5.0</latestVersion>
-    <url>http://dl-xda.xposed.info/modules/kmod.xposed_v2_4e9ec0.apk</url>
+    <latestVersion>2.5.1</latestVersion>
+    <url>http://dl-xda.xposed.info/modules/kmod.xposed_v2_a69ec6.apk</url>
     <en>
-- New floating window interface for KMod.
-- Added BB SRB bubbles.
-- Added option to activate new interface Status of WhatsApp (Only for 2.16.353 or higher).
-- Added option to select the KMod language from within the Settings section.
-- Added Dutch language.
-- Added option to change the color of the KMod interface (Light, Dark, Blue).
-- Added option to hide the read messages (You will be able to see when they read the messages sent by you, but they will not be able to see when you read the messages that you receive).
-- Added option to deactivate delivery report (When you receive a message, it will not appear as received).
-- Fixed the problem, when the last connection was hidden, was always online.
+- Now, when you save a theme, the privacy settings will not be saved to the theme.
+- You can now hide your status online, in the WhatsApp widget or in the main screen of the module (it is configured in the privacy section).
+- Security warning bubbles are now the same as custom bubbles (dates and warnings).
+- Now the corners that are shown in the bubbles, when a link or a quote is displayed, are no longer displayed.
+- Added GIF finder (2.16.353+) and server selector (2.16.356+).
+- Added option to activate video call.
+- Added option to hide the contact photo and groups.
+- Moved text from Responder, from "Text left side" to "Text Central" section in the conversations section.
+- Now when you press the apply changes button, a dialog box is displayed while applying the changes.
+- Added Arabic language.
+- Fixed the problem that forced closing when you entered KMod from WhatsApp.
 - Corrections for the latest beta versions of Google Play.
 - Other corrections of errors.
     </en>
+	<ar>
+-الان عندما تحفظ الثيم لن يتم حفظ اعدادات الخصوصية معه
+-الان يمكنك ان تخفي حالة متصل الان من ويدجيت الوتساب او من الشاشة الرئيسية في kmod ( انها موجودة في قسم الخصوصية )
+-فقاعات التنبيهات ستكون نفس فقاعات التواريخ
+-الان لن يتم اظهار الزوايا عندما يعرض رابط او ينقل تعليق
+-اضافة موجد الصور المتحركة gif +2.16.353 والسيرفر المخدم +2.16.356 
+-اضافة خيار لتفعيل مكالمات الفديو
+-اضافة خيار لاخفاء صورة البروفايل والجروبات
+-يتم تغيير النص من قسم النص الايسر والنص المركزي من قسم المحادثات
+-الان عندما تضغط زر تطبيق التغييرات سيظهر صندوق نص اثناء تطبيق التغييرات
+-اضافة اللغة العربية
+-اصلاح مشكلة الاغلاق القسري اثناء الانتقال لل kmod من الوتساب
+- تصحيحات للحصول على أحدث إصدارات بيتا من جوجل لعب.
+- تصحيحات أخرى من الأخطاء.
+	</ar>
     <bn>
-- Kmod জন্য নতুন ভাসমান উইন্ডোতে ইন্টারফেস.
-- যোগ করা হয়েছে BB SRB বুদবুদ.
-- হোয়াটসঅ্যাপ (শুধু জন্য 2.16.353 বা উচ্চতর) এর নতুন ইন্টারফেস স্থিতি সক্রিয় করার বিকল্প যোগ করা হয়েছে.
-- সেটিংস বিভাগে থেকে kmod ভাষা নির্বাচন করার বিকল্প যোগ করা হয়েছে.
-- ডাচ ভাষা যোগ করা হয়েছে.
-- Kmod ইন্টারফেস (হাল্কা, অন্ধকার, নীল) এর রং পরিবর্তন করার অপশন যোগ করা হয়েছে.
-- যোগ করা হয়েছে পঠিত বার্তা লুকাতে বিকল্প (আপনি দেখতে যখন তারা আপনার দ্বারা প্রেরিত বার্তা পড়তে সক্ষম হবে, কিন্তু তারা যখন আপনি আপনার পাওয়া বার্তাগুলি পড়া দেখতে পারবে না).
-- ডেলিভারি রিপোর্ট নিষ্ক্রিয় করতে (আপনি একটি বার্তা পান, তখন এটা হিসাবে গৃহীত প্রদর্শিত হবে না) বিকল্প যোগ করা হয়েছে.
-- সমস্যা সংশোধন করা হয়েছে, যখন গত সংযোগ লুকানো ছিল, অনলাইন সবসময় ছিল.
+- এখন, আপনি যখন একটি থিম সংরক্ষণ, গোপনীয়তা সেটিংস থিম সংরক্ষণ করা হবে না.
+- আপনি এখন হোয়াটসঅ্যাপ উইজেট থেকে অনলাইন আপনার অবস্থা লুকিয়ে রাখতে পারেন, বা মডিউল প্রধান পর্দা থেকে (এটা গোপনীয়তা অধ্যায় থেকে কনফিগার করা).
+- নিরাপত্তা সতর্কতা বুদবুদ এখন কাস্টম বুদবুদ (তারিখ ও ভীতি প্রদর্শনকরী হিসাবে) হিসাবে একই.
+- এখন কোণে যে, বুদবুদ দেখানো হয় যখন একটি লিঙ্ক প্রদর্শন করা হয় বা একটি মন্তব্য উদ্ধৃত করা হয়, প্রদর্শন এখন আর নেই.
+- GIF আবিষ্কর্তা (2.16.353+) এবং সার্ভার নির্বাচক (2.16.356+) যোগ করা হয়েছে.
+- ভিডিও কল সক্রিয় করার বিকল্প যোগ করা হয়েছে.
+- যোগাযোগ ফটো এবং গ্রুপ লুকাতে বিকল্প যোগ করা হয়েছে.
+- প্রতিক্রিয়াকারী থেকে টেক্সট পরিবর্তন হয়েছে, অধ্যায় "পাঠ্য বাম পাশ" থেকে "টেক্সট সেন্ট্রাল" কথোপকথন বিভাগে থেকে.
+- এখন যখন আপনি আবেদন পরিবর্তন করুন বাটনটি ক্লিক করুন, একটি ডায়লগ বক্স যখন পরিবর্তনগুলি প্রয়োগ প্রদর্শন করা হয়.
+- যোগ করা হয়েছে আরবি ভাষা.
+- সমস্যা যে ক্লোজিং বাধ্য যখন আপনি হোয়াটসঅ্যাপ থেকে kmod প্রবেশ সংশোধন করা হয়েছে.
 - গুগল এর সর্বশেষ বিটা সংস্করণ জন্য সংশোধণী খেলুন.
 - ত্রুটি অন্যান্য সংশোধন.
     </bn>
     <de>
-- Neues schwebendes Fenster Schnittstelle für Kmod
-- Added BB SRB Blasen.
-- Option zum aktivieren des WhatsApp Status hinzugefügt nur für die Version 2.16.353 oder höher 
-- Option Sprachen in den Einstellungen hinzugefügt 
-- Holländisch als Sprache hinzugefügt 
-- Option zum Wechseln der Farben für die KMod Oberfläche hinzugefügt Hell oder Dunkel oder Blau 
-- Option zum Abschalten der gelesenen Nachrichten (Man kann sehen das die Nachrichten versendet und gelesen wurden jedoch nicht wenn du Nachrichten erhalten hast) 
-- Option Deaktivieren der Sendeberichte möglich hinzugefügt 
-- Problem gelöst. Wenn die letzte Verbindung versteckt war, aber trotzdem online angezeigt wurde.
+- Wenn du nun ein Thema speicherst, werden Privatsphäre Einstellungen nicht im Thema gespeichert.
+- Du kannst nun deinen Online Status vom Widget oder dem Hauptbildschirm des Moduls aus verstecken (einstellbar in der Privatsphäre Sektion).
+- Sicherheitswarnungsblasen sind nun die selben wie benutzerdefinierte Blasen (Daten und Warnungen).
+- Die Ränder, die in Blasen angezeigt werden, wenn ein Link oder Zitat angezeigt wird, werden nun nicht länger angezeigt.
+- GIF-Finder (2.16.353+) und Server Auswahl (2.16.356+) hinzugefügt.
+- Option zum Video Anruf aktivieren hinzugefügt.
+- Option zum verstecken von Kontakt und Gruppen Foto hinzugefügt
+- Text vom Antwortsender von "Texte Links" nach "Zentraler Text" Sektion in der "Gespräche" Sektion verschoben.
+- Wenn du nun auf die Änderungen anwenden Schaltfläche drückst, wird eine Dialog Box angezeigt während die Änderungen angewendet werden.
+- Arabische Sprache hinzugefügt
+- Problem gelöst, das zum erzwungenen Schließen führte, wenn man KMod von WhatsApp aus öffnete.
 - Anpassung der letzten Beta Version des Google Playstore 
 - Andere Korrekturen von Fehlern.
     </de>
     <es>
-- Nueva interfaz de ventanas flotantes para KMod.
-- Añadidos bocadillos BB SRB.
-- Añadida opción para activar nueva interfaz Status de WhatsApp (Solo para 2.16.353 o superior).
-- Añadida opción para seleccionar el idioma de KMod desde dentro de la sección Ajustes.
-- Añadido idioma Holandés.
-- Añadida opción para cambiar el color de la interfaz de KMod (Clara, Oscura, Azul).
-- Añadida opción de ocultar los mensajes leidos (Podrás ver cuando leen los mensajes enviados por ti, pero no podrán ver cuando tu lees los mensajes que recibes).
-- Añadida opción para desactivar informe de entrega (Cuando recibas un mensaje, esté no aparecerá como recibido).
-- Arreglado el problema, de cuando se ocultaba la última conexión, se quedaba siempre en línea.
+- Ahora, cuando guarde un tema, la configuración de privacidad no se guardará en éste.
+- Ahora puedes ocultar tu estado de en línea, desde el widget de WhatsApp o desde la pantalla principal del módulo (se configura desde la sección de privacidad).
+- Las burbujas de advertencia de seguridad son ahora las mismas que las burbujas personalizadas (fechas y advertencias).
+- Ahora las esquinas que se muestran en las burbujas, cuando se muestra un enlace o se cita un comentario, ya no se muestran.
+- Añadido buscador de gif (2.16.353+) y selector de servidor (2.16.356+).
+- Añadida opción para activar videollamada.
+- Añadida opción para ocultar la foto de contacto y grupos.
+- Cambiado texto de Responder, de la sección de "Texto lado izquierdo" a "Texto central" en la sección de conversaciones.
+- Ahora al pulsar el botón aplicar cambios, se muestra una ventana de dialogo mientras aplican los cambios.
+- Añadido idioma Árabe.
+- Solucionado el problema que forzaba cierre cuando entrabas a KMod desde WhatsApp.
 - Correcciones para las últimas versiones beta de Google Play.
 - Otras correcciones de errores.
     </es>
     <hi>
-- Kmod के लिए नए अस्थायी खिड़की इंटरफेस।
-- जोड़ा BB SRB बुलबुले।
-- WhatsApp (केवल 2.16.353 या अधिक) का नया इंटरफेस स्थिति सक्रिय करने के लिए विकल्प जोड़ा गया।
-- सेटिंग्स अनुभाग के भीतर से kmod भाषा का चयन करने के लिए विकल्प जोड़ा गया।
-- डच भाषा जोड़ा।
-- Kmod इंटरफेस (लाइट, डार्क, नीला) का रंग बदलने के लिए विकल्प जोड़ा गया।
-- गयी पढ़ें संदेशों को छिपाने के लिए विकल्प (आप देखने के लिए जब वे आप द्वारा भेजे गए संदेशों को पढ़ने में सक्षम हो जाएगा, लेकिन वे जब आप संदेश है कि आप प्राप्त पढ़ देखने के लिए सक्षम नहीं होगा)।
-- डिलीवरी रिपोर्ट को निष्क्रिय करने के लिए (यदि आप एक संदेश प्राप्त होता है, यह के रूप में प्राप्त दिखाई नहीं होगा) विकल्प जोड़ा गया।
+- अब, जब आप एक विषय बचाने के लिए, गोपनीयता सेटिंग्स विषय को बचाया नहीं किया जाएगा।
+- अब आप WhatsApp विजेट से ऑनलाइन अपनी स्थिति को छुपा सकते हैं, या मॉड्यूल के मुख्य स्क्रीन से (यह गोपनीयता अनुभाग से कॉन्फ़िगर किया गया है)।
+- सुरक्षा चेतावनी बुलबुले अब कस्टम बुलबुले (दिनांक और चेतावनी) के रूप में वही कर रहे हैं।
+- अब कोनों कि, बुलबुले में दिखाया जाता है जब एक लिंक प्रदर्शित किया जाता है या एक टिप्पणी उद्धृत किया गया है, प्रदर्शित नहीं रह रहे हैं।
+- GIF खोजक (2.16.353+) और सर्वर चयनकर्ता (2.16.356+) जोड़ा गया।
+- वीडियो कॉल सक्रिय करने के लिए विकल्प जोड़ा गया।
+- संपर्क फोटो और समूहों को छिपाने के लिए विकल्प जोड़ा गया।
+- उत्तर से परिवर्तित पाठ, अनुभाग "पाठ बाएँ तरफ" के लिए "पाठ सेंट्रल" बातचीत अनुभाग में से।
+- अब जब आप लागू परिवर्तन बटन दबाते हैं, एक संवाद बॉक्स जबकि परिवर्तनों को लागू करने प्रदर्शित किया जाता है।
+- जोड़ा अरबी भाषा।
+- समस्या यह है कि समापन मजबूर जब आप WhatsApp से kmod प्रवेश किया फिक्स्ड।
 - समस्या तय है, जब अंतिम कनेक्शन छिपा हुआ था, ऑनलाइन हमेशा से था।
 - गूगल के नवीनतम बीटा संस्करण के लिए सुधार खेलते हैं।
-- त्रुटियों के अन्य सुधार।
     </hi>
     <it>
-- Nuova interfaccia di KMod in una finestra flottante. 
-- Aggiunta BB SRB bolla 
-- Aggiunta opzione per attivare la nuova interfaccia per lo Stato di WhatsApp (solo su versione 2.16.353 o successive). 
-- Aggiunta opzione per selezionare la lingua di KMod dalla sezione Impostazioni. 
-- Aggiunta lingua Tedesca. 
-- Aggiunta opzione per cambiare il colore dell'interfaccia di KMod (Light, Dark, Blue). 
-- Aggiunta opzione per nascondere la doppia spunta (sarà possibile vedere i messaggi letti dai propri contatti, ma loro non saranno in grado di vedere la propria doppia spunta una volta letti). 
-- Aggiunta opzione per disattivare la seconda spunta (un messaggio ricevuto non apparirà come tale, quindi una sola spunta). 
-- Risolto il problema per cui quando si disattivava l'ultimo accesso, si risultava sempre online. 
+- Ora, con il salvataggio di un tema, le opzioni privacy non verranno salvate con il tema. 
+- È ora possibile nascondere lo status online dal widget di WhatsApp o dalla schermata principale del modulo (configurato dalla sezione privacy). 
+- Le bolle di allerta sulla sicurezza sono ora uguali alle bolle custom (date e allerte). 
+- Ora i bordi mostrati nelle bolle, quando un link è visualizzato o viene quotato un commento, non sono più visualizzate a lungo. 
+- Aggiunta ricerca gif (2.16.353+) e selettore per il server (2.16.356+).
+- Aggiunta opzione per attivare videochiamata. 
+- Aggiunta opzione per nascondere la foto del contatto e dei gruppi. 
+- Cambiato il testo dal Responder, dalla sezione "Testo lato sinistro" a "Testo Centrale" nella sezione delle conversazioni. 
+- Ora quando viene premuto il tasto applica cambiamenti, una finestra di dialogo viene visualizzata durante l'attivazione dei cambiamenti. 
+- Aggiunta lingua araba. 
+- Sistemato il problema che provocava un arresto forzato in seguito all'ingresso in KMod da WhatsApp.
 - Correzioni per le ultime versioni beta del Google Play. 
 - Altre correzioni di errori.
     </it>
 	<nl>
-- Nieuw zwevend venster uiterlijk voor KMod. 
-- Added BB SRB bubbels.
-- Optie toegevoegd voor nieuw uiterlijk van Status WhatsApp (Alleen voor 2.16.353 of hoger) 
-- Optie toegevoegd om taal van KMod te selecteren binnen KMod. 
-- Nederlandse taal toegevoegd.
-- Optie toegevoegd om de kleur van het KMod uiterlijk te veranderen (Licht, Donker, Blauw) 
-- Optie toegevoegd om "bericht gelezen" te verbergen (Je kan wel zien dat ze jou berichten hebben  gelezen, maar men kan niet zien dat je de ontvangen berichten hebt gelezen). 
-- Optie toegevoegd om verzend rapport te deactiveren (Als je een bericht ontvangt, zal het niet als ontvangen worden weergegeven). 
-- Probleem opgelost, wanneer de laatste verbinding verborgen was, als online bleef gezien. 
+- Nu, als je het thema opslaat, de privé instellingen van het thema zullen niet worden opgeslagen. 
+- Je kan nu je online status verbergen, vanuit de WhatsApp widget of het hoofd scherm van de module (het word geconfigureerd vanuit de privacy sectie). 
+- Veiligheid waarschuwing ballonnen zijn nu hetzelfde als de gewone ballonnen (datums en waarschuwingen). 
+- Nu zul je de hoeken van de ballonnen niet meer zien, als je een link ziet of als commentaar is gequote. 
+- Gif zoeker toegevoegd (2.16.353+) en server kiezer (2.16.356+).
+- Optie toegevoegd om video bellen te activeren. 
+- Optie toegevoegd om contact en groeps foto te verbergen. 
+- Tekst veranderd van ontvanger, van de sectie "Tekst linkerkant" naar "Tekst centraal" in de chat gesprekken sectie. 
+- Als je nu op de knop veranderingen doorvoeren klikt, zal je een dialoog venster zien terwijl de veranderingen worden doorgevoerd. 
+- Arabische taal toegevoegd. 
+- Het probleem van geforceerd sluiten als je naar KMod wou gaan vanuit WhatsApp, is opgelost.
 - Correcties voor de laatste beta versies van Google Play. 
 - Andere fout correcties.
 	</nl>	
     <pt>
-- Nova interface de janela flutuante para o KMod.
-- Bolhas Adicionado BB SRB.
-- Adicionado opção para ativar a nova interface Status do WhatsApp (Apenas para 2.16.353 ou superior).
-- Adicionado opção para selecionar o idioma KMod dentro da seção Configurações.
-- Adicionado idioma holandês.
-- Adicionado opção para alterar a cor da interface KMod (Light, Dark, Blue).
-- Adicionado opção para ocultar as mensagens lidas (Você poderá ver quando ler as mensagens enviadas por você, mas elas não serão capazes de ver quando você lê as mensagens que você recebe).
-- Opção adicionada para desativar o relatório de entrega (quando você receber uma mensagem, ela não aparecerá como recebida).
-- Corrigido o problema, quando a última conexão estava escondida, estava sempre online.
+- Agora, quando você salva um tema, as configurações de privacidade não serão salvas no tema.
+- Agora você pode ocultar seu status on-line, no widget WhatsApp ou na tela principal do módulo (ele é configurado na seção de privacidade).
+- As bolhas de aviso de segurança são agora as mesmas que as bolhas personalizadas (datas e avisos).
+- Agora os cantos que são mostrados nas bolhas, quando um link ou uma citação é exibido, não são mais exibidos.
+- Adicionado GIF finder (2.16.353+) e seletor de servidor (2.16.356+).
+- Adicionado opção para ativar a chamada de vídeo.
+- Adicionado opção para ocultar a foto de contato e grupos.
+- Movido texto de Responder, de "Text left side" para "Text Central" seção na seção de conversas.
+- Agora, quando você pressiona o botão aplicar alterações, uma caixa de diálogo é exibida durante a aplicação das alterações.
+- Adicionado idioma árabe.
+- Corrigido o problema que o fechamento forçado quando você digitou KMod do WhatsApp.
 - Correções para as versões beta mais recentes do Google Play.
 - Outras correcções de erros.
     </pt>
     <ru>
-- Новый интерфейс плавающих окон для KMod.
-- Добавлены BB SRB пузыри.
-- Добавлена ​​опция для активации нового интерфейса Статуса WhatsApp (только для 2.16.353 или выше).
-- Добавлена ​​опция для выбора языка KMod в разделе Настройки.
-- Добавлен голландский язык.
-- Добавлена ​​возможность менять цвет интерфейса KMod (светлый, темный, синий).
-- Добавлена ​​возможность скрывать прочитанные сообщения (Вы сможете увидеть, когда они читают сообщения, отправленные вами, но они не будут иметь возможность видеть, когда вы читаете сообщения, которые вы получаете).
-- Добавлена ​​возможность отключить отчет о доставке (Когда вы получите сообщение, оно не будет отображаться как полученое).
-- Исправлена ​​проблема, когда последний соединение было скрыто, всегда онлайн.
+- Теперь, когда Вы сохраняете темы, настройки приватности не сохраняются к теме.
+- Теперь вы можете скрывать свой статус онлайн, с виджета WhatsApp или с главного экрана модуля (он настраивается в разделе конфиденциальность).
+- Пузырьки предупреждений системы безопасности теперь такие же, как и пользовательские пузыри (даты и предупреждений).
+- Теперь уголки, которые показаны в пузырях, когда отображается ссылка или процитированный комментарий, больше не отображаются.
+- Добавлен поиск GIF (2.16.353+) и выбор сервера (2.16.356+).
+- Добавлена возможность активации видеосвязи.
+- Добавлена опция для скрытия контактов, фото и групп.
+- Изменен текст ответчика, "Текст слева" и "Центральный текст" в разделе беседы.
+- Теперь, когда вы нажимаете кнопку "применить изменения", диалоговое окно отображается при внесении изменений.
+- Добавлен Арабский язык.
+- Исправлена проблема принудительного закрытия, когда вы вошли в KMod из WhatsApp.
 - Исправления для последних бета-версий Google Play.
 - Другие исправления ошибок.
     </ru>
     <tr>
-- Kmod için yüzen pencere arayüzü
-- Katma BB SRB kabarcıklar.
-- Yeni Whatsapp durum arayüzünü aktif hale getirmek için seçenek eklendi (2.16.353 ve daha üstü sürümlerde).
-- Ayarlar kısmına Kmod dilini ayarlama seçeneği eklendi.
-- Flemenkçe dili eklendi.
-- Kmod arayüzünün rengini değiştirme seçeneği eklendi (Açık,Koyu,Mavi).
-- Okundu bilgisini gizleme eklendi (Senin tarafından gönderilen mesajları okuduklarını görebileceksin ancak aldığın mesajları okuduğunu göremeyecekler).
-- Mesaj alındı bilgisini kapatma seçeneği eklendi (Mesaj aldığında alındı bilgisi gösterilmeyecek).
-- Son görülme gizliyken çevrimiçi görünme sorunu çözüldü.
+- Artık bir temayı kayıt ettiğinizde, gizlilik ayarları tema ile birlikte kayıt edilmeyecek.
+- Artık çevrimiçi durumunuzu Whatsapp widgetinden ya da modülün ana ekranından (gizlilik kısmından ayarlanıyor) değiştirebilirsiniz.
+- Güvenlik uyarı balonları artık özel balonlarla aynı (tarih ve uyarılar).
+- Balonların köşeleri, bir bağlantı görüntülendiğinde ya da mesaj cevaplandığında, artık gösterilmiyor.
+- Gif arayıcı (2.16.353+) ve sunucu seçici (2.16.356+) eklendi.
+- Görüntülü aramayı aktif etme seçeneği eklendi.
+- Kişi fotoğraf ve gruplarını gizleme seçeneği eklendi.
+- Mesajlaşma ekranındaki kişi ya da grup resimlerini gizleme eklendi.
+- Artık ayarları uygula butonuna bastığınızda bir uyarı görüntüleniyor.
+- Arapça eklendi.
+- Kmod'a Whatsapp'tan girdiğinizde modülün çökmesine neden olan bir hata düzeltildi.
 - Son Google play beta'sı için düzeltmeler yapıldı.
 - Diğer hatalar düzeltildi.
     </tr>
