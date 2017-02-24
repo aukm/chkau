@@ -1,72 +1,51 @@
 <AppUpdater>
   <update>
-    <latestVersion>2.5.2</latestVersion>
-    <url>http://dl-xda.xposed.info/modules/kmod.xposed_v2_9dfc93.apk</url>
+    <latestVersion>2.5.3</latestVersion>
+    <url>http://dl-xda.xposed.info/modules/kmod.xposed_v2_2e6ecd.apk</url>
     <en>
-- Added avatars on screen conversation screen for contacts and groups (Groups will show the group icon, not the contact icon).
-- Added option, to make normal calls instead of WhatsApp calls, from the call button on the conversation screen.
-- Corrections for the latest beta versions of Google Play.
-- Other corrections of errors.
+- Due to the changes made in the latest versions of WhatsApp, KMod doesn't work in version 2.17.x and higher. Now this update allows you to stay in WhatsApp 2.16.396 up to 2.16.399 without showing any update messages.
+- After a while this feature can result in a WhatsApp ban if it is detected your version has not been updated, so use it at your own risk.
     </en>
     <ar>
-- اظهار صور الاشخاص والمجموعات في شاشة المحادثات (المجموعات ستظهر ايقونة المجموعة وليس ايقونة الاسم).
-- اضافة خيار لاجراء اتصال عادي من داخل تطبيق الوتساب عن طريق زر الاتصال.
-- التصحيح لاخر اصدار بيتا في جوجل بلاي.
-- اصلاح اخطاء اخرى.
+- بسبب التغييرات التي تم إجراؤها في الإصدارات الأحدث من WhatsApp، KMod لا يعمل في النسخة 2.17.x وما فوقها. الآن هذا التحديث يسمح لك بالبقاء في WhatsApp 2.16.396 حتى 2.16.399 دون أن تظهر أية رسائل التحديث.
+- وبعد فترة من الوقت يمكن أن تؤدي هذه الميزة حظرا WhatsApp إذا تم الكشف عن عدم تم تحديث الإصدار الخاص بك، حتى استخدامه على مسؤوليتك الخاصة.
     </ar>
     <bn>
-- পরিচিতি এবং দলের জন্য পর্দা কথোপকথন পর্দায় যোগ করা হয়েছে অবতার (The Groups গ্রুপ আইকন, না পরিচিতি আইকন প্রদর্শন করবে).
-- বিকল্প যোগ করা হয়েছে, কথোপকথন পর্দায় কল বোতাম থেকে হোয়াটসঅ্যাপ কলের পরিবর্তে স্বাভাবিক কল করতে.
-- গুগল এর সর্বশেষ বিটা সংস্করণ জন্য সংশোধণী খেলুন.
-- ত্রুটি অন্যান্য সংশোধন.
+- হোয়াটসঅ্যাপ এর সর্বশেষ সংস্করণে পরিবর্তন দরুন, KMod সংস্করণ 2.17.x এবং উচ্চতর মধ্যে কাজ করে না. এখন এই আপডেটে আপনি কোন আপডেট বার্তা দেখিয়ে 2.16.399 পর্যন্ত হোয়াটসঅ্যাপ 2.16.396 থাকার অনুমতি দেয়.
+- একটা সময় পরে Esta বৈশিষ্ট্য নিষিদ্ধ হোয়াটসঅ্যাপ ফলস্বরূপ যদি এটা আপনার version've আপডেট করা সনাক্ত করা হয় না, তাই আপনার নিজের ঝুঁকিতে এটি ব্যবহার করতে পারেন.
     </bn>
     <de>
-- Zusätzliche Avatare auf dem Bildschirm Konversation Bildschirm für Kontakte und Gruppen (Gruppen zeigen das Gruppen-Symbol, nicht das Kontakt-Symbol).
-- Zusätzliche Option, um normale Anrufe anstelle von WhatsApp-Anrufen von der Anruftaste auf dem Konversationsbildschirm zu machen.
-- Korrekturen für die neuesten Beta-Versionen von Google Play.
-- Sonstige Fehlerkorrekturen.
+- Aufgrund der Änderungen in den letzten Versionen von WhatsApp funktioniert KMod in Version 2.17.x und höher nicht mehr. Dieses Update erlaubt dir nun bei WhatsApp 2.16.396 bis 2.16.399 zu bleiben, ohne irgendwelche Aktualisierungsnachrichten zu erhalten.
+- Nach einer Weile kann diese Funktion zu einem WhatsApp Bann führen, wenn erkannt wird das deine Version nicht aktualisiert wurde. Deshalb benutze es auf eigene Gefahr.
     </de>
     <es>
-- Añadidos avatares en la pantalla de conversación de la pantalla de contactos y grupos (En grupos se ostrará el icono de grupo, no el icono de contacto).
-- Opción agregada, para hacer llamadas normales en lugar de llamadas de WhatsApp, desde el botón de llamada en la pantalla de conversación.
-- Correcciones para las últimas versiones beta de Google Play.
-- Otras correcciones de errores.
+- Debido a los cambios realizados en las últimas versiones de WhatsApp, KMod no funciona en las versión 2.17.x y superior. Esta actualización le permite mantenerse en WhatsApp 2.16.396 hasta 2.16.399 sin mostrar ningún mensaje de actualización.
+- Después de un tiempo esta característica puede resultar en una prohibición por parte de WhatsApp si se detecta que su versión no se ha actualizado, úselo bajo su propio riesgo.
     </es>
     <hi>
-- संपर्क और समूह के लिए स्क्रीन बातचीत स्क्रीन पर जोड़ा अवतारों (समूह समूह आइकन, नहीं संपर्क आइकन दिखाई देगा)।
-- विकल्प जोड़ा गया है, बातचीत स्क्रीन पर कॉल बटन से, WhatsApp कॉल के बजाय सामान्य कॉल करने के लिए।
-- गूगल के नवीनतम बीटा संस्करण के लिए सुधार खेलते हैं।
+- WhatsApp के नवीनतम संस्करण में किए गए परिवर्तनों के कारण, kmod संस्करण 2.17.x और उच्च में काम नहीं करता है। अब इस अद्यतन आप किसी भी अद्यतन संदेशों को दिखाने के बिना 2.16.399 अप करने के लिए WhatsApp 2.16.396 में रहने के लिए अनुमति देता है।
+- थोड़ी देर के बाद इस सुविधा का एक WhatsApp प्रतिबंध में परिणाम अगर यह अपने संस्करण अद्यतन नहीं किया गया है पता चला है, इसलिए अपने जोखिम पर उपयोग कर सकते हैं।
 - त्रुटियों के अन्य सुधार।
     </hi>
     <it>
-- Aggiunti gli avatars nella schermata delle conversazioni per contatti e gruppi (per i gruppi verrà mostrato l'avatar del gruppo, non l'avatar del contatto).
-- Aggiunta opzione per effettuare una chiamata normale invece di una chiamata WhatsApp, tramite il pulsante di chiamata nella schermata della conversazione.
-- Correzioni per le ultime versioni beta del Google Play.
-- Altre correzioni di errori.
+- A causa dei cambiamenti fatti nelle ultime versioni di WhatsApp, KMod non funziona nella versione 2.17.x e successive. Questo aggiornamento permette di rimanere nelle versioni WhatsApp da 2.16.396 fino a 2.16.399 senza mostrare alcun messaggio di aggiornamento. 
+- Dopo un certo periodo questa funzionalità può risultare come causa di potenziale ban da WhatsApp se viene individuata una versione che non è stata aggiornata, quindi va utilizzata a proprio rischio.
     </it>
     <nl>
-- Toegevoegd, avatars op conversatie scherm voor contacten en groepen (Groepen zal het groeps ikoon te zien zijn en niet het contact ikoon). 
-- Optie toegevoegd, om normaal te bellen in plaats van WhatsApp bellen via de bel knop in het conversatie scherm. 
-- Correcties voor de laatste beta versies van Google Play. 
-- Andere correcties van fouten.
+- Vanwege veranderingen in de laatste versie van WhatsApp, werkt KMod niet in versie 2.17.x en hoger. Deze update laat jou in WhatsApp 2.16.396 tot 2.16.399 werken zonder dat er update berichten te zien zijn. 
+- Na een tijd zal deze optie een ban in WhatsApp opleveren als men merkt dat je WhatsApp niet is geupdate, dus gebruiken op eigen risico.
     </nl>	
     <pt>
-- Adicionado avatares na tela tela de conversa para contatos e grupos (Grupos mostrará o ícone de grupo, não o ícone de contato).
-- Adicionado opção, para fazer chamadas normais em vez de WhatsApp chamadas, a partir do botão de chamada na tela de conversa.
-- Correções para as versões beta mais recentes do Google Play.
-- Outras correcções de erros.
+- Devido às mudanças feitas nas últimas versões do WhatsApp, kmod não funciona na versão 2.17.x e superior. Agora, esta actualização permite-lhe ficar em WhatsApp 2.16.396 até 2.16.399 sem mostrar quaisquer mensagens de atualização.
+- Depois de um tempo esse recurso pode resultar em uma proibição WhatsApp se for detectada a sua versão não foi atualizado, para usá-lo em seu próprio risco.
     </pt>
     <ru>
-- Добавлены аватары на экран разговоров, для контактов и групп (будет видна иконка группы, а не контактов)
-- Добавлена возможность совершать обычные звонки, вместо звонков WhatsApp. 
-- Добавлена поддержка последней бета версии в Google Play. 
-- Исправлены прочие ошибки.
+- Из-за изменений, сделанных в последних версиях whatsapp, KMod не работает в версии 2.17.X и выше. Это обновление позволяет Вам оставаться на Whatsapp 2.16.396 до 2.16.399, не показывая сообщения об обновлении.
+- Через некоторое время эта функция может привести к бану в whatsapp, если он будет обнаружен, т.к ваша версия не обновлялась, так что используйте его на свой страх и риск.
     </ru>
     <tr>
-- Mesajlaþma ekranýna grup ve kiþiler için profil fotoðraflarý eklendi (Gruplar kiþi yerine grup simgesini gösterir).
-- Mesajlaþma ekranýndaki arama tuþuna basýldýðýnda, Whatsapp aramasý yerine normal arama yapma seçeneði eklendi.
-- Google Playde'ki son betalar için düzeltmeler.
-- DÝðer hata düzeltmeleri.
+-WhatsApp'ın son sürümlerinde yapılan değişiklikler nedeniyle, KMod sürüm 2.17.x ve üstünde çalışmıyor. Bu güncelleştirme sayesinde WhatsApp sürümünüzü 2.16.396 ile 2.16.393 arasında herhangi bir güncelleştirme mesajıyla karşılaşmadan tutabilirsiniz.
+-Bu özellik bir süre sonra güncel olmayan WhatsApp sürümü nedeniyle yasaklanmanıza sebep olabilir, bu tehlikeyi göze alarak kullanın.
     </tr>
   </update>
 </AppUpdater>
