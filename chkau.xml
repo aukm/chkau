@@ -1,51 +1,114 @@
 <AppUpdater>
   <update>
-    <latestVersion>2.5.3</latestVersion>
-    <url>http://dl-xda.xposed.info/modules/kmod.xposed_v2_2e6ecd.apk</url>
+    <latestVersion>2.5.4</latestVersion>
+    <url>http://dl-xda.xposed.info/modules/kmod.xposed_v2_cc531f.apk</url>
     <en>
-- Due to the changes made in the latest versions of WhatsApp, KMod doesn't work in version 2.17.x and higher. Now this update allows you to stay in WhatsApp 2.16.396 up to 2.16.399 without showing any update messages.
-- After a while this feature can result in a WhatsApp ban if it is detected your version has not been updated, so use it at your own risk.
+- Added option to hide only the status tab, states and calls or all tabs.
+- Added Bubble in the "Send and Microphone" background of the chat screen.
+- Added icons for new option of Pinned chat.
+- Updated to latest versions of Google Play.
+- Fixed the option for normal calls, now add the + symbol to make the calls correctly.
+- Fixed the KMod FWA access button to start from the main menu. Now the button is kept even if you scroll through the tabs.
+- Fixed several errors.
+- KMod FWA works for all devices till Version 2.17.96. Higher Versions and betas only work on Android devices with an integrated theming.
     </en>
     <ar>
-- بسبب التغييرات التي تم إجراؤها في الإصدارات الأحدث من WhatsApp، KMod لا يعمل في النسخة 2.17.x وما فوقها. الآن هذا التحديث يسمح لك بالبقاء في WhatsApp 2.16.396 حتى 2.16.399 دون أن تظهر أية رسائل التحديث.
-- وبعد فترة من الوقت يمكن أن تؤدي هذه الميزة حظرا WhatsApp إذا تم الكشف عن عدم تم تحديث الإصدار الخاص بك، حتى استخدامه على مسؤوليتك الخاصة.
+- إضافة خيار لإخفاء فقط علامة التبويب الحالة، الدول والمكالمات أو جميع علامات التبويب.
+- وأضاف فقاعة في "إرسال وميكروفون" خلفية شاشة الدردشة.
+- الرموز المضافة لخيار جديد من دردشة مثبتة.
+- تحديث لأحدث الإصدارات من غوغل بلاي.
+- ثابت الخيار للمكالمات العادية، والآن إضافة رمز + لإجراء المكالمات بشكل صحيح.
+- إصلاح زر الوصول كمود فوا لبدء من القائمة الرئيسية. الآن يتم الاحتفاظ الزر حتى إذا كنت انتقل من خلال علامات التبويب.
+- إصلاح عدة أخطاء.
+- كمود فوا يعمل لجميع الأجهزة حتى الإصدار 2.17.96. إصدارات أعلى وبيتاس تعمل فقط على أجهزة الروبوت مع دمج متكامل.
     </ar>
     <bn>
-- হোয়াটসঅ্যাপ এর সর্বশেষ সংস্করণে পরিবর্তন দরুন, KMod সংস্করণ 2.17.x এবং উচ্চতর মধ্যে কাজ করে না. এখন এই আপডেটে আপনি কোন আপডেট বার্তা দেখিয়ে 2.16.399 পর্যন্ত হোয়াটসঅ্যাপ 2.16.396 থাকার অনুমতি দেয়.
-- একটা সময় পরে Esta বৈশিষ্ট্য নিষিদ্ধ হোয়াটসঅ্যাপ ফলস্বরূপ যদি এটা আপনার version've আপডেট করা সনাক্ত করা হয় না, তাই আপনার নিজের ঝুঁকিতে এটি ব্যবহার করতে পারেন.
+- শুধুমাত্র অবস্থা ট্যাব, রাজ্য এবং কল বা সমস্ত ট্যাবগুলি লুকানোর জন্য বিকল্পটি জুড়েছে।
+- চ্যাট স্ক্রিনের "পাঠান এবং মাইক্রোফোন" ব্যাকগ্রাউন্ডে জোড়া বাবল।
+- পিনযুক্ত চ্যাটের নতুন বিকল্পের জন্য যোগ করা আইকন।
+- Google Play এর সর্বশেষ সংস্করণগুলিতে আপডেট করা হয়েছে
+- স্বাভাবিক কলগুলির জন্য বিকল্পটি সংশোধন করে, এখন + সঠিকভাবে কল করতে সিম্বলের যোগ করুন।
+- প্রধান মেনু থেকে শুরু করার জন্য KMod FWA অ্যাক্সেস বোতামটি সংশোধন করা হয়েছে। এখন ট্যাবটি স্ক্রোল করলেও বাটনটি রাখা হয়।
+- নির্দিষ্ট কয়েকটি ত্রুটি
+- সংস্করণ 2.17.96 পর্যন্ত কেমোড এফডব্লিউএ সকল ডিভাইসের জন্য কাজ করে। উচ্চতর সংস্করণ এবং বিটা শুধুমাত্র একটি সমন্বিত থিমিং দিয়ে Android ডিভাইসগুলিতে কাজ করে।
     </bn>
     <de>
-- Aufgrund der Änderungen in den letzten Versionen von WhatsApp funktioniert KMod in Version 2.17.x und höher nicht mehr. Dieses Update erlaubt dir nun bei WhatsApp 2.16.396 bis 2.16.399 zu bleiben, ohne irgendwelche Aktualisierungsnachrichten zu erhalten.
-- Nach einer Weile kann diese Funktion zu einem WhatsApp Bann führen, wenn erkannt wird das deine Version nicht aktualisiert wurde. Deshalb benutze es auf eigene Gefahr.
-    </de>
+- Option um nur Status, Status und Anrufe oder alle Tabs zu verstecken hinzugefügt.
+- Blase dem "Sende und Mikrofon" Hintergrund der Unterhaltungsanzeige hinzugefügt.
+- Symbol für die neue Option von angepinnten Unterhaltungen hinzugefügt.
+- Aktualisiert für die aktuellsten Versionen von Google Play.
+- Option für normale Anrufe behoben, füge das + Symbol nun hinzu um Anrufe korrekt zu tätigen.
+- KMod FWA Zugangsschaltfläche zum starten aus dem Hauptmenü behoben. Nun bleibt die Schaltfläche erhalten, falls du durch die Tabs blätterst.
+- Verschieden Fehler behoben.
+- KMod FWA funktioniert für alle Geräte bis Version 2.17.96. Höhere Versionen und Betas funktionieren nur auf Android Geräten mit integrierten Themen Option.    </de>
     <es>
-- Debido a los cambios realizados en las últimas versiones de WhatsApp, KMod no funciona en las versión 2.17.x y superior. Esta actualización le permite mantenerse en WhatsApp 2.16.396 hasta 2.16.399 sin mostrar ningún mensaje de actualización.
-- Después de un tiempo esta característica puede resultar en una prohibición por parte de WhatsApp si se detecta que su versión no se ha actualizado, úselo bajo su propio riesgo.
+- Añadida opción para ocultar el tab de estado, estados y llamadas o todos los tabs.
+- Añadidos iconos para nueva opción de Fijar chat.
+- Actualización a las últimas versiones de Google Play.
+- Corregidas la opción para llamadas normales, ahora añade el símbolo + para poder realizar las llamadas correctamente.
+- Se ha corredigo el botón de acceso a KMod FWA desde el menú principal. Ahora el botón se mantiene aunque te desplaces por las pestañas.
+- Arreglados varios errores.
+- KMod FWA funciona en todos los dispositivos en la versión 2.17.96. Versiones superiores y betas, solo funcionan en dispositivos Android con tematización integrada.
     </es>
     <hi>
-- WhatsApp के नवीनतम संस्करण में किए गए परिवर्तनों के कारण, kmod संस्करण 2.17.x और उच्च में काम नहीं करता है। अब इस अद्यतन आप किसी भी अद्यतन संदेशों को दिखाने के बिना 2.16.399 अप करने के लिए WhatsApp 2.16.396 में रहने के लिए अनुमति देता है।
-- थोड़ी देर के बाद इस सुविधा का एक WhatsApp प्रतिबंध में परिणाम अगर यह अपने संस्करण अद्यतन नहीं किया गया है पता चला है, इसलिए अपने जोखिम पर उपयोग कर सकते हैं।
-- त्रुटियों के अन्य सुधार।
+- केवल स्थिति टैब, राज्यों और कॉल या सभी टैब को छिपाने के लिए विकल्प जोड़ा गया।
+- चैट स्क्रीन के "भेजें और माइक्रोफ़ोन" पृष्ठभूमि में बबल जोड़ा गया
+- पिन किए गए चैट के नए विकल्प के लिए जोड़े गए आइकन।
+- Google Play के नवीनतम संस्करण में अपडेट किया गया।
+- सामान्य कॉल के लिए विकल्प को तय किया गया, अब कॉल को सही ढंग से बनाने के लिए + प्रतीक जोड़ें।
+- मुख्य मेनू से शुरू करने के लिए केमोड एफडब्ल्यूए पहुंच बटन को फिक्स्ड किया गया। अब बटन तब भी रखा जाता है जब आप टैब के माध्यम से स्क्रॉल करें।
+- फिक्स्ड कई त्रुटियाँ
+- संस्करण 2.17.96 तक केोड एफडब्ल्यूए सभी उपकरणों के लिए काम करता है। उच्चतर संस्करण और बीटा केवल एंड्रॉइड डिवाइस पर एक एकीकृत थीम के साथ काम करते हैं।
     </hi>
     <it>
-- A causa dei cambiamenti fatti nelle ultime versioni di WhatsApp, KMod non funziona nella versione 2.17.x e successive. Questo aggiornamento permette di rimanere nelle versioni WhatsApp da 2.16.396 fino a 2.16.399 senza mostrare alcun messaggio di aggiornamento. 
-- Dopo un certo periodo questa funzionalità può risultare come causa di potenziale ban da WhatsApp se viene individuata una versione che non è stata aggiornata, quindi va utilizzata a proprio rischio.
+- Aggiunta opzione per nascondere solamente il pannello stato, il pannello stato e il pannello chiamate o tutti i pannelli.
+- Aggiunta Bolla nello sfondo "Invia e Microfono" nella schermata della chat.
+- Aggiunte icone per la nuova opzione della chat fissata.
+- Aggiornamento all'ultima versione del Google Play.
+- Sistemata l'opzione per le chiamate normali, ora aggiunto il simbolo "+" per effettuare correttamente le chiamate.
+- Sistemato il pulsante KMod FWA per iniziare dal menù principale. Ora il pulsante rimane presente anche durante lo scroll fra i pannelli.
+- Sistemati alcuni errori.
+- KMod FWA funziona su tutti i dispositivi fino alla versione 2.17.96. La versioni successive e le versioni Beta funzionano solamente sui dispositivi Android con la funzione tematizzazione integrata nel sistema.
     </it>
     <nl>
-- Vanwege veranderingen in de laatste versie van WhatsApp, werkt KMod niet in versie 2.17.x en hoger. Deze update laat jou in WhatsApp 2.16.396 tot 2.16.399 werken zonder dat er update berichten te zien zijn. 
-- Na een tijd zal deze optie een ban in WhatsApp opleveren als men merkt dat je WhatsApp niet is geupdate, dus gebruiken op eigen risico.
+- Optie toegevoegd om status tab te verbergen, status en gesprekken of alle tab-bladen. 
+- Ballon toegevoegd in het "stuur en Microfoon* achtergrond van het chat scherm. 
+- Ikonen toegevoegd voor nieuwe optie of vast gezette chat. 
+- Geupdate naar laatste versies  van Google Play. 
+- Optie voor normaal bellen gerepareerd, voeg nu de + symbool toe om correct te bellen. 
+- De KMod FWA knop gerepareerd om te starten vanuit het main menu. Nu blijft de knop, ook als je door de tab-bladen scrollt
+- Meerdere fouten hersteld. 
+- KMod FWA werkt nu op alle apparaten tot Versie 2.17.96. Hogere Versies en betas werken alleen op Android apparaten met geïntegreerde theming.
     </nl>	
     <pt>
-- Devido às mudanças feitas nas últimas versões do WhatsApp, kmod não funciona na versão 2.17.x e superior. Agora, esta actualização permite-lhe ficar em WhatsApp 2.16.396 até 2.16.399 sem mostrar quaisquer mensagens de atualização.
-- Depois de um tempo esse recurso pode resultar em uma proibição WhatsApp se for detectada a sua versão não foi atualizado, para usá-lo em seu próprio risco.
+- Adicionado opção para ocultar apenas a guia de status, estados e chamadas ou todas as guias.
+- Adicionado Bubble no fundo "Enviar e Microfone" da tela de bate-papo.
+- Adicionado ícones para a nova opção de chat fixo.
+- Atualizado para as versões mais recentes do Google Play.
+- Corrigido a opção para chamadas normais, agora adicione o símbolo + para fazer as chamadas corretamente.
+- Corrigido o botão de acesso KMod FWA para iniciar a partir do menu principal. Agora o botão é mantido mesmo se você percorrer as guias.
+- Corrigido vários erros.
+- O KMod FWA funciona para todos os dispositivos até a versão 2.17.96. Versões mais elevadas e betas só funcionam em dispositivos Android com um theming integrado.
     </pt>
     <ru>
-- Из-за изменений, сделанных в последних версиях whatsapp, KMod не работает в версии 2.17.X и выше. Это обновление позволяет Вам оставаться на Whatsapp 2.16.396 до 2.16.399, не показывая сообщения об обновлении.
-- Через некоторое время эта функция может привести к бану в whatsapp, если он будет обнаружен, т.к ваша версия не обновлялась, так что используйте его на свой страх и риск.
+- Добавлена опция скрытия только вкладки состояния, состояний и вызовов или всех вкладок.
+- Добавлен Bubble на фоне «Send and Microphone» экрана чата.
+- Добавлены значки для новой возможности чата.
+- Обновлены до последних версий Google Play.
+- Исправлена опция для обычных звонков, теперь добавьте символ +, чтобы правильно звонить.
+- Исправлена кнопка доступа KMod FWA для запуска из главного меню. Теперь кнопка сохраняется даже при прокрутке вкладок.
+- Исправлено несколько ошибок.
+- KMod FWA работает для всех устройств до версии 2.17.96. Высшие версии и бета-версии работают только на Android-устройствах со встроенной тематикой.
     </ru>
     <tr>
--WhatsApp'ın son sürümlerinde yapılan değişiklikler nedeniyle, KMod sürüm 2.17.x ve üstünde çalışmıyor. Bu güncelleştirme sayesinde WhatsApp sürümünüzü 2.16.396 ile 2.16.393 arasında herhangi bir güncelleştirme mesajıyla karşılaşmadan tutabilirsiniz.
--Bu özellik bir süre sonra güncel olmayan WhatsApp sürümü nedeniyle yasaklanmanıza sebep olabilir, bu tehlikeyi göze alarak kullanın.
+-Durum sekmesi, durum ve arama sekmesi ya da tüm sekmeleri gizleme seçeneği eklendi.
+-"Gönder ve mikrofon" tuşunun arkaplanına balon eklendi.
+-Sabitlenen mesajlaşmalar için simgeler eklendi.
+-Google Play'de ki son sürüm için güncellendi.
+-Normal aramalar düzeltildi, + sembolünü ekleyerek arama yapabilirsiniz.
+-KMod FWA uygulama butonu düzeltildi. Artık buton sekmeler arasında gezseniz dahi yerini koruyor.
+-Bir kaç hata düzeltildi.
+-KMod FWA sürüm 2.17.96'ya kadar olan tüm cihazlarda çalışıyor. Daha yüksek sürümler ve betalar ise sadece dahili tema desteğine sahip Android cihazlarda çalışıyor.
     </tr>
   </update>
 </AppUpdater>
