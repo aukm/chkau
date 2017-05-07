@@ -1,7 +1,7 @@
 <AppUpdater>
   <update>
     <latestVersion>2.5.5</latestVersion>
-    <url>http://dl-xda.xposed.info/modules/kmod.xposed_v2_9aa009.apk</url>
+    <url></url>
     <en>
 - Added 3 highlight for contacts.
 - Fixed highlights for contact and group.
