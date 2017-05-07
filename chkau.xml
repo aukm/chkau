@@ -1,114 +1,61 @@
 <AppUpdater>
   <update>
-    <latestVersion>2.5.4</latestVersion>
-    <url>http://dl-xda.xposed.info/modules/kmod.xposed_v2_cc531f.apk</url>
+    <latestVersion>2.5.5</latestVersion>
+    <url>http://dl-xda.xposed.info/modules/kmod.xposed_v2_9aa009.apk</url>
     <en>
-- Added option to hide only the status tab, states and calls or all tabs.
-- Added Bubble in the "Send and Microphone" background of the chat screen.
-- Added icons for new option of Pinned chat.
-- Updated to latest versions of Google Play.
-- Fixed the option for normal calls, now add the + symbol to make the calls correctly.
-- Fixed the KMod FWA access button to start from the main menu. Now the button is kept even if you scroll through the tabs.
-- Fixed several errors.
-- KMod FWA works for all devices till Version 2.17.96. Higher Versions and betas only work on Android devices with an integrated theming.
+- Added 3 highlight for contacts.
+- Fixed highlights for contact and group.
+- Fixed the eye of the widget.
     </en>
     <ar>
-- إضافة خيار لإخفاء فقط علامة التبويب الحالة، الدول والمكالمات أو جميع علامات التبويب.
-- وأضاف فقاعة في "إرسال وميكروفون" خلفية شاشة الدردشة.
-- الرموز المضافة لخيار جديد من دردشة مثبتة.
-- تحديث لأحدث الإصدارات من غوغل بلاي.
-- ثابت الخيار للمكالمات العادية، والآن إضافة رمز + لإجراء المكالمات بشكل صحيح.
-- إصلاح زر الوصول كمود فوا لبدء من القائمة الرئيسية. الآن يتم الاحتفاظ الزر حتى إذا كنت انتقل من خلال علامات التبويب.
-- إصلاح عدة أخطاء.
-- كمود فوا يعمل لجميع الأجهزة حتى الإصدار 2.17.96. إصدارات أعلى وبيتاس تعمل فقط على أجهزة الروبوت مع دمج متكامل.
+- أضيفت 3 تسليط الضوء على الاتصالات.
+- أبرز الثابتة للاتصال ومجموعة.
+- إصلاح العين من القطعة.
     </ar>
     <bn>
-- শুধুমাত্র অবস্থা ট্যাব, রাজ্য এবং কল বা সমস্ত ট্যাবগুলি লুকানোর জন্য বিকল্পটি জুড়েছে।
-- চ্যাট স্ক্রিনের "পাঠান এবং মাইক্রোফোন" ব্যাকগ্রাউন্ডে জোড়া বাবল।
-- পিনযুক্ত চ্যাটের নতুন বিকল্পের জন্য যোগ করা আইকন।
-- Google Play এর সর্বশেষ সংস্করণগুলিতে আপডেট করা হয়েছে
-- স্বাভাবিক কলগুলির জন্য বিকল্পটি সংশোধন করে, এখন + সঠিকভাবে কল করতে সিম্বলের যোগ করুন।
-- প্রধান মেনু থেকে শুরু করার জন্য KMod FWA অ্যাক্সেস বোতামটি সংশোধন করা হয়েছে। এখন ট্যাবটি স্ক্রোল করলেও বাটনটি রাখা হয়।
-- নির্দিষ্ট কয়েকটি ত্রুটি
-- সংস্করণ 2.17.96 পর্যন্ত কেমোড এফডব্লিউএ সকল ডিভাইসের জন্য কাজ করে। উচ্চতর সংস্করণ এবং বিটা শুধুমাত্র একটি সমন্বিত থিমিং দিয়ে Android ডিভাইসগুলিতে কাজ করে।
+- পরিচিতির জন্য 3 টি হাইলাইট যুক্ত করেছে
+- যোগাযোগ এবং গ্রুপ জন্য নির্দিষ্ট হাইলাইট।
+- উইজেট এর চোখের স্থির।
     </bn>
     <de>
-- Option um nur Status, Status und Anrufe oder alle Tabs zu verstecken hinzugefügt.
-- Blase dem "Sende und Mikrofon" Hintergrund der Unterhaltungsanzeige hinzugefügt.
-- Symbol für die neue Option von angepinnten Unterhaltungen hinzugefügt.
-- Aktualisiert für die aktuellsten Versionen von Google Play.
-- Option für normale Anrufe behoben, füge das + Symbol nun hinzu um Anrufe korrekt zu tätigen.
-- KMod FWA Zugangsschaltfläche zum starten aus dem Hauptmenü behoben. Nun bleibt die Schaltfläche erhalten, falls du durch die Tabs blätterst.
-- Verschieden Fehler behoben.
-- KMod FWA funktioniert für alle Geräte bis Version 2.17.96. Höhere Versionen und Betas funktionieren nur auf Android Geräten mit integrierten Themen Option.    </de>
+- 3 Projektionen für Kontakte hinzugefügt.
+- Feste Kontakt- und Gruppen-Highlights.
+- Das Auge des Widgets wurde behoben.
+	</de>
     <es>
-- Añadida opción para ocultar el tab de estado, estados y llamadas o todos los tabs.
-- Añadidos iconos para nueva opción de Fijar chat.
-- Actualización a las últimas versiones de Google Play.
-- Corregida la opción para llamadas normales, ahora añade el símbolo + para poder realizar las llamadas correctamente.
-- Se ha corredigo el botón de acceso a KMod FWA desde el menú principal. Ahora el botón se mantiene aunque te desplaces por las pestañas.
-- Arreglados varios errores.
-- KMod FWA funciona en todos los dispositivos en la versión 2.17.96. Versiones superiores y betas, solo funcionan en dispositivos Android con tematización integrada.
+- Se han añadido 3 resaltes para los contactos.
+- Arreglados resaltes para contactos y grupos.
+- Corregido el ojo del widget.
     </es>
     <hi>
-- केवल स्थिति टैब, राज्यों और कॉल या सभी टैब को छिपाने के लिए विकल्प जोड़ा गया।
-- चैट स्क्रीन के "भेजें और माइक्रोफ़ोन" पृष्ठभूमि में बबल जोड़ा गया
-- पिन किए गए चैट के नए विकल्प के लिए जोड़े गए आइकन।
-- Google Play के नवीनतम संस्करण में अपडेट किया गया।
-- सामान्य कॉल के लिए विकल्प को तय किया गया, अब कॉल को सही ढंग से बनाने के लिए + प्रतीक जोड़ें।
-- मुख्य मेनू से शुरू करने के लिए केमोड एफडब्ल्यूए पहुंच बटन को फिक्स्ड किया गया। अब बटन तब भी रखा जाता है जब आप टैब के माध्यम से स्क्रॉल करें।
-- फिक्स्ड कई त्रुटियाँ
-- संस्करण 2.17.96 तक केोड एफडब्ल्यूए सभी उपकरणों के लिए काम करता है। उच्चतर संस्करण और बीटा केवल एंड्रॉइड डिवाइस पर एक एकीकृत थीम के साथ काम करते हैं।
+- संपर्कों के लिए 3 अनुमान जोड़े गए
+- फिक्स्ड संपर्क और समूह हाइलाइट्स।
+- विजेट की आंख फिक्स्ड।
     </hi>
     <it>
-- Aggiunta opzione per nascondere solamente il pannello stato, il pannello stato e il pannello chiamate o tutti i pannelli.
-- Aggiunta Bolla nello sfondo "Invia e Microfono" nella schermata della chat.
-- Aggiunte icone per la nuova opzione della chat fissata.
-- Aggiornamento all'ultima versione del Google Play.
-- Sistemata l'opzione per le chiamate normali, ora aggiunto il simbolo "+" per effettuare correttamente le chiamate.
-- Sistemato il pulsante KMod FWA per iniziare dal menù principale. Ora il pulsante rimane presente anche durante lo scroll fra i pannelli.
-- Sistemati alcuni errori.
-- KMod FWA funziona su tutti i dispositivi fino alla versione 2.17.96. La versioni successive e le versioni Beta funzionano solamente sui dispositivi Android con la funzione tematizzazione integrata nel sistema.
+- ha aggiunto 3 proiezioni per i contatti.
+- Contatto fisso e sali mette in gruppo.
+- Fissa l'occhio del widget.
     </it>
     <nl>
-- Optie toegevoegd om status tab te verbergen, status en gesprekken of alle tab-bladen. 
-- Ballon toegevoegd in het "stuur en Microfoon* achtergrond van het chat scherm. 
-- Ikonen toegevoegd voor nieuwe optie of vast gezette chat. 
-- Geupdate naar laatste versies  van Google Play. 
-- Optie voor normaal bellen gerepareerd, voeg nu de + symbool toe om correct te bellen. 
-- De KMod FWA knop gerepareerd om te starten vanuit het main menu. Nu blijft de knop, ook als je door de tab-bladen scrollt
-- Meerdere fouten hersteld. 
-- KMod FWA werkt nu op alle apparaten tot Versie 2.17.96. Hogere Versies en betas werken alleen op Android apparaten met geïntegreerde theming.
+- Lagt til 3 projeksjoner for kontakter.
+- Fast kontakt og gruppe høydepunkter.
+- Feste øyet av widgeten.
     </nl>	
     <pt>
-- Adicionado opção para ocultar apenas a guia de status, estados e chamadas ou todas as guias.
-- Adicionado Bubble no fundo "Enviar e Microfone" da tela de bate-papo.
-- Adicionado ícones para a nova opção de chat fixo.
-- Atualizado para as versões mais recentes do Google Play.
-- Corrigido a opção para chamadas normais, agora adicione o símbolo + para fazer as chamadas corretamente.
-- Corrigido o botão de acesso KMod FWA para iniciar a partir do menu principal. Agora o botão é mantido mesmo se você percorrer as guias.
-- Corrigido vários erros.
-- O KMod FWA funciona para todos os dispositivos até a versão 2.17.96. Versões mais elevadas e betas só funcionam em dispositivos Android com um theming integrado.
+- Adicionado 3 projeções para contatos.
+- Fixo contato e destaques de grupo.
+- Corrigido o olho do widget.
     </pt>
     <ru>
-- Добавлена опция скрытия только вкладки состояния, состояний и вызовов или всех вкладок.
-- Добавлен Bubble на фоне «Send and Microphone» экрана чата.
-- Добавлены значки для новой возможности чата.
-- Обновлены до последних версий Google Play.
-- Исправлена опция для обычных звонков, теперь добавьте символ +, чтобы правильно звонить.
-- Исправлена кнопка доступа KMod FWA для запуска из главного меню. Теперь кнопка сохраняется даже при прокрутке вкладок.
-- Исправлено несколько ошибок.
-- KMod FWA работает для всех устройств до версии 2.17.96. Высшие версии и бета-версии работают только на Android-устройствах со встроенной тематикой.
+- Добавлены 3 прогноза для контактов.
+- Исправлены контакты и групповые блики.
+- Исправлен глаз виджета.
     </ru>
     <tr>
--Durum sekmesi, durum ve arama sekmesi ya da tüm sekmeleri gizleme seçeneği eklendi.
--"Gönder ve mikrofon" tuşunun arkaplanına balon eklendi.
--Sabitlenen mesajlaşmalar için simgeler eklendi.
--Google Play'de ki son sürüm için güncellendi.
--Normal aramalar düzeltildi, + sembolünü ekleyerek arama yapabilirsiniz.
--KMod FWA uygulama butonu düzeltildi. Artık buton sekmeler arasında gezseniz dahi yerini koruyor.
--Bir kaç hata düzeltildi.
--KMod FWA sürüm 2.17.96'ya kadar olan tüm cihazlarda çalışıyor. Daha yüksek sürümler ve betalar ise sadece dahili tema desteğine sahip Android cihazlarda çalışıyor.
+- Kişiler için 3 projeksiyon eklendi.
+- Sabit temas ve grup vurguluyor.
+- Widget göz düzeltildi.
     </tr>
   </update>
 </AppUpdater>
