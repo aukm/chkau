@@ -1,61 +1,102 @@
 <AppUpdater>
   <update>
-    <latestVersion>2.5.5</latestVersion>
-    <url>http://dl-xda.xposed.info/modules/kmod.xposed_v2_eaca57.apk</url>
+    <latestVersion>2.5.6</latestVersion>
+    <url>http://dl-xda.xposed.info/modules/kmod.xposed_v2_7217e4.apk</url>
     <en>
-- Added 3 highlight for contacts.
-- Fixed highlights for contact and group.
-- Fixed the eye of the widget.
+- Added options to hide writing and recording audio in the privacy section.
+- Added option to hide when connected from within WhatsApp.
+- Added French language.
+- Delete the privacy option to see the last connection of the others and hide the own, until  problem solved.
+- Delete KMod shortcut button from WhatsApp Settings, now accessed with the menu button on the main interface.
+- Fixed other issues.
     </en>
     <ar>
-- أضيفت 3 تسليط الضوء على الاتصالات.
-- أبرز الثابتة للاتصال ومجموعة.
-- إصلاح العين من القطعة.
+- إضافة خيارات، لإخفاء الكتابة وسجل الصوت، في قسم الخصوصية.
+- إضافة خيار لإخفاء عند الاتصال من داخل ال واتساب.
+- إضافة اللغة الفرنسية.
+- حذف خيار الخصوصية لمعرفة آخر اتصال للآخرين وإخفاء الخاصة، حتى حل المشكلة.
+- حذف زر كمود الاختصار من إعدادات ال واتساب، والوصول إليها الآن مع زر القائمة على الواجهة الرئيسية.
+- قضايا أخرى ثابتة.
     </ar>
     <bn>
-- পরিচিতির জন্য 3 টি হাইলাইট যুক্ত করেছে
-- যোগাযোগ এবং গ্রুপ জন্য নির্দিষ্ট হাইলাইট।
-- উইজেট এর চোখের স্থির।
+- গোপনীয়তা বিভাগে লেখার এবং রেকর্ড অডিও লুকানোর জন্য বিকল্পগুলি যোগ করা হয়েছে
+- হোয়াটসঅ্যাপের মধ্যে থেকে সংযুক্ত যখন সংযুক্ত করার জন্য বিকল্পটি যুক্ত করা হয়েছে
+- ফ্রেঞ্চ ভাষা যোগ করা হয়েছে
+- সমস্যাটি সমাধান না হওয়া পর্যন্ত, অন্যদের শেষ সংযোগটি দেখতে এবং গোপন করার গোপনীয়তা বিকল্পটি মুছুন।
+- হোয়াটসঅ্যাপ সেটিংস থেকে কেমোড শর্টকাট বোতাম মুছুন, এখন প্রধান ইন্টারফেসের মেনু বোতামের সাথে অ্যাক্সেস করুন।
+- স্থির অন্যান্য সমস্যা।
     </bn>
     <de>
-- 3 Projektionen für Kontakte hinzugefügt.
-- Feste Kontakt- und Gruppen-Highlights.
-- Das Auge des Widgets wurde behoben.
+- Option zum verstecken von schreibt und nimmt Audio auf, in der Privatsphäre Sektion hinzugefügt. 
+- Option zum verstecken wann man verbunden ist innerhalb von WhatsApp hinzugefügt. 
+- Französische Sprache hinzugefügt. 
+- Privatsphäre Option, um andere letzte Verbindung zu sehen und eigene zu verstecken, gelöscht, bis Problem gelöst ist. 
+- KMod Verknüpfungsschaltfläche in den WhatsApp Einstellungen gelöscht, nun von der Menüschaltfläche im Hauptbildschirm aus erreichbar. 
+- Andere Probleme gelöst.
 	</de>
     <es>
-- Se han añadido 3 resaltes para los contactos.
-- Arreglados resaltes para contactos y grupos.
-- Corregido el ojo del widget.
+- Añadidas opciones, para ocultar Escribiendo y Grabando audio, en la sección de privacidad.
+- Añadida opción para ocultar cuando se está conectado desde dentro de WhatsApp.
+- Añadido idioma Frances.
+- Borrada la opción de privacidad para ver la última conexión de los demás y ocultar la propia, hasta solucionar el problema.
+- Borrado botón de acceso directo a KMod desde Ajustes de WhatsApp, ahora se accede con el botón de menu de la interfaz principal.
+- Arreglados otros problemas.
     </es>
+    <fr>
+- Ajout d'options pour cacher l'écriture et l'enregistrement d'audio dans la section de confidentialité.
+- Ajout d'une option pour se cacher lorsqu'elle est connectée dans WhatsApp.
+- Ajout de langue française.
+- Supprimer l'option de confidentialité pour voir la dernière connexion des autres et cacher les propres, jusqu'à ce que le problème soit résolu.
+- Supprimez le bouton raccourci KMod à partir des paramètres de WhatsApp, maintenant accessible avec le bouton de menu sur l'interface principale.
+- Correction d'autres problèmes.
+    </fr>
     <hi>
-- संपर्कों के लिए 3 अनुमान जोड़े गए
-- फिक्स्ड संपर्क और समूह हाइलाइट्स।
-- विजेट की आंख फिक्स्ड।
+- गोपनीयता अनुभाग में, लिखने और रिकॉर्ड ऑडियो को छिपाने के लिए, विकल्प जोड़े गए।
+- व्हाट्सएप के अंदर से जुड़े होने पर छिपाने के लिए विकल्प जोड़ा गया।
+- फ्रेंच भाषा जोड़ा गया
+- समस्या का समाधान करने तक, दूसरे के अंतिम कनेक्शन को देखने और खुद को छुपाने के लिए गोपनीयता विकल्प को हटा दें।
+- व्हाट्सएप सेटिंग्स से केमोद शॉर्टकट बटन को हटाएं, जो अब मुख्य इंटरफ़ेस पर मेनू बटन से पहुंचा है।
+- फिक्स्ड अन्य मुद्दों।
     </hi>
     <it>
-- ha aggiunto 3 proiezioni per i contatti.
-- Contatto fisso e sali mette in gruppo.
-- Fissa l'occhio del widget.
+- Aggiunta opzione per nascondere la scritta "sta scrivendo" e "sta registrando audio", nelle opzioni Privacy. 
+- Aggiunta opzione per nascondersi quando collegati da WhatsApp. 
+- Aggiunta lingua francese. 
+- Eliminata l'opzione privacy per vedere l'ultima connessione degli altri contatti nascondendo la propria, fino alla risoluzione del problema. 
+- Eliminato il pulsante con il collegamento a KMod dai settaggi di WhatsApp, ora accessibile con il pulsante menù nell'interfaccia principale. 
+- Sistemati altri problemi. 
     </it>
     <nl>
-- Lagt til 3 projeksjoner for kontakter.
-- Fast kontakt og gruppe høydepunkter.
-- Feste øyet av widgeten.
+- Opties toegevoegd, om schrijf en opnemen van audio in het privé sectie.
+- Optie toegevoegd om je te verbergen als je verbonden bent in WhatsApp. 
+- Franse taal toegevoegd. 
+- Privé optie verwijderd van laatst geziene verbinding en ook dat van andere totdat het probleem is opgelost. 
+- KMod snelkoppeling verwijderd uit de WhatsApp instellingen, dat staat nu met menu knop in het hoofd menu. 
+- Andere problemen verholpen.
     </nl>	
     <pt>
-- Adicionado 3 projeções para contatos.
-- Fixo contato e destaques de grupo.
-- Corrigido o olho do widget.
+- Adicionado opções, para ocultar gravação e gravação de áudio, na seção de privacidade.
+- Adicionado opção para ocultar quando conectado a partir do WhatsApp.
+- Adicionado idioma francês.
+- Excluída a opção de privacidade para ver a última conexão dos outros e esconder o próprio, até resolver o problema.
+- Excluída KMod atalho botão de WhatsApp Configurações, agora acessado com o botão de menu na interface principal.
+- Corrigido outros problemas.
     </pt>
     <ru>
-- Добавлены 3 прогноза для контактов.
-- Исправлены контакты и групповые блики.
-- Исправлен глаз виджета.
+- Добавлены опции, чтобы скрыть написание сообщения и записи аудио, в разделе конфиденциальность.
+- Добавлена возможность скрывать подключение внутри WhatsApp.
+- Добавлен французский язык.
+- Удалены параметры конфиденциальности, видеть последнее подключение других и скрывать собственные, пока не решу проблему.
+- Удалена кнопка ярлыка KMod из настроек whatsapp, теперь она доступна в меню на главном экране. 
+- Другие мелкие исправления.
     </ru>
     <tr>
-- Kişiler için 3 projeksiyon eklendi.
-- Sabit temas ve grup vurguluyor.
-- Widget göz düzeltildi.
+- Gizlilik sekmesine ses kaydı ve mesaj gönderme bilgilendirmelerini gizleme ayarı eklendi.
+- Çevrimiçi bilgilendirmesini gizleme eklendi.
+- Fransızca eklendi.
+- Son görülme'yi gizleme ayarı problemler çözülünceye kadar silindi.
+- WhatsApp ayarlarından KMod kısayolu silindi, artık ana ekran menüsünden erişim sağlayabillirsiniz.
+- Bazı hatalar giderildi.
     </tr>
   </update>
 </AppUpdater>
