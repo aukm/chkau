@@ -1,102 +1,198 @@
 <AppUpdater>
   <update>
-    <latestVersion>2.5.6</latestVersion>
-    <url>http://dl-xda.xposed.info/modules/kmod.xposed_v2_7217e4.apk</url>
+    <latestVersion>2.5.7</latestVersion>
+    <url>http://dl-xda.xposed.info/modules/kmod.xposed_v2_37cccd.apk</url>
     <en>
-- Added options to hide writing and recording audio in the privacy section.
-- Added option to hide when connected from within WhatsApp.
-- Added French language.
-- Delete the privacy option to see the last connection of the others and hide the own, until  problem solved.
-- Delete KMod shortcut button from WhatsApp Settings, now accessed with the menu button on the main interface.
-- Fixed other issues.
+- Added load screen for KMod FWA, this screen will display the time it takes to load the application (no extra time).
+- Added again the option to hide last connection, but be able to see the connection of your contacts.
+- Added icons in the status section.
+- Now the Tabs called and states can be hidden independently.
+- Added new privacy option, to hide contacts or groups in the list of chats (These will not be seen even when they send you messages.)
+- New option of highlighting contacts and groups. Now you can choose up to 8 positions of colors, and in each position, as many contacts or groups as you want.
+- Added option to perform searches of contacts or groups, in the two previous options.
+- Fixed option to hide Tabs.
+- Fixed privacy options.
+- Restricted access to Android 7+ until Xposed will be fully functional for Nougat (currently does not work with resources).
+- Removed support for versions lower than 2.17.287.
+- Deleted section of error log. Now you have to check the errors in the Xposed registry.
+- Optimization of the code.
+- Fixed other errors.
     </en>
     <ar>
-- إضافة خيارات، لإخفاء الكتابة وسجل الصوت، في قسم الخصوصية.
-- إضافة خيار لإخفاء عند الاتصال من داخل ال واتساب.
-- إضافة اللغة الفرنسية.
-- حذف خيار الخصوصية لمعرفة آخر اتصال للآخرين وإخفاء الخاصة، حتى حل المشكلة.
-- حذف زر كمود الاختصار من إعدادات ال واتساب، والوصول إليها الآن مع زر القائمة على الواجهة الرئيسية.
-- قضايا أخرى ثابتة.
+- وأضاف تحميل الشاشة ل كمود فوا، هذه الشاشة سوف يعرض الوقت الذي يستغرقه لتحميل التطبيق (أي وقت إضافي).
+- أضيفت مرة أخرى الخيار لإخفاء آخر اتصال، ولكن تكون قادرا على رؤية اتصال جهات الاتصال الخاصة بك.
+- أضيفت الرموز في قسم الحالة.
+- الآن تابس دعا والدول يمكن أن تكون مخفية بشكل مستقل.
+- إضافة خيار الخصوصية الجديدة، لإخفاء جهات الاتصال أو المجموعات في قائمة الدردشات (لن ينظر إلى هذه حتى عندما يرسلون لك رسائل.)
+- خيار جديد لتسليط الضوء على الاتصالات والمجموعات. الآن يمكنك اختيار ما يصل إلى 8 مواقف من الألوان، وفي كل موقف، والعديد من الاتصالات أو المجموعات على النحو الذي تريد.
+- إضافة خيار لإجراء عمليات البحث من جهات الاتصال أو المجموعات، في الخيارين السابقين.
+- الخيار الثابت لإخفاء علامات التبويب.
+- خيارات الخصوصية الثابتة.
+- تقييد الوصول إلى الروبوت 7+ حتى كبوسد سوف تعمل بكامل طاقتها لنوغات (حاليا لا يعمل مع الموارد).
+- إزالة دعم الإصدارات أقل من 2.17.287.
+- القسم المحذوف من سجل الأخطاء. الآن لديك للتحقق من الأخطاء في التسجيل كبوسد.
+- التحسين من التعليمات البرمجية.
+- أخطاء أخرى ثابتة.
     </ar>
     <bn>
-- গোপনীয়তা বিভাগে লেখার এবং রেকর্ড অডিও লুকানোর জন্য বিকল্পগুলি যোগ করা হয়েছে
-- হোয়াটসঅ্যাপের মধ্যে থেকে সংযুক্ত যখন সংযুক্ত করার জন্য বিকল্পটি যুক্ত করা হয়েছে
-- ফ্রেঞ্চ ভাষা যোগ করা হয়েছে
-- সমস্যাটি সমাধান না হওয়া পর্যন্ত, অন্যদের শেষ সংযোগটি দেখতে এবং গোপন করার গোপনীয়তা বিকল্পটি মুছুন।
-- হোয়াটসঅ্যাপ সেটিংস থেকে কেমোড শর্টকাট বোতাম মুছুন, এখন প্রধান ইন্টারফেসের মেনু বোতামের সাথে অ্যাক্সেস করুন।
-- স্থির অন্যান্য সমস্যা।
+- কেমোড FWA- এর জন্য লোড স্ক্রীন যোগ করা হয়েছে, এই পর্দাটি অ্যাপ্লিকেশন (অতিরিক্ত সময়) লোড করতে সময় লাগবে।
+- শেষ সংযোগটি আবার গোপন করার জন্য পুনরায় বিকল্পটি যোগ করুন, তবে আপনার পরিচিতিগুলির সংযোগ দেখতে সক্ষম হবেন।
+- অবস্থা বিভাগে আইকন যোগ করা হয়েছে
+- এখন ট্যাবগুলি বলা হয় এবং স্টেটগুলি স্বাধীনভাবে লুকানো যায়।
+- চ্যাটের তালিকায় পরিচিতি বা গোষ্ঠীগুলিকে লুকানোর জন্য নতুন গোপনীয়তা বিকল্প যুক্ত করা হয়েছে (তারা আপনাকে বার্তা পাঠালেও তা দেখা যাবে না।)
+- পরিচিতি এবং গ্রুপ হাইলাইট নতুন বিকল্প এখন আপনি রং 8 পদের নির্বাচন করতে পারেন, এবং প্রতিটি অবস্থানে, আপনি চান হিসাবে অনেক পরিচিতি বা গোষ্ঠী হিসাবে।
+- দুটি পূর্ববর্তী বিকল্পগুলিতে পরিচিতি বা গোষ্ঠীগুলি অনুসন্ধান করার জন্য যোগ করা বিকল্প।
+- ট্যাব আড়াল করার জন্য ফিক্সড বিকল্প
+- স্থায়ী গোপনীয়তা অপশন
+- Nougat (বর্তমানে সম্পদ সঙ্গে কাজ করে না) জন্য Xposed সম্পূর্ণরূপে কার্যকরী হবে পর্যন্ত অ্যান্ড্রয়েড 7+ থেকে সীমাবদ্ধ অ্যাক্সেস।
+- 2.17.287 এর চেয়ে কম সংস্করণগুলির জন্য সরানো সমর্থন
+- ত্রুটি লগ এর মুছে ফেলা বিভাগ। এখন আপনি Xposed রেজিস্ট্রি মধ্যে ত্রুটি পরীক্ষা করতে হবে
+- কোড অপ্টিমাইজেশান
+- অন্যান্য ত্রুটি সংশোধন
     </bn>
     <de>
-- Option zum verstecken von schreibt und nimmt Audio auf, in der Privatsphäre Sektion hinzugefügt. 
-- Option zum verstecken wann man verbunden ist innerhalb von WhatsApp hinzugefügt. 
-- Französische Sprache hinzugefügt. 
-- Privatsphäre Option, um andere letzte Verbindung zu sehen und eigene zu verstecken, gelöscht, bis Problem gelöst ist. 
-- KMod Verknüpfungsschaltfläche in den WhatsApp Einstellungen gelöscht, nun von der Menüschaltfläche im Hauptbildschirm aus erreichbar. 
-- Andere Probleme gelöst.
+- Ladebildschirm für KMod FWA hinzugefügt, dieser Bildschirm zeigt an wie viel Zeit benötigt wird die Anwendung zu laden (keine zusätzliche Zeit).
+- Option zum verstecken der letzten Verbindung, aber in der Lage zu sein die Verbindungen deiner Kontakte zu sehen, wieder hinzugefügt.
+- Symbole im Status Bereich hinzugefügt. 
+- Die Reiter Anrufe und Status können nun unabhängig versteckt werden.
+- Neue Privatsphärenoption, zum verstecken von Kontakten oder Gruppen in der Liste der Gespräche, hinzugefügt. (Diese sind nicht sichtbar, selbst wenn sie dir Nachrichten zu schicken.)
+- Neue Option zum hervorheben von Kontakten und Gruppen. Nun kannst du bis zu 8 Positionen von Farben auswählen und in jeder Position so viele Kontakte oder Gruppen wie du willst.
+- Option um Suchen von Kontakten oder Gruppen, in den vorherigen beiden Optionen, zu ermöglichen hinzugefügt.
+- Option um Reiter zu verstecken repariert.
+- Privatsphäre Optionen repariert.
+- Zugriff für Android 7+ verweigert, bis Xposed voll funktional unter Nougat sein wird (derzeit funktionieren Einsatzmittel nicht).
+- Unterstützung für Versionen niedriger als 2.17.287 entfernt.
+- Fehlerbericht Bereich gelöscht. Nun musst du die Fehler in der Xposed Registrierung überprüfen.
+- Optimierungen des Codes.
+- Andere Fehler behoben.
 	</de>
     <es>
-- Añadidas opciones, para ocultar Escribiendo y Grabando audio, en la sección de privacidad.
-- Añadida opción para ocultar cuando se está conectado desde dentro de WhatsApp.
-- Añadido idioma Frances.
-- Borrada la opción de privacidad para ver la última conexión de los demás y ocultar la propia, hasta solucionar el problema.
-- Borrado botón de acceso directo a KMod desde Ajustes de WhatsApp, ahora se accede con el botón de menu de la interfaz principal.
-- Arreglados otros problemas.
+- Añadida pantalla de carga de KMod, esta pantalla se mostrará el tiempo que tarde en cargar la aplicacion (no tiene tiempo extra).
+- Añadida de nueva la opción de ocultar última conexión, y poder ver la de la nuestros contactos.
+- Addidos iconos en la sección estados.
+- Ahora los Tabs llamadas y estados, se pueden ocultar independientemente.
+- Añadida nueva opción de privacidad, para ocultar contactos o grupos en la lista de chats (estos no se verán ni cuando nos manden mensajes).
+- Nueva opción de resalte de contactos y grupos, hora puedes elegir hasta 8 posiciones de colores, y en cada posición, tantos contactos o grupos como se quiera.
+- Añadida opción para poder realizar busquedas de contactos o grupos, en las dos opciones anteriores.
+- Arreglada opción de ocultar TABS.
+- Arregladas opciones de privacidad.
+- Acceso restringido a Android 7+ hasta que Xposed sea totalmente funcional para Nougat (actualmente no funciona con recursos).
+- Eliminado el soporte para versiones inferiores a la 2.17.287.
+- Eliminada sección del registro de errores. Ahora se consultan los errores en el registro de Xposed.
+- Optimización del código.
+- Arreglados otros errores.
     </es>
     <fr>
-- Ajout d'options pour cacher l'écriture et l'enregistrement d'audio dans la section de confidentialité.
-- Ajout d'une option pour se cacher lorsqu'elle est connectée dans WhatsApp.
-- Ajout de langue française.
-- Supprimer l'option de confidentialité pour voir la dernière connexion des autres et cacher les propres, jusqu'à ce que le problème soit résolu.
-- Supprimez le bouton raccourci KMod à partir des paramètres de WhatsApp, maintenant accessible avec le bouton de menu sur l'interface principale.
-- Correction d'autres problèmes.
+- Ajout d'un écran de chargement pour KMod FWA, cet écran affichera le temps nécessaire pour charger l'application (pas de temps supplémentaire).
+- Ajout de l'option de masquer la dernière connexion, mais pouvoir voir la connexion de vos contacts.
+- Ajout d'icônes dans la section d'état.
+- Maintenant, les onglets appelés et les états peuvent être cachés indépendamment.
+- Ajout d'une nouvelle option de confidentialité, pour cacher des contacts ou des groupes dans la liste des chats (ceux-ci ne seront pas visibles même s'ils vous envoient des messages.)
+- Nouvelle option pour mettre en évidence les contacts et les groupes. Maintenant, vous pouvez choisir jusqu'à 8 positions de couleurs, et dans chaque position, autant de contacts ou de groupes que vous le souhaitez.
+- Ajout d'une option pour effectuer des recherches de contacts ou de groupes, dans les deux options précédentes.
+- Correction de l'option pour cacher les onglets.
+- Correction des options de confidentialité.
+- L'accès restreint à l'Android 7+ jusqu'à Xposed sera entièrement fonctionnel pour le Nougat (actuellement ne fonctionne pas avec les ressources).
+- Suppression du support pour les versions inférieures à 2.17.287.
+- Section supprimée du journal des erreurs. Maintenant, vous devez vérifier les erreurs dans le registre Xposed.
+- Optimisation du code.
+- Correction d'autres erreurs.
     </fr>
     <hi>
-- गोपनीयता अनुभाग में, लिखने और रिकॉर्ड ऑडियो को छिपाने के लिए, विकल्प जोड़े गए।
-- व्हाट्सएप के अंदर से जुड़े होने पर छिपाने के लिए विकल्प जोड़ा गया।
-- फ्रेंच भाषा जोड़ा गया
-- समस्या का समाधान करने तक, दूसरे के अंतिम कनेक्शन को देखने और खुद को छुपाने के लिए गोपनीयता विकल्प को हटा दें।
-- व्हाट्सएप सेटिंग्स से केमोद शॉर्टकट बटन को हटाएं, जो अब मुख्य इंटरफ़ेस पर मेनू बटन से पहुंचा है।
-- फिक्स्ड अन्य मुद्दों।
+- केमोड एफडब्ल्यूए के लिए लोड स्क्रीन जोड़ा गया है, यह स्क्रीन एप्लिकेशन को लोड करने में लगने वाला समय प्रदर्शित करेगा (कोई अतिरिक्त समय नहीं)।
+- पिछले कनेक्शन को छिपाने का विकल्प फिर से जोड़ा गया, लेकिन अपने संपर्कों का कनेक्शन देखने में सक्षम हो।
+- स्थिति अनुभाग में जोड़े गए आइकन।
+- अब टैब बुलाए गए और राज्यों को स्वतंत्र रूप से छिपाया जा सकता है
+- चैट की सूची में संपर्कों या समूहों को छिपाने के लिए, नई गोपनीयता विकल्प जोड़ा गया (ये आपको संदेश भेजते समय भी नहीं दिखाई देंगे।)
+- संपर्कों और समूहों को उजागर करने का नया विकल्प अब आप रंगों की 8 स्थिति तक, और प्रत्येक स्थिति में, जितने चाहें उतने संपर्क या समूह चुन सकते हैं।
+- दो पिछले विकल्पों में, संपर्कों या समूहों की खोज करने के लिए जोड़ा विकल्प।
+- टैब्स छुपाने के लिए फिक्स्ड विकल्प
+- फिक्स्ड गोपनीयता विकल्प
+- एंड्रॉइड 7+ तक सीमित पहुंच Xposed तक नोऊगैट (वर्तमान में संसाधनों के साथ काम नहीं करता है) के लिए पूरी तरह कार्यात्मक होगा।
+2.17.287 से कम संस्करणों के लिए हटाया गया समर्थन
+- त्रुटि लॉग का हटाए गए अनुभाग अब आपको Xposed रजिस्ट्री में त्रुटियों को जांचना होगा।
+- कोड का अनुकूलन।
+- फिक्स्ड अन्य त्रुटियां
     </hi>
     <it>
-- Aggiunta opzione per nascondere la scritta "sta scrivendo" e "sta registrando audio", nelle opzioni Privacy. 
-- Aggiunta opzione per nascondersi quando collegati da WhatsApp. 
-- Aggiunta lingua francese. 
-- Eliminata l'opzione privacy per vedere l'ultima connessione degli altri contatti nascondendo la propria, fino alla risoluzione del problema. 
-- Eliminato il pulsante con il collegamento a KMod dai settaggi di WhatsApp, ora accessibile con il pulsante menù nell'interfaccia principale. 
-- Sistemati altri problemi. 
+- Aggiunta schermata di caricamento per KMod FWA, questa schermata indicherà il tempo necessario per l'avvio dell'applicazione (senza extra tempo aggiuntivo).
+- Nuovamente aggiunta l'opzione per nascondere l'ultimo accesso, pur essendo in grado di vedere la connessioni dei propri contatti.
+- Aggiunte icone nella sezione Stato
+- Ora i pannelli Chiamate e Stato possono essere nascosti indipendentemente.
+- Aggiunta nuova opzione privacy, per nascondere contatti e gruppi nella lista delle chat (Questi non saranno visibili neanche se invieranno dei messaggi.)
+- Nuova opzione di evidenziazione di contatti e gruppi. Ora è possibile scegliere fino a 8 posizioni di colore, e in ciascuna posizione, quanti contatti e gruppi si desiderano.
+- Aggiunta opzione per affinare le ricerche di contatti o gruppi, nelle due precedenti opzioni.
+- Sistemata opzione per nascondere i pannelli.
+- Sistemate opzioni di privacy.
+- Accesso limitato a partire da Android 7+ finchè Xposed non sarà pienamente funzionante per Nougat (momentaneamente non funziona con le sorgenti).
+- Rimosso supporto per versioni inferiori a 2.17.287.
+- Eliminata sezione per i log di errori. Ora è necessario controllare gli errori nel registro di Xposed.
+- Ottimizzazione del codice.
+- Sistemati altri errori.
     </it>
     <nl>
-- Opties toegevoegd, om schrijf en opnemen van audio in het privé sectie.
-- Optie toegevoegd om je te verbergen als je verbonden bent in WhatsApp. 
-- Franse taal toegevoegd. 
-- Privé optie verwijderd van laatst geziene verbinding en ook dat van andere totdat het probleem is opgelost. 
-- KMod snelkoppeling verwijderd uit de WhatsApp instellingen, dat staat nu met menu knop in het hoofd menu. 
-- Andere problemen verholpen.
+- Laad scherm toegevoegd voor KMod FWA, dit scherm geeft de tijd aan die nodig is om de applicatie te laden (geen extra tijd).
+- Nog een optie toegevoegd om de laatste verbinding te verbergen, maar de verbinding van uw contacten te kunnen zien.
+- Toegevoegde pictogrammen in de status sectie.
+- Nu kunnen de tabbladen genaamd en staten onafhankelijk verborgen zijn.
+- Nieuwe privacy optie toegevoegd, om contacten of groepen in de lijst met chats te verbergen (deze worden niet gezien, ook wanneer ze berichten naar je verzenden.)
+- Nieuwe optie om contacten en groepen te markeren. Nu kunt u tot 8 kleurenposities kiezen, en in elke positie, zoveel contactpersonen of groepen als u wilt.
+- Toegevoegde optie om zoekopdrachten van contacten of groepen uit te voeren, in de twee vorige opties.
+- Vaste optie om tabbladen te verbergen.
+- Vaste privacyopties.
+- Beperkte toegang tot Android 7+ tot Xposed zal volledig functioneren voor Nougat (momenteel werkt niet met resources).
+- Verwijder ondersteuning voor versies lager dan 2.17.287.
+- Verwijderde sectie van foutlogboek. Nu moet u de fouten in het Xposed-register controleren.
+- Optimalisatie van de code.
+- Vaste andere fouten.
     </nl>	
     <pt>
-- Adicionado opções, para ocultar gravação e gravação de áudio, na seção de privacidade.
-- Adicionado opção para ocultar quando conectado a partir do WhatsApp.
-- Adicionado idioma francês.
-- Excluída a opção de privacidade para ver a última conexão dos outros e esconder o próprio, até resolver o problema.
-- Excluída KMod atalho botão de WhatsApp Configurações, agora acessado com o botão de menu na interface principal.
-- Corrigido outros problemas.
+- Tela de carga adicionada para KMod FWA, esta tela exibirá o tempo necessário para carregar o aplicativo (sem tempo extra).
+- Adicionou novamente a opção para esconder a última conexão, mas pode ver a conexão de seus contatos.
+- Adicionados ícones na seção de status. 
+- Agora as abas de ligações e status podem ser ocultadas separadamente.
+- Adicionado nova opção de privacidade, para ocultar contatos ou grupos na lista de bate-papo (Isso não será visto mesmo quando eles lhe enviarem mensagens.)
+- Nova opção de destaque de contatos e grupos. Agora você pode escolher até 8 posições de cores, e em cada posição, tantos contatos ou grupos como você deseja.
+- Opção adicionada para executar pesquisas de contatos ou grupos, nas duas opções anteriores.
+- Opção corrigida para ocultar guias.
+- Corrigido opções de privacidade.
+- Acesso restrito ao Android 7+ até Xposed será totalmente funcional para Nougat (atualmente não funciona com recursos).
+- Suporte removido para versões inferiores a 2.17.287.
+- Seção excluída do log de erros. Agora você deve verificar os erros no registro Xposed.
+- Otimização do código.
+- Corrigido outros erros.
     </pt>
     <ru>
-- Добавлены опции, чтобы скрыть написание сообщения и записи аудио, в разделе конфиденциальность.
-- Добавлена возможность скрывать подключение внутри WhatsApp.
-- Добавлен французский язык.
-- Удалены параметры конфиденциальности, видеть последнее подключение других и скрывать собственные, пока не решу проблему.
-- Удалена кнопка ярлыка KMod из настроек whatsapp, теперь она доступна в меню на главном экране. 
-- Другие мелкие исправления.
+- Добавлен экран загрузки для KMod FWA. Этот экран будет отображаться во время, загрузки приложения.
+- Снова добавлена ​​опция скрыть последнее соединение, но у вас будет возможность увидеть соединение ваших контактов.
+- Добавлены иконки в разделе статус.
+- Теперь вкладки под названием и состояния могут быть скрыты самостоятельно.
+- Добавлены новые опции конфиденциальности, чтобы скрыть контакты или группы в списке чатов (они не видны даже, когда они посылают вам сообщения.)
+- Новая опция подсветки контактов и групп. Теперь вы можете выбрать до 8 позиций цвета.
+- Добавлена возможность выполнять поиск контактов или групп, в предыдущих двух вариантах.
+- Исправлена опция для скрытия вкладок.
+- Исправлены параметры конфиденциальности.
+- Ограниченный доступ к Android 7+ до тех пор, пока Xposed не будет полностью функционировать на Nougat (в настоящее время он не работает с ресурсами).
+- Удалена поддержка версий ниже, чем 2.17.287!
+- Удаленный раздел журнала ошибок. Теперь вам можно проверить ошибки в реестре Xposed.
+- Оптимизация кода.
+- Исправлены другие ошибки.
     </ru>
     <tr>
-- Gizlilik sekmesine ses kaydı ve mesaj gönderme bilgilendirmelerini gizleme ayarı eklendi.
-- Çevrimiçi bilgilendirmesini gizleme eklendi.
-- Fransızca eklendi.
-- Son görülme'yi gizleme ayarı problemler çözülünceye kadar silindi.
-- WhatsApp ayarlarından KMod kısayolu silindi, artık ana ekran menüsünden erişim sağlayabillirsiniz.
-- Bazı hatalar giderildi.
+- KMod FWA için yükleme ekranı eklendi, bu ekran uygulamanın yüklenme zamanını gösterecek(yüklemeyi yavaşlatmıyor).
+- Son görülmeyi gizleme yeniden eklendi, ayrıca kişilerinizin son görülmesini görebiliyorsunuz.
+- Durum bölümüne simgeler eklendi.
+- Aramalar ve durumlar sekmeleri artık bağımsız olarak gizlenebiliyor.
+- Yeni bir gizlilik seçeneği eklendi, kişi ya da grupları mesajlaşmalardan gizleyebiliyorsunuz (mesaj gönderdiklerinde bildirim alamazsınız).
+- Kişi ya da grupları vurgulama eklendi. artık 8 farklı konum seçerek istediğiniz sayıda kişi ya da grubu vurgulaabilirsiniz.
+- Kişi ve grupları arama özelliği eklendi, iki önceki ayarlarla birlikte.
+- Sekme gizleme sorunları düzeltildi.
+- Gizlilik ayarları düzeltildi.
+- Nougat üzerinde sorunsuz çalışan Xposed sürümleri bulunana kadar Android 7+ için erişim kısıtlandı (şu anda kaynaklar ile çalışmıyor).
+- 2.17.287'den önceki sürümler için destek kaldırıldı.
+- Hata kaydı kısmı kaldırıldı, artık hatalara Xposed kayıtlarından bakacaksınız.
+- Kod optimizasyonu.
+- Diğer hata düzeltmeleri.
     </tr>
   </update>
 </AppUpdater>
