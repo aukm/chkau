@@ -3,10 +3,10 @@
     <latestVersion>2.5.9</latestVersion>
     <url>http://dl-xda.xposed.info/modules/kmod.xposed_v2_8f174e.apk</url>
     <en>
-- Added option to send photos in the state with the highest quality.
+- Added option to set photos in the state with the highest quality.
 - Added option to increase the time of the videos of the state, up to 5 minutes (only visible in devices with this option active).
 - Now the statusbar becomes the same color as the header (Android 5.0+).
-- Deleted option to color the TAB in the conversations (until you can solve the problem).
+- Deleted option to color the TAB in the conversations (until problem can be solved).
 - Fixed problem of the highlight contacts option.
 - Fixed problem of the option to deactivate the delivery report.
 - Fixed other errors.
@@ -30,13 +30,13 @@
 - অন্যান্য ত্রুটি সংশোধন
     </bn>
     <de>
-- Zusätzliche Option, um Fotos in den Staat mit der höchsten Qualität zu senden.
-- Added Option zur Erhöhung der Zeit der Videos des Staates, bis zu 5 Minuten (nur sichtbar in Geräten mit dieser Option aktiv).
-- Jetzt wird die Statusleiste die gleiche Farbe wie der Header (Android 5.0+).
-- Gelöschte Option, um die TAB in den Gesprächen zu färben (bis du das Problem lösen kannst).
-- Problem der Option "Kontakte markieren" behoben.
-- Problem der Option zum Deaktivieren des Auslieferungsberichts behoben.
-- Fehler behoben
+- Option um Fotos im Status in der höchsten Qualität einzusetzen.
+- Option um die Videolänge des Status auf bis zu 5 Minuten zu erhöhen hinzugefügt (nur sichtbar in Geräten mit dieser Option angezeigt).
+- Nun erhält die Statusleiste die selbe Farbe wie die Kopfzeile (Android 5.0+).
+- Option zum Färben des Reiters in den Unterhaltungen gelöscht (bis das Problem gelöst werden kann).
+- Problem der Kontakte hervorheben Option behoben.
+- Problem der Option zum deaktivieren des Zustellberichts behoben.
+- Andere Fehler behoben.
 	</de>
     <es>
 - Añadida opción para mandar fotos en el estado con máxima calidad.
