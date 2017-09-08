@@ -1,78 +1,115 @@
 <AppUpdater>
   <update>
-    <latestVersion>2.5.8</latestVersion>
-    <url>http://dl-xda.xposed.info/modules/kmod.xposed_v2_6683a0.apk</url>
+    <latestVersion>2.5.9</latestVersion>
+    <url>http://dl-xda.xposed.info/modules/kmod.xposed_v2_8f174e.apk</url>
     <en>
-- Added option to send photos at the highest quality.
-- Fixed privacy option to hide last connection.
-- Fixed all lists, now displayed correctly.
+- Added option to send photos in the state with the highest quality.
+- Added option to increase the time of the videos of the state, up to 5 minutes (only visible in devices with this option active).
+- Now the statusbar becomes the same color as the header (Android 5.0+).
+- Deleted option to color the TAB in the conversations (until you can solve the problem).
+- Fixed problem of the highlight contacts option.
+- Fixed problem of the option to deactivate the delivery report.
 - Fixed other errors.
     </en>
     <ar>
-- إضافة خيار لإرسال الصور على أعلى مستوى من الجودة.
-- خيار الخصوصية الثابتة لإخفاء آخر اتصال.
-- ثابت جميع القوائم، والآن عرض بشكل صحيح.
-- أخطاء أخرى ثابتة.
+- إضافة خيار لإرسال الصور في الدولة مع أعلى مستويات الجودة.
+- إضافة خيار لزيادة الوقت من أشرطة الفيديو للدولة، وتصل إلى 5 دقائق (مرئية فقط في الأجهزة مع هذا الخيار نشط).
+- الآن يصبح شريط الحالة نفس لون رأس (الروبوت 5.0+).
+- حذف الخيار لتلوين تاب في المحادثات (حتى تتمكن من حل المشكلة).
+- مشكلة ثابتة من خيار الاتصالات تسليط الضوء.
+- مشكلة ثابتة من خيار لإلغاء تنشيط تقرير التسليم.
+- إصلاح أخطاء أخرى.
     </ar>
     <bn>
-- সর্বোচ্চ মানের ছবি পাঠাতে যোগ করা বিকল্প।
-- শেষ সংযোগ লুকানোর জন্য ফিক্সড গোপনীয়তা বিকল্প
-- সব তালিকা স্থির, এখন সঠিকভাবে প্রদর্শিত।
+- সর্বোচ্চ মানের সঙ্গে রাষ্ট্রের মধ্যে ছবি পাঠাতে যোগ করা বিকল্প।
+- 5 মিনিট পর্যন্ত রাষ্ট্রের ভিডিওগুলির সময় বাড়ানোর জন্য বিকল্পটি যুক্ত করা হয়েছে (শুধুমাত্র এই বিকল্প সক্রিয় ডিভাইসগুলিতে দৃশ্যমান)।
+- এখন স্ট্যাটাসবারের শিরোনাম হিসাবে একই রঙ হয়ে যায় (অ্যান্ড্রয়েড 5.0+)।
+- কথোপকথনে ট্যাবটি রঙ করার জন্য মুছে ফেলা বিকল্প (যতক্ষণ না আপনি সমস্যার সমাধান করতে পারেন)।
+- হাইলাইট পরিচিতি বিকল্পের স্থায়ী সমস্যা।
+- বিতরণ রিপোর্ট নিষ্ক্রিয় করার জন্য স্থির সমস্যা।
 - অন্যান্য ত্রুটি সংশোধন
     </bn>
     <de>
-- Option zum Senden von Fotos in höchster Qualität hinzugefügt
-- Privatsphäre Option zum verstecken der letzten Verbindung repariert
-- Alle Listen repariert, sie werden nun korrekt angezeigt.
-- Andere Fehler behoben.
+- Zusätzliche Option, um Fotos in den Staat mit der höchsten Qualität zu senden.
+- Added Option zur Erhöhung der Zeit der Videos des Staates, bis zu 5 Minuten (nur sichtbar in Geräten mit dieser Option aktiv).
+- Jetzt wird die Statusleiste die gleiche Farbe wie der Header (Android 5.0+).
+- Gelöschte Option, um die TAB in den Gesprächen zu färben (bis du das Problem lösen kannst).
+- Problem der Option "Kontakte markieren" behoben.
+- Problem der Option zum Deaktivieren des Auslieferungsberichts behoben.
+- Fehler behoben
 	</de>
     <es>
-- Añadida opción para enviar fotos a máxima calidad.
-- Arreglada opción de privacidad para ocultar última conexión.
-- Arregladas todas las listas, ahora se muestran correctamente.
+- Añadida opción para mandar fotos en el estado con máxima calidad.
+- Añadida opción para aumentar el tiempo de los vídeos del estado, hasta 5 minutos (solo visible en dispositivos con esta opción activa).
+- Ahora el statusbar se vuelve del mismo color que el header (Android 5.0+).
+- Borrada opción para colorear el TAB en las conversaciones (hasta poder solucionar el problema).
+- Solucionado problema de la opción resaltar contatos.
+- Solucionado problema de la opción de desactivar el informe de entrega.
 - Arreglados otros errores.
     </es>
     <fr>
-- Ajout d'une option pour envoyer des photos à la plus haute qualité.
-- Correction de l'option de confidentialité pour cacher la dernière connexion.
-- Correction de toutes les listes, maintenant affichées correctement.
+- Ajout d'une option pour envoyer des photos dans l'état de la plus haute qualité.
+- Ajout d'une option pour augmenter le temps des vidéos de l'état, jusqu'à 5 minutes (uniquement visible dans les appareils avec cette option active).
+- Maintenant, la barre d'état devient la même couleur que l'en-tête (Android 5.0+).
+- Option supprimée pour colorier le TAB dans les conversations (jusqu'à ce que vous puissiez résoudre le problème).
+- Correction du problème de l'option contacts en surbrillance.
+- Correction du problème de l'option de désactiver le rapport de livraison.
 - Correction d'autres erreurs.
     </fr>
     <hi>
-- उच्चतम गुणवत्ता पर फ़ोटो भेजने के लिए विकल्प जोड़ा गया।
-- पिछले कनेक्शन को छिपाने के लिए फिक्स्ड गोपनीयता विकल्प
-- सभी सूचियों को तय किया, अब सही ढंग से प्रदर्शित किया गया।
+- उच्चतम गुणवत्ता के साथ राज्य में तस्वीरें भेजने के लिए विकल्प जोड़ा गया।
+- 5 मिनट तक के वीडियो के वीडियो का समय बढ़ाने के लिए विकल्प जोड़ा गया (केवल इस विकल्प के साथ डिवाइस में दृश्यमान सक्रिय)।
+- अब स्थितिपट्टी हेडर (एंड्रॉइड 5.0+) के समान ही रंग हो जाती है।
+- वार्तालापों में टैब को रंग देने के लिए हटाए गए विकल्प (जब तक आप समस्या हल नहीं कर सकते)।
+- हाइलाइट संपर्क विकल्प की फिक्स्ड समस्या
+- डिलीवरी रिपोर्ट को निष्क्रिय करने के विकल्प की फिक्स्ड समस्या
+- फिक्स्ड अन्य त्रुटियां
 - फिक्स्ड अन्य त्रुटियां
     </hi>
     <it>
-- Aggiunta opzione per inviare foto alla massima qualità.
-- Sistemata opzione privacy per nascondere l'ultimo accesso.
-- Sistemate tutte le liste, ora correttamente visualizzate.
+- Aggiunta opzione per condividere le foto dello stato alla massima qualità.
+- Aggiunta opzione per aumentare l'intervallo di tempo dei video nello stato, fino a 5 minuti (visibile solo nei dispositivi che avranno attiva tale opzione).
+- Ora la statusbar assume lo stesso colore dell'intestazione (Android 5.0+).
+- Eliminata opzione per colorare il pannello nelle conversazioni (fino alla risoluzione del problema).
+- Sistemato problema relativo all'opzione di selezione dei contatti.
+- Sistemato problema relativo all'opzione per disattivare il rapporto di consegna.
 - Sistemati altri errori.
     </it>
     <nl>
-- Optie toegevoegd om foto's te verzenden naar de hoogste kwaliteit.
-- Vaste privacy optie om de laatste verbinding te verbergen.
-- Alle lijsten opgelost, nu correct weergegeven.
+- Toegevoegd optie om foto's te sturen in de staat met de hoogste kwaliteit.
+- Option toegevoegd om de tijd van de video's van de staat te verhogen, tot 5 minuten (alleen zichtbaar in apparaten met deze optie actief).
+- Nu wordt de statusbalk dezelfde kleur als de koptekst (Android 5.0+).
+- Verwijderde optie om de TAB in de gesprekken te kleuren (totdat u het probleem kunt oplossen).
+- Vast probleem van de hoogtecontact optie.
+- Vast probleem met de optie om het leveringsrapport te deactiveren.
 - Vaste andere fouten.
     </nl>	
     <pt>
-- Adicionada opção de enviar imagens na qualidade máxima. 
-- Corrigida a opção de privacidade para esconder a última conexão. 
-- Todas as listas agora são exibidas corretamente.
-- Corrigido outros erros.
+- Adicionada opção para enviar fotos na mais alta qualidade possível. 
+- Adicionada opção que aumenta a duração do vídeo no status em até 5 minutos. Porém apenas visível se ativada. 
+- Agora a nova barra de status segue a mesma cor que o cabeçalho (Android 5+).
+- Removida a opção de colorir a guia de conversas temporariamente. 
+- Problema de destacar contatos corrigido. 
+- Corrigido o problema em desativar o relatório de entrega. 
+- Outros erros corrigidos. 
     </pt>
     <ru>
-- Добавлена возможность отправлять фотографии в высоком качестве.
-- Исправлена возможность конфиденциальности, чтобы скрыть последнее подключение.
-- Исправлены все списки, теперь отображается правильно.
+- Добавлена возможность отправлять фотографии с самым высоким качеством.
+- Добавлена опция увеличения времени видео, до 5 минут (видна только в устройствах с активной этой опцией).
+- Теперь панель состояния становится того же цвета, что и заголовок (Android 5.0+).
+- Удаленная опция для окраски TAB в цепочках (пока мы не можем решить эту проблему).
+- Исправлена проблема с опцией подсветки контактов.
+- Исправлена проблема с дезактивацией отчета о доставке.
 - Исправлены другие ошибки.
     </ru>
     <tr>
--Resimleri en yüksek kalitede gönderme seçeneği eklendi.
--Son görülmeyi gizleme seçeneği düzeltildi.
--Tüm listeler düzeltildi, artık doğru görüntüleniyorlar.
-- Diğer hata düzeltmeleri.
+- Durum fotoğraflarını en yüksek kalitede gönderme seçeneği eklendi.
+- Durum videolarını 5 dakikaya kadar uzatma seçeneği eklendi (sadece seçeneğin aktif olduğu cihazlarda görünür).
+- Başlık rengi artık durum çubuğuna uygulanıyor(Android 5.0+).
+- Konuşmalarda sekmeleri boyama seçeneği kaldırıldı (sorun çözülene kadar).
+- Kişileri vurgulama seçeneği düzeltildi.
+- İletildi işaretini gizleme seçeneği düzeltildi.
+- Diğer hatalar düzeltildi.
     </tr>
   </update>
 </AppUpdater>
