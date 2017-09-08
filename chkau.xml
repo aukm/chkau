@@ -1,7 +1,7 @@
 <AppUpdater>
   <update>
     <latestVersion>2.5.9</latestVersion>
-    <url>http://dl-xda.xposed.info/modules/kmod.xposed_v2_8f174e.apk</url>
+    <url>http://dl-xda.xposed.info/modules/kmod.xposed_v2_8abe7f.apk</url>
     <en>
 - Added option to set photos in the state with the highest quality.
 - Added option to increase the time of the videos of the state, up to 5 minutes (only visible in devices with this option active).
