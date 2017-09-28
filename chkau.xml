@@ -1,89 +1,65 @@
 <AppUpdater>
   <update>
-    <latestVersion>2.6.0</latestVersion>
-    <url>http://dl-xda.xposed.info/modules/kmod.xposed_v2600_fb0c80.apk</url>
+    <latestVersion>2.6.1</latestVersion>
+    <url>http://dl-xda.xposed.info/modules/kmod.xposed_v2610_e9d2f0.apk</url>
     <en>
-- Added new color picker.
-- Added option to copy messages without date and names.
-- Added option to remove participants limit for groups.
-- Fixed problem that always stayed online when you enabled hide the last connection.
+- Fixed option to remove participants limit to groups.
+- Fixed option to copy messages without dates and names.
 - Fixed other errors.
     </en>
     <ar>
-- وأضاف جديد منقار اللون.
-- إضافة خيار لنسخ الرسائل دون التاريخ والأسماء.
-- إضافة خيار لإزالة المشاركين حد للمجموعات.
-- المشكلة الثابتة التي بقيت دائما على الانترنت عند تمكين إخفاء اتصال الماضي.
+- خيار ثابت لإزالة المشاركين الحد إلى المجموعات.
+- خيار ثابت لنسخ الرسائل دون التواريخ والأسماء.
 - إصلاح أخطاء أخرى.
     </ar>
     <bn>
-- নতুন রঙ চয়নকারী যোগ করা হয়েছে
-- তারিখ এবং নাম ছাড়া বার্তা কপি করার জন্য যোগ করা বিকল্প।
-- গ্রুপের জন্য অংশগ্রহণকারীদের সীমা অপসারণের জন্য যোগ করা বিকল্প।
-- আপনি শেষ সংযোগ গোপন সক্ষম যখন স্থায়ী সমস্যা সর্বদা অনলাইন থাকা।
+- দলের অংশগ্রহণকারীদের সীমা অপসারণের জন্য ফিক্সড বিকল্প।
+- তারিখ এবং নাম ছাড়া বার্তা কপি করার জন্য ফিক্সড বিকল্প।
 - অন্যান্য ত্রুটি সংশোধন
     </bn>
     <de>
-- Neue Farbauswahl hinzugefügt.
-- Option zum kopieren von Nachrichten ohne Zeitangabe und Namen hinzugefügt.
-- Option zum entfernen der Teilnehmerbegrenzung in Gruppen hinzugefügt.
-- Problem behoben, dass man immer online blieb, wenn man letzte Verbindung verstecken aktiviert hat.
+- Option zum Entfernen des Teilnehmerlimits für Gruppen repariert.
+- Option zum Nachrichten kopieren ohne Zeitangaben und Namen repariert.
 - Andere Fehler behoben.
 	</de>
     <es>
-- Añadido nuevo selector de color.
-- Añadida opción para copiar mensajes sin fecha y nombres.
-- Se agregó la opción para eliminar el límite de los participantes para los grupos.
-- Solucionado el problema que siempre se mantiene en línea, cuando se habilita ocultar la última conexión.
+- Arreglada opción para eliminar el límite de los participantes a los grupos.
+- Arreglada opción para copiar mensajes sin fechas ni nombres.
 - Corregidos otros errores.
     </es>
     <fr>
-- Ajout d'un nouveau sélectionneur de couleurs.
-- Ajout d'une option pour copier des messages sans date ni noms.
-- Ajout d'une option pour supprimer la limite des participants pour les groupes.
-- Correction d'un problème qui est toujours resté en ligne lorsque vous avez activé la dernière connexion.
+- Option corrigée pour supprimer les participants pour les groupes.
+- Correction d'option pour copier des messages sans dates et noms.
 - Correction d'autres erreurs.
     </fr>
     <hi>
-- नया रंग पिकर जोड़ा गया
-- तिथि और नामों के बिना संदेशों की प्रतिलिपि करने के लिए विकल्प जोड़ा गया
-- समूहों के लिए प्रतिभागियों की सीमा को हटाने के लिए जोड़ा गया विकल्प
-- आपने पिछले कनेक्शन को छुपाने पर सक्षम होने पर हमेशा स्थिर रहने की समस्या नहीं थी।
+- समूहों को प्रतिभागियों की सीमा को दूर करने के लिए निश्चित विकल्प
+- दिनांक और नामों के बिना संदेशों की प्रतिलिपि करने के लिए निश्चित विकल्प।
 - फिक्स्ड अन्य त्रुटियां
     </hi>
     <it>
-- Aggiunto nuovo colore di selezione.
-- Aggiunta opzione per copiare messaggi senza date e nomi.
-- Aggiunta opzione per rimuovere il limite dei partecipanti da un gruppo.
-- Sistemato il problema per cui si compariva sempre online quando veniva disabilitato l'ultimo accesso.
+- Sistemata l'opzione per rimuovere il limite dei partecipanti nei gruppi.
+- Sistemata opzione per copiare i messaggi senza date e senza nomi.
 - Sistemati altri errori.
     </it>
     <nl>
-- Toegevoegd nieuwe kleurkiezer.
-- Toegevoegde optie om berichten te kopiëren zonder datum en namen.
-- Toegevoegde optie om deelnemerslimiet voor groepen te verwijderen.
-- Vast probleem dat altijd online is gebleven als u de laatste verbinding heeft geactiveerd.
+- Vaste optie om deelnemers te beperken tot groepen.
+- Vaste optie om berichten zonder datums en namen te kopiëren.
 - Vaste andere fouten.
     </nl>	
     <pt>
-- Adicionado novo sistema de escolher cores.
-- Adicionada a opção de copiar mensagens sem o nome ou data.
-- Adicionada a habilidade de remover o limite de participantes dos grupos.
-- Corrigido o problema de exibir sempre como online ao habilitar a opção de invisibilidade.
+- Corrigida a opção de remover limite de participantes em grupos.
+- Corrigida a opção de copiar mensagem sem nome e/ou data.
 - Outros erros corrigidos.
     </pt>
     <ru>
-- Добавлен новый набор цветов.
-- Добавлена возможность копирования сообщений без даты и имен.
-- Добавлена опция удаления ограничений участников для групп.
-- Исправлена проблема, которая всегда оставалась в сети, когда Вы включили скрытие последнего соединения.
+- Исправлена возможность снять лимит участников в группе.
+- Исправлена опция копирования сообщения без дат и имен.
 - Исправлены другие ошибки.
     </ru>
     <tr>
-- Yeni renk seçici eklendi.
-- Tarih ve isimler olmadan bir mesajı kopyalama eklendi.
-- Gruplara katılabilecek kişi sayısını sınırsız yapabilme eklendi.
-- Son görülmeyi gizle etkinken sürekli çevrimiçi görülme hatası giderildi.
+- Grup kişi limitini kaldırma seçeneği düzeltildi.
+- Mesajları tarih ve isimsiz kopyalama  seçeneği düzeltildi.
 - Diğer hatalar düzeltildi.
     </tr>
   </update>
