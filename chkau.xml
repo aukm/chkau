@@ -1,65 +1,65 @@
 <AppUpdater>
   <update>
-    <latestVersion>2.6.1</latestVersion>
-    <url>http://dl-xda.xposed.info/modules/kmod.xposed_v2610_e9d2f0.apk</url>
+    <latestVersion>2.6.2</latestVersion>
+    <url>http://dl-xda.xposed.info/modules/kmod.xposed_v2620_b9cf01_0.apk</url>
     <en>
-- Fixed option to remove participants limit to groups.
-- Fixed option to copy messages without dates and names.
+- Added option to delete messages, up to five minutes after being sent.
+- Added option to hide the Attach icon in the conversation screen.
 - Fixed other errors.
     </en>
     <ar>
-- خيار ثابت لإزالة المشاركين الحد إلى المجموعات.
-- خيار ثابت لنسخ الرسائل دون التواريخ والأسماء.
+- وأضاف خيار لحذف الرسائل، تصل إلى خمس دقائق بعد إرسالها.
+- إضافة خيار لإخفاء رمز إرفاق في شاشة المحادثة.
 - إصلاح أخطاء أخرى.
     </ar>
     <bn>
-- দলের অংশগ্রহণকারীদের সীমা অপসারণের জন্য ফিক্সড বিকল্প।
-- তারিখ এবং নাম ছাড়া বার্তা কপি করার জন্য ফিক্সড বিকল্প।
+- পাঠানো বার্তাগুলি পাঁচ মিনিট পর্যন্ত বার্তা মুছে ফেলার জন্য যোগ করা বিকল্প।
+- কথোপকথন পর্দায় সংযুক্ত আইকন গোপন করার জন্য যোগ করা বিকল্প।
 - অন্যান্য ত্রুটি সংশোধন
     </bn>
     <de>
-- Option zum Entfernen des Teilnehmerlimits für Gruppen repariert.
-- Option zum Nachrichten kopieren ohne Zeitangaben und Namen repariert.
+- Option um Nachrichten, bis zu fünf Minuten nach absenden, zu löschen hinzugefügt.
+- Option zum verstecken des Anhangssymbol im Gesprächsbildschirm hinzugefügt.
 - Andere Fehler behoben.
 	</de>
     <es>
-- Arreglada opción para eliminar el límite de los participantes a los grupos.
-- Arreglada opción para copiar mensajes sin fechas ni nombres.
+- Se ha añadido la opción de borrar mensajes, hasta cinco minutos después de ser enviados.
+- Añadida opción para ocultar el icono Adjuntar en la pantalla de conversación.
 - Corregidos otros errores.
     </es>
     <fr>
-- Option corrigée pour supprimer les participants pour les groupes.
-- Correction d'option pour copier des messages sans dates et noms.
+- Ajout d'une option pour supprimer des messages, jusqu'à cinq minutes après l'envoi.
+- Ajout d'une option pour cacher l'icône Attacher dans l'écran de conversation.
 - Correction d'autres erreurs.
     </fr>
     <hi>
-- समूहों को प्रतिभागियों की सीमा को दूर करने के लिए निश्चित विकल्प
-- दिनांक और नामों के बिना संदेशों की प्रतिलिपि करने के लिए निश्चित विकल्प।
+- भेजे जाने के पांच मिनट तक संदेशों को हटाने के लिए विकल्प जोड़ा गया।
+- बातचीत स्क्रीन में अटैच आइकन को छिपाने के लिए विकल्प जोड़ा गया।
 - फिक्स्ड अन्य त्रुटियां
     </hi>
     <it>
-- Sistemata l'opzione per rimuovere il limite dei partecipanti nei gruppi.
-- Sistemata opzione per copiare i messaggi senza date e senza nomi.
+- Aggiunta opzione per eliminare i messaggi, entro cinque minuti dal loro invio.
+- Aggiunta opzione per nascondere l'icona Allegato nella schermata della conversazione.
 - Sistemati altri errori.
     </it>
     <nl>
-- Vaste optie om deelnemers te beperken tot groepen.
-- Vaste optie om berichten zonder datums en namen te kopiëren.
+- Toegevoegd optie om berichten te verwijderen, maximaal vijf minuten nadat ze zijn verzonden.
+- Option toegevoegd om het pictogram Attach in het conversatiescherm te verbergen.
 - Vaste andere fouten.
     </nl>	
     <pt>
-- Corrigida a opção de remover limite de participantes em grupos.
-- Corrigida a opção de copiar mensagem sem nome e/ou data.
+- Adicionada a habilidade de deletar mensagens enviadas, porém o tempo limite para esta habilidade é de apenas cinco minutos depois do envio.
+- Adicionada habilidade de ocultar o ícone de anexar na tela de conversa.
 - Outros erros corrigidos.
     </pt>
     <ru>
-- Исправлена возможность снять лимит участников в группе.
-- Исправлена опция копирования сообщения без дат и имен.
+- Добавлена возможность удаления сообщений, до пяти минут после отправки.
+- Добавлена опция скрыть значок Attach на экране беседы.
 - Исправлены другие ошибки.
     </ru>
     <tr>
-- Grup kişi limitini kaldırma seçeneği düzeltildi.
-- Mesajları tarih ve isimsiz kopyalama  seçeneği düzeltildi.
+- Gönderilmiş mesajları, beş dakika içerisinde silme seçeneği eklendi.
+- Mesajlaşma ekranındaki ataç ikonunu gizleme özelliği eklendi.
 - Diğer hatalar düzeltildi.
     </tr>
   </update>
