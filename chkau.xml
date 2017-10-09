@@ -1,65 +1,53 @@
 <AppUpdater>
   <update>
-    <latestVersion>2.6.2</latestVersion>
-    <url>http://dl-xda.xposed.info/modules/kmod.xposed_v2620_b9cf01_0.apk</url>
+    <latestVersion>2.6.3</latestVersion>
+    <url>http://dl-xda.xposed.info/modules/kmod.xposed_v2630_a05ece.apk</url>
     <en>
-- Added option to delete messages, up to five minutes after being sent.
-- Added option to hide the Attach icon in the conversation screen.
+- Added support for Nougat.
 - Fixed other errors.
     </en>
     <ar>
-- وأضاف خيار لحذف الرسائل، تصل إلى خمس دقائق بعد إرسالها.
-- إضافة خيار لإخفاء رمز إرفاق في شاشة المحادثة.
+- واضاف لدعم Nougat.
 - إصلاح أخطاء أخرى.
     </ar>
     <bn>
-- পাঠানো বার্তাগুলি পাঁচ মিনিট পর্যন্ত বার্তা মুছে ফেলার জন্য যোগ করা বিকল্প।
-- কথোপকথন পর্দায় সংযুক্ত আইকন গোপন করার জন্য যোগ করা বিকল্প।
+- Nougat জন্য সমর্থন যোগ করা
 - অন্যান্য ত্রুটি সংশোধন
     </bn>
     <de>
-- Option um Nachrichten, bis zu fünf Minuten nach absenden, zu löschen hinzugefügt.
-- Option zum verstecken des Anhangssymbol im Gesprächsbildschirm hinzugefügt.
+- Unterstützung für Nougat hinzugefügt.
 - Andere Fehler behoben.
 	</de>
     <es>
-- Se ha añadido la opción de borrar mensajes, hasta cinco minutos después de ser enviados.
-- Añadida opción para ocultar el icono Adjuntar en la pantalla de conversación.
+- Añadido soporte para Nougat.
 - Corregidos otros errores.
     </es>
     <fr>
-- Ajout d'une option pour supprimer des messages, jusqu'à cinq minutes après l'envoi.
-- Ajout d'une option pour cacher l'icône Attacher dans l'écran de conversation.
+- Ajout du support pour Nougat.
 - Correction d'autres erreurs.
     </fr>
     <hi>
-- भेजे जाने के पांच मिनट तक संदेशों को हटाने के लिए विकल्प जोड़ा गया।
-- बातचीत स्क्रीन में अटैच आइकन को छिपाने के लिए विकल्प जोड़ा गया।
+- नोगाट के लिए समर्थन जोड़ा गया
 - फिक्स्ड अन्य त्रुटियां
     </hi>
     <it>
-- Aggiunta opzione per eliminare i messaggi, entro cinque minuti dal loro invio.
-- Aggiunta opzione per nascondere l'icona Allegato nella schermata della conversazione.
+- Aggiunta il supporto per Nougat.
 - Sistemati altri errori.
     </it>
     <nl>
-- Toegevoegd optie om berichten te verwijderen, maximaal vijf minuten nadat ze zijn verzonden.
-- Option toegevoegd om het pictogram Attach in het conversatiescherm te verbergen.
+- Toegevoegd ondersteuning voor Nougat.
 - Vaste andere fouten.
     </nl>	
     <pt>
-- Adicionada a habilidade de deletar mensagens enviadas, porém o tempo limite para esta habilidade é de apenas cinco minutos depois do envio.
-- Adicionada habilidade de ocultar o ícone de anexar na tela de conversa.
+- Adicionado suporte para Nougat.
 - Outros erros corrigidos.
     </pt>
     <ru>
-- Добавлена возможность удаления сообщений, до пяти минут после отправки.
-- Добавлена опция скрыть значок Attach на экране беседы.
+- Добавлена поддержка Nougat.
 - Исправлены другие ошибки.
     </ru>
     <tr>
-- Gönderilmiş mesajları, beş dakika içerisinde silme seçeneği eklendi.
-- Mesajlaşma ekranındaki ataç ikonunu gizleme özelliği eklendi.
+- Nougat'a destek eklendi.
 - Diğer hatalar düzeltildi.
     </tr>
   </update>
