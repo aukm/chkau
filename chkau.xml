@@ -1,54 +1,54 @@
 <AppUpdater>
   <update>
-    <latestVersion>2.6.3</latestVersion>
-    <url>http://dl-xda.xposed.info/modules/kmod.xposed_v2630_a05ece.apk</url>
+    <latestVersion>2.6.4</latestVersion>
+    <url>http://dl-xda.xposed.info/modules/kmod.xposed_v2640_3038bf.apk</url>
     <en>
-- Added support for Nougat.
-- Fixed other errors.
+- Added customization for the small Widget.
+- Code revision, improvements, and bug fixes.
     </en>
     <ar>
-- واضاف لدعم Nougat.
-- إصلاح أخطاء أخرى.
+- إضافة التخصيص للقطعة صغيرة.
+- مراجعة رمز، والتحسينات، وإصلاح الأخطاء.
     </ar>
     <bn>
-- Nougat জন্য সমর্থন যোগ করা
-- অন্যান্য ত্রুটি সংশোধন
+- ছোট উইজেট জন্য কাস্টমাইজেশন যোগ করা।
+- কোড পুনর্বিবেচনা, উন্নতি এবং বাগ সংশোধন করা হয়েছে।
     </bn>
     <de>
-- Unterstützung für Nougat hinzugefügt.
-- Andere Fehler behoben.
+- UAnpassungen für das kleine Widget hinzugefügt.
+- Code Überarbeitung, Verbesserungen, Fehler Behebungen
 	</de>
     <es>
-- Añadido soporte para Nougat.
-- Corregidos otros errores.
+- Añadida personalización para el widget pequeño.
+- Revisión de código, mejoras y corrección de errores.
     </es>
     <fr>
-- Ajout du support pour Nougat.
-- Correction d'autres erreurs.
+- Ajout de la personnalisation pour le petit widget.
+- Révision du code, améliorations et corrections de bogues.
     </fr>
     <hi>
-- नोगाट के लिए समर्थन जोड़ा गया
-- फिक्स्ड अन्य त्रुटियां
+- छोटे विजेट के लिए अनुकूलन जोड़ा गया।
+- कोड संशोधन, सुधार और बग फिक्स
     </hi>
     <it>
-- Aggiunta il supporto per Nougat.
-- Sistemati altri errori.
+- Aggiunta personalizzazione per il piccolo Widget.
+- Revisione del codice, miglioramenti, e sistemazioni di bug.
     </it>
     <nl>
-- Toegevoegd ondersteuning voor Nougat.
-- Vaste andere fouten.
+- Maatwerk toegevoegd voor de kleine Widget.
+- Code revisie, verbeteringen en bugfixes.
     </nl>	
     <pt>
-- Adicionado suporte para Nougat.
-- Outros erros corrigidos.
+- Adicionada customizações para o Widget pequeno.
+- Revisões no codigo, melhorias e correção de bugs.
     </pt>
     <ru>
-- Добавлена поддержка Nougat.
-- Исправлены другие ошибки.
+- Добавлены настройки для маленького виджета.
+- Усовершенствование и исправления ошибок.
     </ru>
     <tr>
-- Nougat'a destek eklendi.
-- Diğer hatalar düzeltildi.
+- Küçük widget için kişiselleştirme eklendi.
+- Kod gözden geçirmesi, iyileştirmeler ve hata düzeltmeleri.
     </tr>
   </update>
 </AppUpdater>
