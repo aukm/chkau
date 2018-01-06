@@ -1,54 +1,102 @@
 <AppUpdater>
   <update>
-    <latestVersion>2.6.4</latestVersion>
-    <url>http://dl-xda.xposed.info/modules/kmod.xposed_v2640_3038bf.apk</url>
+    <latestVersion>2.6.5</latestVersion>
+    <url>http://dl-xda.xposed.info/modules/kmod.xposed_v2650_287d5e.apk</url>
     <en>
-- Added customization for the small Widget.
-- Code revision, improvements, and bug fixes.
+- Added the option to change the floating messages (Toast) with the same appearance as KMod FWA.
+- Now when you activate the option "Delete sent messages", you can delete messages of any date.
+- Now when the option to hide the last connection is active, the privacy error Toast will not be displayed.
+- Optimized the code of privacy options.
+- Fixed privacy options.
+- Correction of the personalization of the state in conversations.
     </en>
     <ar>
-- إضافة التخصيص للقطعة صغيرة.
-- مراجعة رمز، والتحسينات، وإصلاح الأخطاء.
+- أضيفت الخيار لتغيير الرسائل العائمة (نخب) مع نفس مظهر كمود فوا.
+- الآن عند تفعيل الخيار "حذف الرسائل المرسلة"، يمكنك حذف رسائل من أي تاريخ.
+- الآن عندما يكون الخيار لإخفاء آخر اتصال نشط، لن يتم عرض خطأ الخصوصية نخب.
+- محسن رمز خيارات الخصوصية.
+- خيارات الخصوصية الثابتة.
+- تصحيح شخصية الدولة في المحادثات.
     </ar>
     <bn>
-- ছোট উইজেট জন্য কাস্টমাইজেশন যোগ করা।
-- কোড পুনর্বিবেচনা, উন্নতি এবং বাগ সংশোধন করা হয়েছে।
+- কেমোড এফডব্লুএ হিসাবে একই চেহারা দিয়ে ভাসমান বার্তা (টোস্ট) পরিবর্তন করার বিকল্পটি যুক্ত করেছে।
+- এখন আপনি "পাঠানো বার্তাগুলি মুছে ফেলুন" বিকল্পটি সক্রিয় করার সময়, আপনি যেকোনো তারিখের বার্তাগুলি মুছতে পারেন।
+- এখন শেষ সংযোগটি গোপন করার সময়টি সক্রিয় থাকলে, গোপনীয়তা ত্রুটিটিউশ প্রদর্শন করা হবে না।
+- গোপনীয়তার বিকল্পগুলির কোডটি অপ্টিমাইজ করেছে।
+- স্থায়ী গোপনীয়তা অপশন
+- কথোপকথন মধ্যে রাষ্ট্র ব্যক্তিগতকরণ সংশোধন।
     </bn>
     <de>
-- UAnpassungen für das kleine Widget hinzugefügt.
-- Code Überarbeitung, Verbesserungen, Fehler Behebungen
+- Option um die schwebenden Benachrichtigungen (Toast) in das selbe Erscheinungsbild wie KMod FWA zu ändern hinzugefügt. 
+- Wenn du nun die Option "lösche gesendete Nachrichten" aktivierst, kannst du Nachrichten jeglichen Datums löschen.
+- Wenn nun die Option zum verstecken der letzten Verbindung aktiv ist, wird die Privatsphäre Fehler Benachrichtigung nicht angezeigt.
+- Code der Privatsphäreoptionen optimiert.
+- Privatsphäreoptionen repariert.
+- Korrektur der Personalisierung des Status in Unterhaltungen.
 	</de>
     <es>
-- Añadida personalización para el widget pequeño.
-- Revisión de código, mejoras y corrección de errores.
+- Añadida la opción para cambiar los mensajes flotantes (Toast) con la misma apariencia que KMod FWA.
+- Ahora cuando active la opción "Eliminar mensajes enviados", puede eliminar mensajes de cualquier fecha.
+- Ahora cuando está activa la opción de ocultar la última conexión, no se mostrarán los Toast de error de privacidad.
+- Optimizado el código de las opciones de privacidad.
+- Arregladas opciones de privacidad.
+- Corrección de la personalización del estado en conversaciones.
     </es>
     <fr>
-- Ajout de la personnalisation pour le petit widget.
-- Révision du code, améliorations et corrections de bogues.
+- Ajout de l'option pour changer les messages flottants (Toast) avec la même apparence que KMod FWA.
+- Maintenant, lorsque vous activez l'option "Supprimer les messages envoyés", vous pouvez supprimer les messages de n'importe quelle date.
+- Maintenant, lorsque l'option pour masquer la dernière connexion est active, l'erreur de confidentialité Toast ne sera pas affichée.
+- Optimisation du code des options de confidentialité.
+- Correction des options de confidentialité.
+- Correction de la personnalisation de l'état dans les conversations.
     </fr>
     <hi>
-- छोटे विजेट के लिए अनुकूलन जोड़ा गया।
-- कोड संशोधन, सुधार और बग फिक्स
+- केमोद एफडब्ल्यूए के रूप में एक ही उपस्थिति के साथ फ्लोटिंग संदेश (टोस्ट) को बदलने के विकल्प को जोड़ा गया
+- अब जब आप "भेजे गए संदेश हटाएं" विकल्प सक्रिय करते हैं, तो आप किसी भी तिथि के संदेशों को हटा सकते हैं।
+- अब जब अंतिम कनेक्शन को छिपाने का विकल्प सक्रिय है, तो गोपनीयता त्रुटि टोस्ट प्रदर्शित नहीं की जाएगी।
+- गोपनीयता विकल्पों का कोड ऑप्टिमाइज़ किया गया
+- फिक्स्ड गोपनीयता विकल्प
+- वार्तालापों में राज्य के वैयक्तिकरण को सुधारना।
     </hi>
     <it>
-- Aggiunta personalizzazione per il piccolo Widget.
-- Revisione del codice, miglioramenti, e sistemazioni di bug.
+- Aggiunta opzione per cambiare i messaggi flottanti (Toast) con lo stesso aspetto di KMod FWA.
+- Adesso attivando l'opzione "Cancella messaggi inviati", è possibile cancellare i messaggi di ogni data.
+- Adesso quando è attivata l'opzione per nascondere l'ultimo accesso, il messaggio Toast di errore di privacy non verrà visualizzato.
+- Ottimizzato il codice delle opzioni di privacy.
+- Sistemate opzioni di privacy.
+- Correzione della personalizzazione dello stato nelle conversazioni.
     </it>
     <nl>
-- Maatwerk toegevoegd voor de kleine Widget.
-- Code revisie, verbeteringen en bugfixes.
+- De optie toegevoegd om de zwevende berichten (Toast) met dezelfde verschijning als KMod FWA te wijzigen.
+- Als u nu de optie "Verwijder verzonden berichten" activeert, kunt u berichten van elke datum verwijderen.
+- Als nu de optie om de laatste verbinding te verbergen actief is, wordt de privacyfout Toast niet weergegeven.
+- Geoptimaliseerde de code van privacyopties.
+- Vaste privacyopties.
+- Correctie van de personalisatie van de staat in gesprekken.
     </nl>	
     <pt>
-- Adicionada customizações para o Widget pequeno.
-- Revisões no codigo, melhorias e correção de bugs.
+- Adicionada a opção de mudar a mensagem flutuante (Toast) para ficar com a mesma aparência do KMod FWA.
+- Quando a opção "Deletar mensagem enviada" for ativada, você poderá deletar mensagens de qualquer data.
+- Quando a opção de esconder a ultima conexão for ativada, a mensagem de erro por toast de privacidade não será exibida.
+- Otimização no código das opções de privacidade.
+- Corrigidos erros das opções de privacidade.
+- Correções sobre os estados de personalização nas converças.
     </pt>
     <ru>
-- Добавлены настройки для маленького виджета.
-- Усовершенствование и исправления ошибок.
+- Добавлена возможность изменения плавающих сообщений (Toast) с тем же внешним видом, что и KMod FWA.
+- Теперь, когда вы активируете опцию «Удалить отправленные сообщения», вы можете удалять сообщения любой даты.
+- Теперь, когда опция скрыть последнее соединение активна, ошибка конфиденциальности Toast не будет отображаться.
+- Оптимизирован код параметров конфиденциальности.
+- Исправлены параметры конфиденциальности.
+- Коррекция персонализации государства в разговорах.
     </ru>
     <tr>
-- Küçük widget için kişiselleştirme eklendi.
-- Kod gözden geçirmesi, iyileştirmeler ve hata düzeltmeleri.
+- Toast bildirimlerini KMod FWA ile aynı görünüme sokma ayarı eklendi.
+- "Gönderilen mesajları sil" seçeneğini etkinleştirdiğinizde artık tüm mesajları tarih sınırı olmadan silebileceksiniz.
+- Artık son görülmeyi gizle seçeneğini etkinleştirdiğinizde, gizlilik hatası bildirimi görüntülenmeyecek.
+- Gizlilik ayarlarının kodu optimize edildi.
+- Gizlilik ayarları düzeltildi.
+- Mesajlaşmalarda durum kişiselleştirmeleri düzeltildi.
     </tr>
   </update>
 </AppUpdater>
