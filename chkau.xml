@@ -1,7 +1,7 @@
 <AppUpdater>
   <update>
     <latestVersion>2.6.6</latestVersion>
-    <url>http://dl-xda.xposed.info/modules/kmod.xposed_v2660_ad8316.apk</url>
+    <url>http://dl-xda.xposed.info/modules/kmod.xposed_v2660_532eba.apk</url>
     <en>
 - Now you can activate/deactivate custom Toast.
 - Fixed errors of the last betas.
