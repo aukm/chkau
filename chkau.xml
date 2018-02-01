@@ -49,7 +49,7 @@
     <es>
 - Actualización de Android SDK a la versión 27.
 - Añadida opción para evitar la eliminación de mensajes enviados por nuestros contactos.
-- Añadida opción para mostrar la conexión o desconexión de nuestros contactos (Solo funciona con los contactos en los que hemos entrado en su conversación al entrar en WhatsAppa).
+- Añadida opción para mostrar la conexión o desconexión de nuestros contactos (Solo funciona con los contactos en los que hemos entrado en su conversación al entrar en WhatsApp).
 - Ahora cuando se rompa una opción, no romperá al resto de opciónes de KMod FWA.
 - Ahora cuando actualices KMod FWA, los Hooks se actualizarán automaticamente al entrar en WhatsApp.
 - Actualización a las últimas Betas.
