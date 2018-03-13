@@ -1,149 +1,175 @@
 <AppUpdater>
   <update>
-    <latestVersion>2.6.7</latestVersion>
-    <url>https://dl-xda.xposed.info/modules/kmod.xposed_v2670_f62781.apk</url>
+    <latestVersion>2.6.8</latestVersion>
+    <url>https://dl-xda.xposed.info/modules/kmod.xposed_v2680_e9eff5.apk</url>
     <en>
-- Android SDK update to version 27.
-- Added option to avoid the deletion of messages sent by your contacts.
-- Added option to show the connection or disconnection of your contacts (It only works with the contacts in which you have entered a conversation when entering WhatsApp).
-- Now when an option is broken, it will not break the other KMod FWA options.
-- Now when you update KMod FWA, the Hooks will be updated automatically when you enter WhatsApp.
-- Update to the latest Betas.
-- Added Indonesian language.
-- Correction of the option to delete messages of any date.
+- Added option to activate hidden function of Stickers.
+- Added option to activate hidden group management function.
+- Added option to activate hidden function to block the recording of voice messages.
+- Personalization added to the new sections.
+- Added option to show the reading receipts while you chat.
+- Disabled option to copy date and name of conversations messages (until the problem is fixed).
+- Corrected option to hide receipt of messages read (now also works with the states).
+- Fixed problem that prevented opening WhatsApp with the latest Beta versions.
+- The customization of the central date in last betas was corrected.
+- Customization of the lists was corrected.
 - Fixed other problems.
     </en>
     <ar>
-- تحديث أندرويد سك إلى الإصدار 27.
-- إضافة خيار لتجنب حذف الرسائل المرسلة من قبل جهات الاتصال لدينا.
-- إضافة خيار لإظهار الاتصال أو قطع الاتصال لدينا (يعمل فقط مع جهات الاتصال التي دخلنا محادثتك عند دخول ال واتساب).
-- الآن عندما يتم كسر خيار، فإنه لن كسر خيارات كمود فوا الأخرى.
-- الآن عند تحديث كمود فوا، سيتم تحديث السنانير تلقائيا عند إدخال ال واتساب.
-- تحديث لأحدث بيتاس.
-- واضاف اللغة الاندونيسية.
-- تصحيح الخيار لحذف رسائل من أي تاريخ.
+- واضاف الخيار لتنشيط وظيفة مخفية من الملصقات.
+- إضافة خيار لتنشيط وظيفة إدارة المجموعة المخفية.
+- إضافة خيار لتنشيط وظيفة مخفية لمنع تسجيل الرسائل الصوتية.
+- إضافة شخصية إلى أقسام جديدة.
+- إضافة خيار لإظهار إيصالات القراءة أثناء الدردشة.
+- خيار تعطيل لنسخ تاريخ واسم رسائل المحادثات (حتى يتم إصلاح المشكلة).
+- تصحيح الخيار لإخفاء استلام الرسائل القراءة (الآن يعمل أيضا مع الولايات).
+- تم إصلاح المشكلة التي حالت دون فتح تطبيق WhatsApp مع أحدث الإصدارات التجريبية.
+- تم تصحيح تخصيص التاريخ المركزي في آخر عملية beta.
+- تم تصحيح تخصيص القوائم.
 - مشاكل أخرى ثابتة.
     </ar>
     <bn>
-- সংস্করণ 27 এ অ্যানড্রইড এসডিকি আপডেট
-- আমাদের পরিচিতি দ্বারা প্রেরিত বার্তাগুলি মুছে ফেলতে এড়াতে বিকল্পটি যুক্ত করা হয়েছে।
-- আমাদের পরিচিতিগুলির সংযোগ বা সংযোগ বিচ্ছিন্ন করার জন্য বিকল্পটি যুক্ত করা হয়েছে (এটি শুধুমাত্র এমন পরিচিতিগুলির সাথে কাজ করে যা আমরা আপনার কথোপকথনে প্রবেশ করে যখন হোয়াটফিট প্রবেশ করিয়েছি)।
-- এখন যখন একটি বিকল্প ভাঙ্গা হয়, এটি অন্য কেওমোড FWA বিকল্পগুলি ভাঙ্গবে না।
-- এখন যখন আপনি কেমোড এফডব্লুএ আপডেট করবেন তখন হুক্স স্বয়ংক্রিয়ভাবে আপডেট হবে যখন আপনি হোয়াটসঅ্যাপ প্রবেশ করবেন।
-- সর্বশেষ বিটাস আপডেট করুন
-- ইন্দোনেশিয়ার ভাষা যোগ করা
-- কোনো তারিখ বার্তা মুছে ফেলার বিকল্প সংশোধন
+- স্টিকারের লুকানো ফাংশন সক্রিয় করতে যোগ করা বিকল্প।
+- গোপন গ্রুপ পরিচালন ফাংশন সক্রিয় করার জন্য যোগ করা বিকল্প।
+- ভয়েস বার্তা রেকর্ডিং ব্লক গোপন ফাংশন সক্রিয় করতে যোগ করা বিকল্প।
+- নতুন বিভাগে ব্যক্তিগতকরণ যোগ করা হয়েছে।
+- চ্যাট করার সময় পাঠ্যবইগুলি দেখানোর জন্য যোগ করা বিকল্প।
+- আপত্তিজনক বিকল্প তারিখ এবং কথোপকথন বার্তাগুলির নাম (সমস্যা স্থির না হওয়া পর্যন্ত) কপি করার জন্য।
+- বার্তাগুলির প্রাপ্তি (এখনও রাজ্যের সঙ্গে কাজ করে) রিসিপ্ট লুকানোর জন্য সংশোধন বিকল্প।
+- সর্বশেষ বিটা সংস্করণ সঙ্গে হোয়াটসঅ্যাপ খোলার প্রতিরোধ নির্দিষ্ট সমস্যা।
+- শেষ বিট মধ্যে কেন্দ্রিয় তারিখ কাস্টমাইজেশন সংশোধন করা হয়েছে।
+- তালিকার কাস্টমাইজেশন সংশোধন করা হয়েছে।
 - স্থায়ী অন্যান্য সমস্যা।
     </bn>
     <de>
-- Android SDK Aktualisierung zu Version 27.
-- Option zum Vermeiden der Löschung von Nachrichten, die von deinen Kontakten gesendet wurden, hinzugefügt.
-- Option zum Anzeigen der Verbindung und Trennung deiner Kontakte hinzugefügt (Es funktioniert nur mit Kontakten mit denen du eine Unterhaltung begonnen hast, wenn WhatsApp geöffnet wird).
-- Wenn nun eine Option defekt ist, wird sie nicht andere KMod FWA Optionen stören.
-- Wenn du nun KMod FWA aktualisierst werden die Haken automatisch aktualisiert sobald du WhatsApp öffnest.
-- Zu letzten Betas aktualisierst
-- Indonesisch Sprache hinzugefügt. 
-- Korrektur der Option zum löschen von Nachrichten jeglichen Datums.
+- Option um versteckte Stickerfunktion zu aktivieren hinzugefügt.
+- Option um versteckte Gruppen Leitungsoptionen zu aktivieren hinzugefügt.
+- Option um versteckte Funktion, zum Sperren der Aufnahme von Sprachnachrichten, zu aktivieren hinzugefügt
+- Personalisierung für den neuen Bereich hinzugefügt.
+- Option zum zeigen der Lesebestätigung, während man sich unterhält, hinzugefügt.
+- Option zum Kopieren von Zeitangabe und Name von Gesprächsnachrichten deaktiviert (bis das Problem behoben ist).
+- Option zum verstecken der Nachrichten Lesebestätigung korrigiert (funktioniert nun auch mit Status).
+- Problem behoben, das das öffnen von WhatsApp mit den letzten Beta Versionen verhinderte.
+- Die Anpassung der zentralen Zeitangabe, der letzten Betas, wurde korrigiert.
+- Anpassung der Listen wurde korrigiert.
 - Andere Probleme behoben.
 	</de>
     <es>
-- Actualización de Android SDK a la versión 27.
-- Añadida opción para evitar la eliminación de mensajes enviados por nuestros contactos.
-- Añadida opción para mostrar la conexión o desconexión de nuestros contactos (Solo funciona con los contactos en los que hemos entrado en su conversación al entrar en WhatsApp).
-- Ahora cuando se rompa una opción, no romperá al resto de opciónes de KMod FWA.
-- Ahora cuando actualices KMod FWA, los Hooks se actualizarán automaticamente al entrar en WhatsApp.
-- Actualización a las últimas Betas.
-- Añadido idioma Indonesio.
-- Corrección de la opción para eliminar mensajes de cualquier fecha.
-- Arreglados otros problemas.
+- Añadida opción para activar la función oculta de los Stickers.
+- Añadida opción para activar la función oculta de administración de grupos.
+- Añadida opción para activar la función oculta para bloquear la grabación de mensajes de voz.
+- Añadida personalización a las nuevas secciones.
+- Añadida opción para mostrar los recibos de lectura mientras chateas.
+- Desactivada la opción de copiar mensajes de conversaciones fin fecha y nombre (hasta solucionar el problema).
+- Corregida la opción para ocultar el recibo de lectura de los mensajes (ahora también funciona con los estados).
+- Corrigido el problema que impedía abrir WhatsApp con las últimas versiones Beta.
+- Corrigida la personalización de la fecha central en las últimas betas.
+- Corrigida la personalización de las listas.
+- Corregidos otros problemas.
     </es>
     <fr>
-- Mise à jour Android SDK à la version 27.
-- Ajout d'une option pour éviter la suppression des messages envoyés par nos contacts.
-- Ajout d'une option pour montrer la connexion ou la déconnexion de nos contacts (Cela ne fonctionne qu'avec les contacts dans lesquels nous avons entré votre conversation en entrant dans WhatsApp).
-- Maintenant, quand une option est cassée, elle ne va pas casser les autres options de KMod FWA.
-- Maintenant, lorsque vous mettez à jour KMod FWA, les Hooks seront mis à jour automatiquement lorsque vous entrez dans WhatsApp.
-- Mise à jour vers les derniers Betas.
-- Ajout de langue indonésien.
-- Correction de l'option de suppression des messages de n'importe quelle date.
+- Ajout de l'option pour activer la fonction cachée des autocollants.
+- Ajout de l'option pour activer la fonction de gestion de groupe cachée.
+- Ajout de l'option pour activer la fonction cachée pour bloquer l'enregistrement des messages vocaux.
+- Personnalisation ajoutée aux nouvelles sections.
+- Ajout d'une option pour afficher les reçus de lecture pendant que vous discutez.
+- Option désactivée pour copier la date et le nom des messages de conversations (jusqu'à ce que le problème soit résolu).
+- Option corrigée pour masquer la réception des messages de lecture (fonctionne maintenant aussi avec les états).
+- Correction d'un problème qui empêchait l'ouverture de WhatsApp avec les dernières versions bêta.
+- La personnalisation de la date centrale dans les derniers bêtas a été corrigée.
+- La personnalisation des listes a été corrigée.
 - Correction d'autres problèmes.
     </fr>
     <hi>
-- संस्करण 27 में एंड्रॉइड एसडीके अपडेट
-- हमारे संपर्कों द्वारा भेजे गए संदेशों के विलोपन से बचने के लिए विकल्प जोड़ा गया
-- हमारे संपर्कों का कनेक्शन या वियोग का पता लगाने के लिए जोड़ा गया विकल्प (यह केवल उन संपर्कों के साथ काम करता है जिसमें हम WhatsApp में प्रवेश करते समय अपनी बातचीत दर्ज कर चुके हैं)
-- अब जब कोई विकल्प टूट जाता है, तो वह अन्य केडॉड एफडब्ल्यूए विकल्पों को तोड़ नहीं सकता है।
-- अब जब आप केमोड एफडब्ल्यूए को अपडेट करते हैं, तो जब आप व्हाट्सएप में प्रवेश करते हैं तो हुक स्वचालित रूप से अपडेट हो जाएगा।
-- नवीनतम बीटास में अपडेट करें
-- जोड़ा गया इंडोनेशियाई भाषा
-- किसी भी तिथि के संदेशों को हटाने के विकल्प का सुधार।
+- स्टिकर के छिपे हुए कार्यों को सक्रिय करने के लिए विकल्प जोड़ा गया।
+- छिपा समूह प्रबंधन फ़ंक्शन को सक्रिय करने के लिए विकल्प जोड़ा गया।
+- ध्वनि संदेशों की रिकॉर्डिंग को अवरुद्ध करने के लिए छुपे हुए फ़ंक्शन को सक्रिय करने के लिए विकल्प जोड़ा गया।
+- नए वर्गों में निजीकरण जोड़ा गया।
+- आप चैट करते समय पढ़ने की रसीद दिखाने के लिए विकल्प जोड़ा गया
+- तारीख और बातचीत संदेशों के नाम की प्रतिलिपि करने के लिए विकलांग विकल्प (जब तक समस्या ठीक नहीं हो जाती)।
+- संदेश पढ़ने की प्राप्ति छिपाने के लिए सही विकल्प (अब भी राज्यों के साथ काम करता है)
+- फिक्स्ड समस्या जो हालिया बीटा संस्करणों के साथ व्हाट्सएप खोलने से रोका।
+- अंतिम बीटा में केंद्रीय तारीख का अनुकूलन सही था।
+- सूचियों का अनुकूलन सही था
 - फिक्स्ड अन्य समस्याएं
     </hi>
 	<in>
-- Android SDK diperbarui ke versi 27.
-- Tambahan opsi untuk mencegah penghapusan pesan yang dikirim oleh kontak anda.
-- Tambahan opsi untuk menampilkan sambungan koneksi atau pemutusan koneksi kontak anda (hanya bekerja pada kontak yang telah memiliki percakapan saat masuk WhatsApp).
-- Jika sebuah opsi gagal, tidak akan mengganggu opsi KMod FWA yang lain.
-- Ketika memperbarui KMod FWA, Hooks akan diperbarui secara otomatis ketika memasuki WhatsApp.
-- Diperbarui ke versi Beta terbaru.
-- Ditambahkan bahasa indonesia.
-- Koreksi dari opsi untuk menghapus pesan di tanggal apa saja.
-- Perbaikan beberapa masalah lainnya.
+- Tambahan opsi untuk mengaktifkan fungsi tersembunyi Stiker.
+- Tambahan opsi untuk mengaktifkan fungsi tersembunyi Pengelolaan Grup .
+- Tambahan opsi mengaktifkan fungsi tersembunyi untuk blokir rekaman pesan suara.
+- Menambahkan Personalisasi ke bagian baru.
+- Tambahan opsi untuk memperlihatkan resep baca ketika sedang mengobrol.
+- Menonaktifkan fungsi salin nama dan tanggal didalam pesan di percakapan (sampai masalah selesai diperbaiki).
+- Koreksi opsi untuk menyembunyikan laporan baca (juga berfungsi dengan pernyataan).
+- Perbaikan masalah yang mencegah membuka WhatsApp dalam versi Beta terbaru.
+- Perbaikan penyesuaian tanggal pusat pada versi beta terbaru.
+- Perbaikan daftar penyesuaian.
+- Perbaikan masalah lain-lain.
 	</in>
     <it>
-- Android SDK aggiornato alla versione 27.
-- Aggiunta opzione per evitare la cancellazione di messaggi spediti dai propri contatti.
-- Aggiunta opzione per mostrare la connessione o la disconnessione dei propri contatti (funziona solamente con i contatti con i quali è stata iniziata una conversazione durante l'ingresso in WhatsApp).
-- Adesso, quando un'opzione si interrompe, non interromperà le altre opzioni di KMod FWA.
-- Adesso, all'aggiornamento di KMod FWA, gli agganci verranno aggiornati automaticamente all'ingresso in WhatsApp.
-- Aggiornato alle ultime Beta.
-- Aggiunta lingua indonesiano.
-- Correzione dell'opzione per cancellare i messaggi di qualsiasi data.
-- Sistemati altri problemi.
+- Aggiunta opzione per attivare funzioni nascoste degli Stickers.
+- Aggiunta opzione per attivare funzioni nascoste di gestione gruppi.
+- Aggiunta opzione per attivare funzione nascosta Added per il blocco delle registrazioni vocali.
+- Aggiunta Personalizzazione alle nuove sezioni.
+- Aggiunta opzione per visualizzare la lettura dei ricevuti durante la chat.
+- Disattivata opzione per copiare data e nome Disabled option to dai messaggi di una conversazione (fino a risoluzione del problema).
+- Corretta opzione per nascondere la lettura dei messaggi ricevuti (ora funzionante anche negli stati).
+- Risolto problema che preveniva l'apertura di WhatsApp con le ultime versioni  Beta.
+- La personalizzazione della data centrale nelle ultime beta è stata corretta.
+- La personalizzazione delle liste è stata corretta.
+- Risoluzione di altri problemi.
     </it>
     <nl>
-- Android SDK-update naar versie 27.
-- Optie toegevoegd om te voorkomen dat berichten worden verwijderd door onze contactpersonen.
-- Optie toegevoegd om de verbinding of verbreking van onze contacten te tonen (het werkt alleen met de contacten waarin wij uw gesprek hebben ingevoerd bij het invoeren van WhatsApp).
-- Wanneer een optie wordt verbroken, zal dit de andere KMod FWA-opties niet breken.
-- Als u KMod FWA nu update, worden de hooks automatisch bijgewerkt wanneer u WhatsApp invoert.
-- Update naar de nieuwste bèta's.
-- Indonesisch taal toegevoegd. 
-- Correctie van de optie om berichten van welke datum dan ook te verwijderen.
+- Optie toegevoegd om de verborgen functie van Stickers te activeren.
+- Optie toegevoegd om de verborgen functie voor groepsbeheer te activeren.
+- Optie toegevoegd om de verborgen functie te activeren om het opnemen van spraakberichten te blokkeren.
+- Personalisatie toegevoegd aan de nieuwe secties.
+- Optie toegevoegd om de leesbevestigingen tijdens het chatten te tonen.
+- Uitgeschakelde optie om datum en naam van conversatieberichten te kopiëren (totdat het probleem is opgelost).
+- Gecorrigeerde optie om de ontvangst van berichten te verbergen (werkt nu ook met de toestanden).
+- Probleem opgelost waardoor WhatsApp niet kon worden geopend met de nieuwste bètaversies.
+- De aanpassing van de centrale datum in laatste bèta's is gecorrigeerd.
+- Aanpassing van de lijsten is gecorrigeerd.
 - Andere problemen verholpen.
     </nl>	
     <pt>
-- Atualizada para a SDK 27 do Android.
-- Adicionada opção para evitar a deleção de mensagens de contatos.
-- Adicionada a opção de mostrar a conexão ou desconexão de contatos (apenas funciona se o contato entrou na conversa quando abriu o Whatsapp)
-- Agora quando uma opção se quebra, não ira quebrar as outras opções do KMod que ainda funciona.
-- Agora quando o KMod FWF for atualizado, os hooks serão limpos e reaplicados quando abrir o Whatsapp.
-- Update para a ultima beta.
-- Adicionado idioma indonésio.
-- Correção na opção de apagar mensagens de qualquer data.
-- Outras correções de bugs.
+- Adicionada a opção de habilitar os stikers ocultos.
+- Adicionada a opção de habilitar o controle oculto de grupos.
+- Opção de bloquear gravação de mensagem de voz.
+- Novas seções de personalização.
+- Adicionada a opção de mostrar confirmação de leitura em quanto o chat estiver aberto.
+- Opção de copiar a data e nome da conversa desabilitada até problema de conflito ser resolvido.
+- Correção de bugs para a opção de esconder a confirmação de leitura, agora também com estados.
+- Corrigido problema de não deixar o ultimo WhatsApp beta abrir com o modulo ativado.
+- A customização de data central foi corrigida.
+- Customização de listas agora funciona corretamente.
+- Outros bugs corrigidos.
     </pt>
     <ru>
-- Обновление Android SDK до версии 26.
-- Добавлена ​​возможность избегать удаления сообщений, отправленных Вашими контактами.
-- Добавлена ​​опция показать соединение или отключение наших контактов (она работает только с контактами, с которые Вы вошли в разговор в WhatsApp).
-- Теперь, когда опция сломана, она не нарушит другие параметры KMod FWA.
-- Теперь, когда Вы обновляете KMod FWA, галки будут автоматически обновляться при входе в WhatsApp.
-- Работает с последними бета-версиями.
-- Добавлен индонезийский язык.
-- Исправлена ​​возможность удаления сообщений любой даты.
+- Добавлена возможность активировать скрытую функцию Стикеры.
+- Добавлена возможность активировать функцию скрытого управления группами.
+- Добавлена возможность активировать скрытую функцию для блокировки записи голосовых сообщений.
+- Персонализация добавлена в новые разделы.
+- Добавлены опция показывать уведомления о прочтении во время общения
+- Отключен вариант для копирования даты и имени сообщений в разговорах (пока проблема не будет устранена).
+- Исправлена опция скрыть получение сообщений (теперь также работает с состояниями).
+- Исправлена проблема, которая препятствовала открытию WhatsApp с последними бета-версиями.
+- Была изменена настройка центральной даты в последних бета-версиях.
+- Была скорректирована настройка списков.
 - Исправлены другие проблемы.
     </ru>
     <tr>
-- Android SDK 27.sürüm güncelleştirmesi.
-- Kişileriniz tarafından gönderilen mesajların silinmesini engelleme seçeneği eklendi.
-- Kişilerinizin giriş ve çıkışlarını gösterme seçeneği eklendi (Bu özellik sadece Whatsapp'a giriş yaparken sizin konuşmalarınıza giren kişiler için geçerlidir).
-- Artık bir seçenek bozulduğunda, diğer KMod FWA seçeneklerini bozmayacak.
-- KMod FWA'yı güncelleştirip, Whatsapp'a giriş yaptığınızda kancalar otomatik olarak güncelleştirilecek.
-- Son Betalar için güncelleştirme.
-- Endonezya eklendi.
-- Tarih sınırlaması olmadan mesaj silme seçeneği düzeltildi.
-- Diğer problemler düzeltildi.
+-Gizli sticker özelliğini etkinleştirme seçeneği eklendi.
+-Gizli grup yönetimi seçeneklerini etkinleştirme seçeneği eklendi.
+-Sesli mesaj kaydetmeyi engelleyen gizli özelliği etkinleştirme seçeneği eklendi.
+-Yeni bölümlere kişiselleştirme özelliği eklendi.
+-Okundu bilgilerini mesajlaşma sırasında gösterme özelliği eklendi.
+-Mesajların tarih ve isimlerini kopyalama özelliği devre dışı bırakıldı (problem çözülene kadar).
+-Okundu bilgisini gizleme seçeneği düzeltildi (artık durumlarla da çalışıyor).
+-WhatsApp'ın son Beta sürümlerinin açılmasını engelleyen problem çözüldü.
+-Tarihin son betalarda kişiselleştirilmesi düzeltildi.
+-Listelerin kişiselleştirilmesi düzeltildi.
+-Diğer problemler çözüldü.
     </tr>
   </update>
 </AppUpdater>
