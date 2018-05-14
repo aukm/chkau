@@ -1,175 +1,45 @@
 <AppUpdater>
   <update>
-    <latestVersion>2.6.8</latestVersion>
-    <url>https://dl-xda.xposed.info/modules/kmod.xposed_v2680_e9eff5.apk</url>
+    <latestVersion>2.6.9</latestVersion>
+    <url>https://dl-xda.xposed.info/modules/kmod.xposed_v2690_716153.apk</url>
     <en>
-- Added option to activate hidden function of Stickers.
-- Added option to activate hidden group management function.
-- Added option to activate hidden function to block the recording of voice messages.
-- Personalization added to the new sections.
-- Added option to show the reading receipts while you chat.
-- Disabled option to copy date and name of conversations messages (until the problem is fixed).
-- Corrected option to hide receipt of messages read (now also works with the states).
-- Fixed problem that prevented opening WhatsApp with the latest Beta versions.
-- The customization of the central date in last betas was corrected.
-- Customization of the lists was corrected.
-- Fixed other problems.
+- Expiration date updated
     </en>
     <ar>
-- واضاف الخيار لتنشيط وظيفة مخفية من الملصقات.
-- إضافة خيار لتنشيط وظيفة إدارة المجموعة المخفية.
-- إضافة خيار لتنشيط وظيفة مخفية لمنع تسجيل الرسائل الصوتية.
-- إضافة شخصية إلى أقسام جديدة.
-- إضافة خيار لإظهار إيصالات القراءة أثناء الدردشة.
-- خيار تعطيل لنسخ تاريخ واسم رسائل المحادثات (حتى يتم إصلاح المشكلة).
-- تصحيح الخيار لإخفاء استلام الرسائل القراءة (الآن يعمل أيضا مع الولايات).
-- تم إصلاح المشكلة التي حالت دون فتح تطبيق WhatsApp مع أحدث الإصدارات التجريبية.
-- تم تصحيح تخصيص التاريخ المركزي في آخر عملية beta.
-- تم تصحيح تخصيص القوائم.
-- مشاكل أخرى ثابتة.
+- تاريخ انتهاء الصلاحية المحدث
     </ar>
     <bn>
-- স্টিকারের লুকানো ফাংশন সক্রিয় করতে যোগ করা বিকল্প।
-- গোপন গ্রুপ পরিচালন ফাংশন সক্রিয় করার জন্য যোগ করা বিকল্প।
-- ভয়েস বার্তা রেকর্ডিং ব্লক গোপন ফাংশন সক্রিয় করতে যোগ করা বিকল্প।
-- নতুন বিভাগে ব্যক্তিগতকরণ যোগ করা হয়েছে।
-- চ্যাট করার সময় পাঠ্যবইগুলি দেখানোর জন্য যোগ করা বিকল্প।
-- আপত্তিজনক বিকল্প তারিখ এবং কথোপকথন বার্তাগুলির নাম (সমস্যা স্থির না হওয়া পর্যন্ত) কপি করার জন্য।
-- বার্তাগুলির প্রাপ্তি (এখনও রাজ্যের সঙ্গে কাজ করে) রিসিপ্ট লুকানোর জন্য সংশোধন বিকল্প।
-- সর্বশেষ বিটা সংস্করণ সঙ্গে হোয়াটসঅ্যাপ খোলার প্রতিরোধ নির্দিষ্ট সমস্যা।
-- শেষ বিট মধ্যে কেন্দ্রিয় তারিখ কাস্টমাইজেশন সংশোধন করা হয়েছে।
-- তালিকার কাস্টমাইজেশন সংশোধন করা হয়েছে।
-- স্থায়ী অন্যান্য সমস্যা।
+- মেয়াদ শেষের তারিখ আপডেট করা হয়েছে
     </bn>
     <de>
-- Option um versteckte Stickerfunktion zu aktivieren hinzugefügt.
-- Option um versteckte Gruppen Leitungsoptionen zu aktivieren hinzugefügt.
-- Option um versteckte Funktion, zum Sperren der Aufnahme von Sprachnachrichten, zu aktivieren hinzugefügt
-- Personalisierung für den neuen Bereich hinzugefügt.
-- Option zum zeigen der Lesebestätigung, während man sich unterhält, hinzugefügt.
-- Option zum Kopieren von Zeitangabe und Name von Gesprächsnachrichten deaktiviert (bis das Problem behoben ist).
-- Option zum verstecken der Nachrichten Lesebestätigung korrigiert (funktioniert nun auch mit Status).
-- Problem behoben, das das öffnen von WhatsApp mit den letzten Beta Versionen verhinderte.
-- Die Anpassung der zentralen Zeitangabe, der letzten Betas, wurde korrigiert.
-- Anpassung der Listen wurde korrigiert.
-- Andere Probleme behoben.
+- Ablaufdatum aktualisiert
 	</de>
     <es>
-- Añadida opción para activar la función oculta de los Stickers.
-- Añadida opción para activar la función oculta de administración de grupos.
-- Añadida opción para activar la función oculta para bloquear la grabación de mensajes de voz.
-- Añadida personalización a las nuevas secciones.
-- Añadida opción para mostrar los recibos de lectura mientras chateas.
-- Desactivada la opción de copiar mensajes de conversaciones fin fecha y nombre (hasta solucionar el problema).
-- Corregida la opción para ocultar el recibo de lectura de los mensajes (ahora también funciona con los estados).
-- Corrigido el problema que impedía abrir WhatsApp con las últimas versiones Beta.
-- Corrigida la personalización de la fecha central en las últimas betas.
-- Corrigida la personalización de las listas.
-- Corregidos otros problemas.
+- Fecha de caducidad actualizada
     </es>
     <fr>
-- Ajout de l'option pour activer la fonction cachée des autocollants.
-- Ajout de l'option pour activer la fonction de gestion de groupe cachée.
-- Ajout de l'option pour activer la fonction cachée pour bloquer l'enregistrement des messages vocaux.
-- Personnalisation ajoutée aux nouvelles sections.
-- Ajout d'une option pour afficher les reçus de lecture pendant que vous discutez.
-- Option désactivée pour copier la date et le nom des messages de conversations (jusqu'à ce que le problème soit résolu).
-- Option corrigée pour masquer la réception des messages de lecture (fonctionne maintenant aussi avec les états).
-- Correction d'un problème qui empêchait l'ouverture de WhatsApp avec les dernières versions bêta.
-- La personnalisation de la date centrale dans les derniers bêtas a été corrigée.
-- La personnalisation des listes a été corrigée.
-- Correction d'autres problèmes.
+- Date d'expiration mise à jour
     </fr>
     <hi>
-- स्टिकर के छिपे हुए कार्यों को सक्रिय करने के लिए विकल्प जोड़ा गया।
-- छिपा समूह प्रबंधन फ़ंक्शन को सक्रिय करने के लिए विकल्प जोड़ा गया।
-- ध्वनि संदेशों की रिकॉर्डिंग को अवरुद्ध करने के लिए छुपे हुए फ़ंक्शन को सक्रिय करने के लिए विकल्प जोड़ा गया।
-- नए वर्गों में निजीकरण जोड़ा गया।
-- आप चैट करते समय पढ़ने की रसीद दिखाने के लिए विकल्प जोड़ा गया
-- तारीख और बातचीत संदेशों के नाम की प्रतिलिपि करने के लिए विकलांग विकल्प (जब तक समस्या ठीक नहीं हो जाती)।
-- संदेश पढ़ने की प्राप्ति छिपाने के लिए सही विकल्प (अब भी राज्यों के साथ काम करता है)
-- फिक्स्ड समस्या जो हालिया बीटा संस्करणों के साथ व्हाट्सएप खोलने से रोका।
-- अंतिम बीटा में केंद्रीय तारीख का अनुकूलन सही था।
-- सूचियों का अनुकूलन सही था
-- फिक्स्ड अन्य समस्याएं
+- समाप्ति तिथि अद्यतन
     </hi>
 	<in>
-- Tambahan opsi untuk mengaktifkan fungsi tersembunyi Stiker.
-- Tambahan opsi untuk mengaktifkan fungsi tersembunyi Pengelolaan Grup .
-- Tambahan opsi mengaktifkan fungsi tersembunyi untuk blokir rekaman pesan suara.
-- Menambahkan Personalisasi ke bagian baru.
-- Tambahan opsi untuk memperlihatkan resep baca ketika sedang mengobrol.
-- Menonaktifkan fungsi salin nama dan tanggal didalam pesan di percakapan (sampai masalah selesai diperbaiki).
-- Koreksi opsi untuk menyembunyikan laporan baca (juga berfungsi dengan pernyataan).
-- Perbaikan masalah yang mencegah membuka WhatsApp dalam versi Beta terbaru.
-- Perbaikan penyesuaian tanggal pusat pada versi beta terbaru.
-- Perbaikan daftar penyesuaian.
-- Perbaikan masalah lain-lain.
+- Tanggal kedaluwarsa diperbarui
 	</in>
     <it>
-- Aggiunta opzione per attivare funzioni nascoste degli Stickers.
-- Aggiunta opzione per attivare funzioni nascoste di gestione gruppi.
-- Aggiunta opzione per attivare funzione nascosta Added per il blocco delle registrazioni vocali.
-- Aggiunta Personalizzazione alle nuove sezioni.
-- Aggiunta opzione per visualizzare la lettura dei ricevuti durante la chat.
-- Disattivata opzione per copiare data e nome Disabled option to dai messaggi di una conversazione (fino a risoluzione del problema).
-- Corretta opzione per nascondere la lettura dei messaggi ricevuti (ora funzionante anche negli stati).
-- Risolto problema che preveniva l'apertura di WhatsApp con le ultime versioni  Beta.
-- La personalizzazione della data centrale nelle ultime beta è stata corretta.
-- La personalizzazione delle liste è stata corretta.
-- Risoluzione di altri problemi.
+- Data di scadenza aggiornata
     </it>
     <nl>
-- Optie toegevoegd om de verborgen functie van Stickers te activeren.
-- Optie toegevoegd om de verborgen functie voor groepsbeheer te activeren.
-- Optie toegevoegd om de verborgen functie te activeren om het opnemen van spraakberichten te blokkeren.
-- Personalisatie toegevoegd aan de nieuwe secties.
-- Optie toegevoegd om de leesbevestigingen tijdens het chatten te tonen.
-- Uitgeschakelde optie om datum en naam van conversatieberichten te kopiëren (totdat het probleem is opgelost).
-- Gecorrigeerde optie om de ontvangst van berichten te verbergen (werkt nu ook met de toestanden).
-- Probleem opgelost waardoor WhatsApp niet kon worden geopend met de nieuwste bètaversies.
-- De aanpassing van de centrale datum in laatste bèta's is gecorrigeerd.
-- Aanpassing van de lijsten is gecorrigeerd.
-- Andere problemen verholpen.
+- Vervaldatum bijgewerkt
     </nl>	
     <pt>
-- Adicionada a opção de habilitar os stikers ocultos.
-- Adicionada a opção de habilitar o controle oculto de grupos.
-- Opção de bloquear gravação de mensagem de voz.
-- Novas seções de personalização.
-- Adicionada a opção de mostrar confirmação de leitura em quanto o chat estiver aberto.
-- Opção de copiar a data e nome da conversa desabilitada até problema de conflito ser resolvido.
-- Correção de bugs para a opção de esconder a confirmação de leitura, agora também com estados.
-- Corrigido problema de não deixar o ultimo WhatsApp beta abrir com o modulo ativado.
-- A customização de data central foi corrigida.
-- Customização de listas agora funciona corretamente.
-- Outros bugs corrigidos.
+- Data de expiração atualizada
     </pt>
     <ru>
-- Добавлена возможность активировать скрытую функцию Стикеры.
-- Добавлена возможность активировать функцию скрытого управления группами.
-- Добавлена возможность активировать скрытую функцию для блокировки записи голосовых сообщений.
-- Персонализация добавлена в новые разделы.
-- Добавлены опция показывать уведомления о прочтении во время общения
-- Отключен вариант для копирования даты и имени сообщений в разговорах (пока проблема не будет устранена).
-- Исправлена опция скрыть получение сообщений (теперь также работает с состояниями).
-- Исправлена проблема, которая препятствовала открытию WhatsApp с последними бета-версиями.
-- Была изменена настройка центральной даты в последних бета-версиях.
-- Была скорректирована настройка списков.
-- Исправлены другие проблемы.
+- Дата истечения срока действия обновлена
     </ru>
     <tr>
--Gizli sticker özelliğini etkinleştirme seçeneği eklendi.
--Gizli grup yönetimi seçeneklerini etkinleştirme seçeneği eklendi.
--Sesli mesaj kaydetmeyi engelleyen gizli özelliği etkinleştirme seçeneği eklendi.
--Yeni bölümlere kişiselleştirme özelliği eklendi.
--Okundu bilgilerini mesajlaşma sırasında gösterme özelliği eklendi.
--Mesajların tarih ve isimlerini kopyalama özelliği devre dışı bırakıldı (problem çözülene kadar).
--Okundu bilgisini gizleme seçeneği düzeltildi (artık durumlarla da çalışıyor).
--WhatsApp'ın son Beta sürümlerinin açılmasını engelleyen problem çözüldü.
--Tarihin son betalarda kişiselleştirilmesi düzeltildi.
--Listelerin kişiselleştirilmesi düzeltildi.
--Diğer problemler çözüldü.
+- Son kullanma tarihi güncellendi
     </tr>
   </update>
 </AppUpdater>
