@@ -1,45 +1,132 @@
 <AppUpdater>
   <update>
-    <latestVersion>2.6.9</latestVersion>
-    <url>https://dl-xda.xposed.info/modules/kmod.xposed_v2690_716153.apk</url>
+    <latestVersion>2.7.0</latestVersion>
+    <url>https://dl-xda.xposed.info/modules/kmod.xposed_v2700_d797d2.apk</url>
     <en>
-- Expiration date updated
+- Added whitelist and blacklist for the option, hide reading confirmation.
+- Added option to hide you've seen status, with whitelist and blacklist.
+- Added icons for the section of the conversation screen.
+- Added Romanian language.
+- Restructuring of the Screen format of the conversations section.
+- Deleted the Delete sent messages option, until the problem is solved.
+- Solved interface problems.
     </en>
     <ar>
-- تاريخ انتهاء الصلاحية المحدث
+- تمت إضافة القائمة البيضاء والقائمة السوداء للخيار وإخفاء تأكيد القراءة.
+- تمت إضافة خيار لإخفاء حالة المشاهدة ، مع القائمة البيضاء والقائمة السوداء.
+- الرموز المضافة لقسم شاشة المحادثة.
+- أضيفت اللغة الرومانية.
+- إعادة هيكلة تنسيق الشاشة لقسم المحادثات.
+- حذف خيار حذف الرسائل المرسلة ، حتى يتم حل المشكلة.
+- مشاكل واجهة حلها.
     </ar>
     <bn>
-- মেয়াদ শেষের তারিখ আপডেট করা হয়েছে
+- বিকল্পের জন্য হোয়াইটলিস্ট এবং ব্ল্যাকলিস্ট যোগ করা, পুস্তিকা যাচাইকরণ লুকান
+- হোয়াইটলিস্ট এবং ব্ল্যাকলিস্টের সাথে আপনি স্থিতি দেখেছেন, লুকানো বিকল্পটি জুড়েছে।
+- কথোপকথন পর্দার অংশ জন্য যোগ করা আইকন।
+- রোমান ভাষা যোগ করা হয়েছে
+- কথোপকথন বিভাগের স্ক্রিন ফরম্যাটের পুনর্গঠন।
+- সমস্যা সমাধান করা হয় না হওয়া পর্যন্ত, পাঠানো বার্তা মুছে ফেলুন মুছে ফেলা।
+- সমাধান ইন্টারফেস সমস্যা।
     </bn>
     <de>
-- Ablaufdatum aktualisiert
+- Weiße und Schwarze Liste, für die Option verstecke Lesebestätigung, hinzugefügt.
+- Option zum verstecken, dass du den Status gesehen hast, hinzugefügt, mit Weißer und Schwarzer Liste.
+- Symbole for den Bereich des Unterhaltungsbildschirms hinzugefügt.
+- Rumänische Sprache hinzugefügt.
+- Restrukturierung des Bildschirmformats des Unterhaltungsbereich.
+- Die lösche gesendete Nachricht Option entfernt, bis das Problem behoben ist, damit es wieder funktioniert.
+- Oberflächen Probleme behoben.
 	</de>
     <es>
-- Fecha de caducidad actualizada
+- Se agrego lista blanca y lista negra para la opción, ocultar confirmación de lectura.
+- Se agregó la opción para ocultar cuando vea el estado, con lista blanca y lista negra.
+- Añadidos iconos para la sección Secciones de la pantalla de conversación.
+- Añadido idioma Rumano.
+- Restructuración de la sección Formato de pantalla de la sección conversaciones.
+- Se eliminó la opción Eliminar mensajes enviados, hasta que se resuelva el problema.
+- Arreglados problemas de interfaz.
     </es>
     <fr>
-- Date d'expiration mise à jour
+- Ajout de la liste blanche et de la liste noire pour l'option, masquer la confirmation de lecture.
+- Ajout de l'option pour masquer vous avez vu le statut, avec liste blanche et liste noire.
+- Ajout d'icônes pour la section de l'écran de conversation.
+- Ajout de la langue roumaine.
+- Restructuration du format écran de la section conversations.
+- Suppression de l'option Supprimer les messages envoyés, jusqu'à ce que le problème soit résolu.
+- Problèmes d'interface résolus.
     </fr>
     <hi>
-- समाप्ति तिथि अद्यतन
+- विकल्प के लिए श्वेतसूची और ब्लैकलिस्ट जोड़ा गया, पढ़ने की पुष्टि छुपाएं।
+- श्वेतसूची और ब्लैकलिस्ट के साथ, आपको स्थिति को देखने के लिए जोड़ा गया विकल्प जोड़ा गया।
+- वार्तालाप स्क्रीन के अनुभाग के लिए जोड़ा गया प्रतीक।
+- रोमानियाई भाषा जोड़ा गया।
+- वार्तालाप अनुभाग के स्क्रीन प्रारूप का पुनर्गठन।
+- समस्या हल होने तक प्रेषित संदेश हटाएं विकल्प हटा दिया गया।
+- हल इंटरफ़ेस समस्याएं।
     </hi>
 	<in>
-- Tanggal kedaluwarsa diperbarui
+- Penambahan daftar putih dan daftar hitam untuk opsi, sembunyikan konfirmasi baca
+- Penambahan opsi sembunyi ketika melihat status, dengan daftar putih dan daftar hitam
+- Penambahan ikon pada bagian layar percakapan
+- Penambahan bahasa Rumania
+- Restruktur baru bagian format layar pada bagian percakapan
+- Menghilangkan opsi Hapus pesan terkirim, sampai masalah nya diselesaikan sehingga berfungsi kembali
+- Penyelesaian masalah antarmuka
 	</in>
     <it>
-- Data di scadenza aggiornata
+- Aggiunta whitelist e blacklist per le opzioni, opzione per nascondere le conferme di lettura.
+- Aggiunta opzione per nascondere la visualizzazione degli stati, con la whitelist e la blacklist.
+- Aggiunte icone per la sezione Sezione delle schermate delle conversazioni.
+- Aggiunta lingua Rumena.
+- Nuova ristrutturazione del formato della schermata della sezione delle conversazioni.
+- Eliminate le opzioni per eliminare i messaggi spediti, finchè il problema verrà risolto in modo che possa funzionare nuovamente.
+- Risolti problemi di interfaccia.
     </it>
     <nl>
-- Vervaldatum bijgewerkt
+- Toegevoegd witte lijst en zwarte lijst voor de optie, verberg leesbevestiging.
+- Optie toegevoegd om te verbergen dat je de status hebt gezien, met witte lijst en zwarte lijst.
+- Pictogrammen toegevoegd voor het gedeelte van het gespreksscherm.
+- Toegevoegd Roemeense taal.
+- Herstructurering van het schermformaat van het gespreksgedeelte.
+- De optie Verwijder verzonden berichten verwijderd, totdat het probleem is opgelost.
+- Opgeloste interfaceproblemen.
     </nl>	
     <pt>
-- Data de expiração atualizada
+- Adicionada lista negra e branca para a opção de esconder confirmação de leitura.
+- Adicoonada opção para esconder quando você vê o status, com lista branca e negra.
+- Adicionados icônes para as seções da tela de conversa.
+- Nova lingua disponível, romênio.
+- Seçãp de formato de tela foi reestruturada para a seção de conversas.
+- Opção de deletar mensagens enviadas desativada até problema ser resolvido nesta.
+- Resolvidos problêmas de interface.
     </pt>
+	<ro>
+- Added whitelist, and blacklist for the option, hide reading confirmation.
+- Added option to hide when you see status, with whitelist and blacklist.
+- Added icons for the section Sections of the conversation screen.
+- Added Romanian language.
+- New restructuring of the Screen format section of the conversations section.
+- Deleted the Delete sent messages option, until the problem is solved so that it works again.
+- Solved interface problems.
+	</ro>
     <ru>
-- Дата истечения срока действия обновлена
+- Добавлен белый и черный список для опции, Скрыть подтверждение чтения.
+- Добавлена ​​опция скрыть, когда Вы видите статус, со списком белый и черный список.
+- Добавлены значки для раздела Разделы экрана беседы.
+- Добавлен румынский язык.
+- Новая реструктуризация раздела Формат экрана раздела бесед.
+- Удалена опция Удалить отправленные сообщения, пока проблема не будет решена, чтобы она снова работала.
+- Решенные проблемы с интерфейсом.
     </ru>
     <tr>
-- Son kullanma tarihi güncellendi
+-Okundu bilgisini gizleme özelliğine beyaz liste, ve kara liste, özelliği eklendi.
+-Durum görüldü bilgisini gizleme, beyaz liste ve kara liste ile, özelliği eklendi.
+-Konuşma ekranının Bölümler isimli bölümüne ikonlar eklendi. *added "isimli" because it might be confusing for people*
+-Rumence eklendi.
+-Konuşmalar bölümünün, ekran düzenleme bölümü yeniden inşa edildi. 
+-Gönderilmiş mesajları silme seçeneği problem düzeltilene kadar kaldırıldı.
+-Arayüz problemleri düzeltildi.
     </tr>
   </update>
 </AppUpdater>
