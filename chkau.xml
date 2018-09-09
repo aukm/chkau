@@ -1,132 +1,132 @@
 <AppUpdater>
   <update>
-    <latestVersion>2.7.0</latestVersion>
-    <url>https://dl-xda.xposed.info/modules/kmod.xposed_v2700_d797d2.apk</url>
+    <latestVersion>2.7.1</latestVersion>
+    <url>https://dl-xda.xposed.info/modules/kmod.xposed_v2710_67e3bf.apk</url>
     <en>
-- Added whitelist and blacklist for the option, hide reading confirmation.
-- Added option to hide you've seen status, with whitelist and blacklist.
-- Added icons for the section of the conversation screen.
-- Added Romanian language.
-- Restructuring of the Screen format of the conversations section.
-- Deleted the Delete sent messages option, until the problem is solved.
-- Solved interface problems.
+- Added option to customize the interface font.
+- Added option to disable all tabs (except for chats).
+- Now a warning will not be shown when a message has been deleted.
+- Fixed option to avoid deleting messages (I was not working correctly on some devices).
+- Fixed privacy option, hide recording audio and writing.
+- Fixed tab button, now correctly shows the button according to the section.
+- Fixed other errors.
     </en>
     <ar>
-- تمت إضافة القائمة البيضاء والقائمة السوداء للخيار وإخفاء تأكيد القراءة.
-- تمت إضافة خيار لإخفاء حالة المشاهدة ، مع القائمة البيضاء والقائمة السوداء.
-- الرموز المضافة لقسم شاشة المحادثة.
-- أضيفت اللغة الرومانية.
-- إعادة هيكلة تنسيق الشاشة لقسم المحادثات.
-- حذف خيار حذف الرسائل المرسلة ، حتى يتم حل المشكلة.
-- مشاكل واجهة حلها.
+- وأضاف الخيار لتخصيص خط الواجهة.
+- إضافة خيار لتعطيل جميع علامات التبويب (باستثناء الدردشات).
+- الآن لن يظهر تحذير عند حذف رسالة.
+- خيار ثابت لتجنب حذف الرسائل (لم أكن أعمل بشكل صحيح على بعض الأجهزة).
+- خيار الخصوصية الثابتة ، إخفاء تسجيل الصوت والكتابة.
+- زر علامة التبويب ثابت ، الآن يظهر بشكل صحيح على الزر وفقا لهذا القسم.
+- أخطاء أخرى ثابتة.
     </ar>
     <bn>
-- বিকল্পের জন্য হোয়াইটলিস্ট এবং ব্ল্যাকলিস্ট যোগ করা, পুস্তিকা যাচাইকরণ লুকান
-- হোয়াইটলিস্ট এবং ব্ল্যাকলিস্টের সাথে আপনি স্থিতি দেখেছেন, লুকানো বিকল্পটি জুড়েছে।
-- কথোপকথন পর্দার অংশ জন্য যোগ করা আইকন।
-- রোমান ভাষা যোগ করা হয়েছে
-- কথোপকথন বিভাগের স্ক্রিন ফরম্যাটের পুনর্গঠন।
-- সমস্যা সমাধান করা হয় না হওয়া পর্যন্ত, পাঠানো বার্তা মুছে ফেলুন মুছে ফেলা।
-- সমাধান ইন্টারফেস সমস্যা।
+- ইন্টারফেস ফন্ট কাস্টমাইজ করার জন্য যোগ করা বিকল্প।
+- সব ট্যাব নিষ্ক্রিয় করার জন্য যোগ করা বিকল্প (চ্যাট ছাড়া)।
+- একটি বার্তা মুছে ফেলা হয়েছে যখন এখন একটি সতর্কতা দেখানো হবে না।
+- বার্তা মুছে ফেলা এড়ানোর জন্য ফিক্সড বিকল্প (আমি কিছু ডিভাইসে সঠিকভাবে কাজ করা হয় নি)
+- ফিক্সড গোপনীয়তা বিকল্প, রেকর্ডিং অডিও এবং লেখা লুকান।
+- স্থায়ী ট্যাব বোতাম, এখন সঠিকভাবে বিভাগ অনুযায়ী বোতাম দেখায়।
+- অন্যান্য ত্রুটি সংশোধন
     </bn>
     <de>
-- Weiße und Schwarze Liste, für die Option verstecke Lesebestätigung, hinzugefügt.
-- Option zum verstecken, dass du den Status gesehen hast, hinzugefügt, mit Weißer und Schwarzer Liste.
-- Symbole for den Bereich des Unterhaltungsbildschirms hinzugefügt.
-- Rumänische Sprache hinzugefügt.
-- Restrukturierung des Bildschirmformats des Unterhaltungsbereich.
-- Die lösche gesendete Nachricht Option entfernt, bis das Problem behoben ist, damit es wieder funktioniert.
-- Oberflächen Probleme behoben.
+- Option hinzugefügt, um die Schriftart der Benutzeroberfläche anzupassen.
+- Option zum deaktivieren aller Tabs (außer Unterhaltungen) hinzugefügt.
+- Jetzt wird keine Warnung angezeigt, wenn eine Nachricht gelöscht wurde.
+- Option wurde behoben, um das Löschen von Nachrichten zu vermeiden (ich habe auf einigen Geräten nicht richtig funktioniert).
+- Privacy-Option behoben, Audio-Aufnahme ausblenden und schreiben.
+- Reiter Schaltfläche repariert, es zeigt nun die korrekte Schaltfläche abhängig von der Sektion.
+- Andere Fehler behoben.
 	</de>
     <es>
-- Se agrego lista blanca y lista negra para la opción, ocultar confirmación de lectura.
-- Se agregó la opción para ocultar cuando vea el estado, con lista blanca y lista negra.
-- Añadidos iconos para la sección Secciones de la pantalla de conversación.
-- Añadido idioma Rumano.
-- Restructuración de la sección Formato de pantalla de la sección conversaciones.
-- Se eliminó la opción Eliminar mensajes enviados, hasta que se resuelva el problema.
-- Arreglados problemas de interfaz.
+- Añadida la opción para personalizar la fuente de la interfaz.
+- Añadida la opción para deshabilitar todas las pestañas (excepto la de los chats).
+- Ahora no se mostrará una advertencia cuando se haya eliminado un mensaje.
+- Arreglada la opción para evitar la eliminación de mensajes (no funcionaba correctamente en algunos dispositivos).
+- Arreglada la opción de privacidad, ocultar la grabación de audio y escritura.
+- Arreglado el botón de los tabs, ahora muestra correctamente el botón de acuerdo con la sección.
+- Se corrigieron otros errores.
     </es>
     <fr>
-- Ajout de la liste blanche et de la liste noire pour l'option, masquer la confirmation de lecture.
-- Ajout de l'option pour masquer vous avez vu le statut, avec liste blanche et liste noire.
-- Ajout d'icônes pour la section de l'écran de conversation.
-- Ajout de la langue roumaine.
-- Restructuration du format écran de la section conversations.
-- Suppression de l'option Supprimer les messages envoyés, jusqu'à ce que le problème soit résolu.
-- Problèmes d'interface résolus.
+- Ajout d'une option pour personnaliser la police d'interface.
+- Ajout d'une option pour désactiver tous les onglets (sauf pour les chats).
+- Maintenant, un avertissement ne sera pas affiché lorsqu'un message a été supprimé.
+- Option fixe pour éviter la suppression des messages (je ne travaillais pas correctement sur certains appareils).
+- Option de confidentialité fixe, masquer l'enregistrement audio et l'écriture.
+- Bouton de tabulation fixe, affiche maintenant correctement le bouton en fonction de la section.
+- Correction d'autres erreurs.
     </fr>
     <hi>
-- विकल्प के लिए श्वेतसूची और ब्लैकलिस्ट जोड़ा गया, पढ़ने की पुष्टि छुपाएं।
-- श्वेतसूची और ब्लैकलिस्ट के साथ, आपको स्थिति को देखने के लिए जोड़ा गया विकल्प जोड़ा गया।
-- वार्तालाप स्क्रीन के अनुभाग के लिए जोड़ा गया प्रतीक।
-- रोमानियाई भाषा जोड़ा गया।
-- वार्तालाप अनुभाग के स्क्रीन प्रारूप का पुनर्गठन।
-- समस्या हल होने तक प्रेषित संदेश हटाएं विकल्प हटा दिया गया।
-- हल इंटरफ़ेस समस्याएं।
+- इंटरफेस फ़ॉन्ट को अनुकूलित करने के लिए जोड़ा गया विकल्प।
+- सभी टैब अक्षम करने के लिए जोड़ा गया विकल्प (चैट को छोड़कर)।
+- जब कोई संदेश हटा दिया गया है तो अब एक चेतावनी दिखाई नहीं देगी।
+- संदेशों को हटाने से बचने के लिए निश्चित विकल्प (मैं कुछ उपकरणों पर सही ढंग से काम नहीं कर रहा था)।
+- फिक्स्ड गोपनीयता विकल्प, रिकॉर्डिंग ऑडियो और लेखन छुपाएं।
+- फिक्स्ड टैब बटन, अब अनुभाग के अनुसार बटन को सही ढंग से दिखाता है।
+- अन्य त्रुटियों को फिक्स्ड।
     </hi>
 	<in>
-- Penambahan daftar putih dan daftar hitam untuk opsi, sembunyikan konfirmasi baca
-- Penambahan opsi sembunyi ketika melihat status, dengan daftar putih dan daftar hitam
-- Penambahan ikon pada bagian layar percakapan
-- Penambahan bahasa Rumania
-- Restruktur baru bagian format layar pada bagian percakapan
-- Menghilangkan opsi Hapus pesan terkirim, sampai masalah nya diselesaikan sehingga berfungsi kembali
-- Penyelesaian masalah antarmuka
+- Ditambahkan opsi untuk menyesuaikan font antarmuka.
+- Menambahkan opsi untuk menonaktifkan semua tabulasi (kecuali obrolan).
+- Sekarang peringatan tidak akan ditampilkan ketika pesan telah dihapus.
+- Pilihan tetap untuk menghindari penghapusan pesan (saya tidak bekerja dengan benar pada beberapa perangkat).
+- Memperbaiki opsi privasi, menyembunyikan rekaman audio dan menulis.
+- Perbaikan tombol tabulasi, kini menampilkan tombol dengan tepat sesuai bagian.
+- Perbaikan kerusakan.
 	</in>
     <it>
-- Aggiunta whitelist e blacklist per le opzioni, opzione per nascondere le conferme di lettura.
-- Aggiunta opzione per nascondere la visualizzazione degli stati, con la whitelist e la blacklist.
-- Aggiunte icone per la sezione Sezione delle schermate delle conversazioni.
-- Aggiunta lingua Rumena.
-- Nuova ristrutturazione del formato della schermata della sezione delle conversazioni.
-- Eliminate le opzioni per eliminare i messaggi spediti, finchè il problema verrà risolto in modo che possa funzionare nuovamente.
-- Risolti problemi di interfaccia.
+- Aggiunta opzione per personalizzare l'interfaccia del font
+- Aggiunta opzione per disabilitare tutti i tab (ad eccezione di quello delle chat).
+- Ora non verrà più mostrato un avvertimento quando un messaggio è stato cancellato.
+- Risolta opzione per evitare l'eliminazione dei messaggi (non funzionavano correttamente su alcuni dispositivi).
+- Risolto il problema della privacy per nascondere la registrazione audio e la scrittura.
+- Sistemati pulsanti tab, ora mostrano correttamente il pulsante relativo alla selezione.
+- Sistemati altri errori.
     </it>
     <nl>
-- Toegevoegd witte lijst en zwarte lijst voor de optie, verberg leesbevestiging.
-- Optie toegevoegd om te verbergen dat je de status hebt gezien, met witte lijst en zwarte lijst.
-- Pictogrammen toegevoegd voor het gedeelte van het gespreksscherm.
-- Toegevoegd Roemeense taal.
-- Herstructurering van het schermformaat van het gespreksgedeelte.
-- De optie Verwijder verzonden berichten verwijderd, totdat het probleem is opgelost.
-- Opgeloste interfaceproblemen.
+- Optie toegevoegd om het interfacetype aan te passen.
+- Optie toegevoegd om alle tabbladen uit te schakelen (behalve chats).
+- Nu wordt er geen waarschuwing weergegeven als een bericht is verwijderd.
+- Vaste optie om te voorkomen dat berichten worden verwijderd (op sommige apparaten werkte ik niet correct).
+- Vaste privacy-optie, verberg opname-audio en schrijven.
+- Vaste tab-knop, geeft nu correct de knop weer volgens de sectie.
+- Andere fouten verholpen.
     </nl>	
     <pt>
-- Adicionada lista negra e branca para a opção de esconder confirmação de leitura.
-- Adicoonada opção para esconder quando você vê o status, com lista branca e negra.
-- Adicionados icônes para as seções da tela de conversa.
-- Nova lingua disponível, romênio.
-- Seçãp de formato de tela foi reestruturada para a seção de conversas.
-- Opção de deletar mensagens enviadas desativada até problema ser resolvido nesta.
-- Resolvidos problêmas de interface.
+- Adicionado opção para personalizar a fonte da interface.
+- Adicionada a opção de esconder todas as guias, exceto pela de conversas.
+- Agora, um aviso não será exibido quando uma mensagem for excluída.
+- Opção fixa para evitar a exclusão de mensagens (não estava funcionando corretamente em alguns dispositivos).
+- Opção de privacidade fixa, ocultar gravação de áudio e escrita.
+- Arrumada a seção de guias, onde agora será mostrada corretamente de acordo com a seção.
+- Correção de outros bugs.
     </pt>
 	<ro>
-- Added whitelist, and blacklist for the option, hide reading confirmation.
-- Added option to hide when you see status, with whitelist and blacklist.
-- Added icons for the section Sections of the conversation screen.
-- Added Romanian language.
-- New restructuring of the Screen format section of the conversations section.
-- Deleted the Delete sent messages option, until the problem is solved so that it works again.
-- Solved interface problems.
+- Opțiune adăugată pentru personalizarea fontului interfeței.
+- Adăugată opţiunea de a dezactiva toate tab-rile (cu excepţia celor de chat-uri).
+- Acum nu va fi afișat un avertisment atunci când un mesaj a fost șters.
+- Opțiune fixă pentru a evita ștergerea mesajelor (nu funcționează corect pe unele dispozitive).
+- opțiunea de confidențialitate fixă, ascundeți înregistrarea audio și scrierea.
+- Butonul tab reparat, acum butonul se afişează corect conform secţiunii.
+- S-au rezolvat alte erori .
 	</ro>
     <ru>
-- Добавлен белый и черный список для опции, Скрыть подтверждение чтения.
-- Добавлена ​​опция скрыть, когда Вы видите статус, со списком белый и черный список.
-- Добавлены значки для раздела Разделы экрана беседы.
-- Добавлен румынский язык.
-- Новая реструктуризация раздела Формат экрана раздела бесед.
-- Удалена опция Удалить отправленные сообщения, пока проблема не будет решена, чтобы она снова работала.
-- Решенные проблемы с интерфейсом.
+- Добавлена возможность настройки шрифта интерфейса.
+- Добавлена опция отключения всех вкладок (кроме чатов).
+- Теперь предупреждение не будет отображаться, когда сообщение было удалено.
+- Исправлена возможность избежать удаления сообщений (я не работал правильно на некоторых устройствах).
+- Исправлена опция конфиденциальности, скрыть запись звука и запись.
+- Исправлена кнопка вкладок, теперь правильно отображается кнопка в соответствии с разделом.
+- Исправлены другие ошибки.
     </ru>
     <tr>
--Okundu bilgisini gizleme özelliğine beyaz liste, ve kara liste, özelliği eklendi.
--Durum görüldü bilgisini gizleme, beyaz liste ve kara liste ile, özelliği eklendi.
--Konuşma ekranının Bölümler isimli bölümüne ikonlar eklendi. *added "isimli" because it might be confusing for people*
--Rumence eklendi.
--Konuşmalar bölümünün, ekran düzenleme bölümü yeniden inşa edildi. 
--Gönderilmiş mesajları silme seçeneği problem düzeltilene kadar kaldırıldı.
--Arayüz problemleri düzeltildi.
+- Arabirim yazı tipini özelleştirmek için seçenek eklendi.
+- Bütün sekmeleri devre dışı bırakma seçeneği eklendi (konuşmalar hariç)
+- Şimdi bir mesaj silindiğinde bir uyarı gösterilmeyecektir.
+- Mesajları silmemek için sabit seçenek (Bazı cihazlarda doğru çalışmıyordum).
+- Sabit gizlilik seçeneği, kayıt sesini ve yazmayı gizler.
+- Sekme butonu düzeltildi, artık bölüme göre doğru butonu gösteriyor.
+- Diğer hatalar düzeltildi.
     </tr>
   </update>
 </AppUpdater>
