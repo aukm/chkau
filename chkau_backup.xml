@@ -1,30 +1,132 @@
 <AppUpdater>
   <update>
-    <latestVersion>2.6.5</latestVersion>
-    <url></url>
+    <latestVersion>2.7.1</latestVersion>
+    <url>https://dl-xda.xposed.info/modules/kmod.xposed_v2710_67e3bf.apk</url>
     <en>
+- Added option to customize the interface font.
+- Added option to disable all tabs (except for chats).
+- Now a warning will not be shown when a message has been deleted.
+- Fixed option to avoid deleting messages (I was not working correctly on some devices).
+- Fixed privacy option, hide recording audio and writing.
+- Fixed tab button, now correctly shows the button according to the section.
+- Fixed other errors.
     </en>
     <ar>
+- وأضاف الخيار لتخصيص خط الواجهة.
+- إضافة خيار لتعطيل جميع علامات التبويب (باستثناء الدردشات).
+- الآن لن يظهر تحذير عند حذف رسالة.
+- خيار ثابت لتجنب حذف الرسائل (لم أكن أعمل بشكل صحيح على بعض الأجهزة).
+- خيار الخصوصية الثابتة ، إخفاء تسجيل الصوت والكتابة.
+- زر علامة التبويب ثابت ، الآن يظهر بشكل صحيح على الزر وفقا لهذا القسم.
+- أخطاء أخرى ثابتة.
     </ar>
     <bn>
+- ইন্টারফেস ফন্ট কাস্টমাইজ করার জন্য যোগ করা বিকল্প।
+- সব ট্যাব নিষ্ক্রিয় করার জন্য যোগ করা বিকল্প (চ্যাট ছাড়া)।
+- একটি বার্তা মুছে ফেলা হয়েছে যখন এখন একটি সতর্কতা দেখানো হবে না।
+- বার্তা মুছে ফেলা এড়ানোর জন্য ফিক্সড বিকল্প (আমি কিছু ডিভাইসে সঠিকভাবে কাজ করা হয় নি)
+- ফিক্সড গোপনীয়তা বিকল্প, রেকর্ডিং অডিও এবং লেখা লুকান।
+- স্থায়ী ট্যাব বোতাম, এখন সঠিকভাবে বিভাগ অনুযায়ী বোতাম দেখায়।
+- অন্যান্য ত্রুটি সংশোধন
     </bn>
     <de>
-    </de>
+- Option hinzugefügt, um die Schriftart der Benutzeroberfläche anzupassen.
+- Option zum deaktivieren aller Tabs (außer Unterhaltungen) hinzugefügt.
+- Jetzt wird keine Warnung angezeigt, wenn eine Nachricht gelöscht wurde.
+- Option wurde behoben, um das Löschen von Nachrichten zu vermeiden (ich habe auf einigen Geräten nicht richtig funktioniert).
+- Privacy-Option behoben, Audio-Aufnahme ausblenden und schreiben.
+- Reiter Schaltfläche repariert, es zeigt nun die korrekte Schaltfläche abhängig von der Sektion.
+- Andere Fehler behoben.
+	</de>
     <es>
+- Añadida la opción para personalizar la fuente de la interfaz.
+- Añadida la opción para deshabilitar todas las pestañas (excepto la de los chats).
+- Ahora no se mostrará una advertencia cuando se haya eliminado un mensaje.
+- Arreglada la opción para evitar la eliminación de mensajes (no funcionaba correctamente en algunos dispositivos).
+- Arreglada la opción de privacidad, ocultar la grabación de audio y escritura.
+- Arreglado el botón de los tabs, ahora muestra correctamente el botón de acuerdo con la sección.
+- Se corrigieron otros errores.
     </es>
     <fr>
+- Ajout d'une option pour personnaliser la police d'interface.
+- Ajout d'une option pour désactiver tous les onglets (sauf pour les chats).
+- Maintenant, un avertissement ne sera pas affiché lorsqu'un message a été supprimé.
+- Option fixe pour éviter la suppression des messages (je ne travaillais pas correctement sur certains appareils).
+- Option de confidentialité fixe, masquer l'enregistrement audio et l'écriture.
+- Bouton de tabulation fixe, affiche maintenant correctement le bouton en fonction de la section.
+- Correction d'autres erreurs.
     </fr>
     <hi>
+- इंटरफेस फ़ॉन्ट को अनुकूलित करने के लिए जोड़ा गया विकल्प।
+- सभी टैब अक्षम करने के लिए जोड़ा गया विकल्प (चैट को छोड़कर)।
+- जब कोई संदेश हटा दिया गया है तो अब एक चेतावनी दिखाई नहीं देगी।
+- संदेशों को हटाने से बचने के लिए निश्चित विकल्प (मैं कुछ उपकरणों पर सही ढंग से काम नहीं कर रहा था)।
+- फिक्स्ड गोपनीयता विकल्प, रिकॉर्डिंग ऑडियो और लेखन छुपाएं।
+- फिक्स्ड टैब बटन, अब अनुभाग के अनुसार बटन को सही ढंग से दिखाता है।
+- अन्य त्रुटियों को फिक्स्ड।
     </hi>
+	<in>
+- Ditambahkan opsi untuk menyesuaikan font antarmuka.
+- Menambahkan opsi untuk menonaktifkan semua tabulasi (kecuali obrolan).
+- Sekarang peringatan tidak akan ditampilkan ketika pesan telah dihapus.
+- Pilihan tetap untuk menghindari penghapusan pesan (saya tidak bekerja dengan benar pada beberapa perangkat).
+- Memperbaiki opsi privasi, menyembunyikan rekaman audio dan menulis.
+- Perbaikan tombol tabulasi, kini menampilkan tombol dengan tepat sesuai bagian.
+- Perbaikan kerusakan.
+	</in>
     <it>
+- Aggiunta opzione per personalizzare l'interfaccia del font
+- Aggiunta opzione per disabilitare tutti i tab (ad eccezione di quello delle chat).
+- Ora non verrà più mostrato un avvertimento quando un messaggio è stato cancellato.
+- Risolta opzione per evitare l'eliminazione dei messaggi (non funzionavano correttamente su alcuni dispositivi).
+- Risolto il problema della privacy per nascondere la registrazione audio e la scrittura.
+- Sistemati pulsanti tab, ora mostrano correttamente il pulsante relativo alla selezione.
+- Sistemati altri errori.
     </it>
     <nl>
+- Optie toegevoegd om het interfacetype aan te passen.
+- Optie toegevoegd om alle tabbladen uit te schakelen (behalve chats).
+- Nu wordt er geen waarschuwing weergegeven als een bericht is verwijderd.
+- Vaste optie om te voorkomen dat berichten worden verwijderd (op sommige apparaten werkte ik niet correct).
+- Vaste privacy-optie, verberg opname-audio en schrijven.
+- Vaste tab-knop, geeft nu correct de knop weer volgens de sectie.
+- Andere fouten verholpen.
     </nl>	
     <pt>
+- Adicionado opção para personalizar a fonte da interface.
+- Adicionada a opção de esconder todas as guias, exceto pela de conversas.
+- Agora, um aviso não será exibido quando uma mensagem for excluída.
+- Opção fixa para evitar a exclusão de mensagens (não estava funcionando corretamente em alguns dispositivos).
+- Opção de privacidade fixa, ocultar gravação de áudio e escrita.
+- Arrumada a seção de guias, onde agora será mostrada corretamente de acordo com a seção.
+- Correção de outros bugs.
     </pt>
+	<ro>
+- Opțiune adăugată pentru personalizarea fontului interfeței.
+- Adăugată opţiunea de a dezactiva toate tab-rile (cu excepţia celor de chat-uri).
+- Acum nu va fi afișat un avertisment atunci când un mesaj a fost șters.
+- Opțiune fixă pentru a evita ștergerea mesajelor (nu funcționează corect pe unele dispozitive).
+- opțiunea de confidențialitate fixă, ascundeți înregistrarea audio și scrierea.
+- Butonul tab reparat, acum butonul se afişează corect conform secţiunii.
+- S-au rezolvat alte erori .
+	</ro>
     <ru>
+- Добавлена возможность настройки шрифта интерфейса.
+- Добавлена опция отключения всех вкладок (кроме чатов).
+- Теперь предупреждение не будет отображаться, когда сообщение было удалено.
+- Исправлена возможность избежать удаления сообщений (я не работал правильно на некоторых устройствах).
+- Исправлена опция конфиденциальности, скрыть запись звука и запись.
+- Исправлена кнопка вкладок, теперь правильно отображается кнопка в соответствии с разделом.
+- Исправлены другие ошибки.
     </ru>
     <tr>
+- Arabirim yazı tipini özelleştirmek için seçenek eklendi.
+- Bütün sekmeleri devre dışı bırakma seçeneği eklendi (konuşmalar hariç)
+- Şimdi bir mesaj silindiğinde bir uyarı gösterilmeyecektir.
+- Mesajları silmemek için sabit seçenek (Bazı cihazlarda doğru çalışmıyordum).
+- Sabit gizlilik seçeneği, kayıt sesini ve yazmayı gizler.
+- Sekme butonu düzeltildi, artık bölüme göre doğru butonu gösteriyor.
+- Diğer hatalar düzeltildi.
     </tr>
   </update>
 </AppUpdater>
