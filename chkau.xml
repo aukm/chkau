@@ -1,131 +1,89 @@
 <AppUpdater>
   <update>
-    <latestVersion>2.7.2</latestVersion>
-    <url>https://dl-xda.xposed.info/modules/kmod.xposed_v2720_c768a7.apk</url>
+    <latestVersion>2.7.3</latestVersion>
+    <url>https://dl-xda.xposed.info/modules/kmod.xposed_v2730_a6f585.apk</url>
     <en>
-- Added section to color background the cells of status, in the list of status.
-- Optimization of the code, so that it loads the updates faster.
-- The option always online was eliminated, for the moment it's not possible for it to work.
-- Fixed the option to avoid the deletion of messages.
-- The privacy option was corrected, hide audio recording and writing.
-- Fixed icons of the call list.
-- Other errors were corrected.
+- Added swipe option to reply messages (from WhatsApp 2.18.282).
+- Now with the option not to show updates when there is an update, the update toast will be displayed only twice, and not every time you enter WhatsApp.
+- Fixed bug with background colors which show black color by default.
+- Other bugs fixed.
     </en>
     <ar>
-- إضافة قسم لتلوين خلفية خلايا الحالة ، في قائمة الحالة.
-- تحسين الكود ، بحيث يقوم بتحميل التحديثات بشكل أسرع.
-- تم إلغاء الخيار دائمًا عبر الإنترنت ، لأنه لا يمكن تشغيله في الوقت الحالي.
-- تم إصلاح الخيار لتجنب حذف الرسائل.
-- تم تصحيح خيار الخصوصية وإخفاء التسجيل الصوتي والكتابة.
-- أيقونات ثابتة من قائمة المكالمات.
+- خيار التمرير السريع للرد على الرسائل (من WhatsApp 2.18.282).
+- الآن مع خيار عدم عرض التحديثات ، عندما يكون هناك تحديث ، سيتم عرض نخب التحديث مرتين فقط ، وليس كل مرة تدخل فيها WhatsApp.
+- إصلاح الخلل مع لون الخلفيات التي تظهر بشكل افتراضي باللون الأسود.
 - تم تصحيح الأخطاء الأخرى.
     </ar>
     <bn>
-- স্ট্যাটাস তালিকায়, অবস্থানের কোষের রঙ পটভূমিতে বিভাগটি যুক্ত করা হয়েছে।
-- কোডের অপ্টিমাইজেশান, যাতে এটি দ্রুত আপডেট করে।
-- বিকল্পটি সবসময় অনলাইন হ'ল, মুহূর্তের জন্য এটি কাজ করা সম্ভব নয়।
-- বার্তাগুলি মুছে ফেলার জন্য বিকল্পটি স্থির করা হয়েছে
-- গোপনীয়তা বিকল্প সংশোধন করা হয়েছে, অডিও রেকর্ডিং এবং লেখা লুকান।
-- কল তালিকা ফিক্সড আইকন
+- বার্তা উত্তর করার জন্য যোগ করা সোয়াপ বিকল্প (হোয়াটসঅ্যাপ থেকে 2.18.282).
+- এখন আপডেট আপডেট না দেখানোর সাথে, যখন একটি আপডেট থাকে, আপডেট টোস্ট কেবলমাত্র দুবার প্রদর্শিত হবে এবং প্রতিবারই আপনি হোয়াটসঅ্যাপে প্রবেশ করবেন না।
+- ডিফল্ট রং কালো দেখানো যা ব্যাকগ্রাউন্ড রং সঙ্গে বাগ সংশোধন করা হয়েছে
 - অন্যান্য ত্রুটি সংশোধন করা হয়েছে।
     </bn>
     <de>
-- Abschnitt zum farbigen Hintergrund der Statuszellen in der Statusliste hinzugefügt.
-- Code Optimierungen, Aktualisierungen laden nun schneller.
-- Die Option immer Online ist entfernt worden, derzeit funktioniert sie nicht.
-- Option zum Vermeiden des Nachrichten löschen behoben.
-- Datenschutz Optionen, verstecke aufnehmend und schreibend behoben.
-- Symbole der Anrufliste behoben.
-- Andere Fehlerbehebungen.
+- Wischoptionen zum beantworten von Nachrichten hinzugefügt (von WhatsApp 2.18.282 an).
+- Mit der Option Aktualisierungen nicht anzuzeigen, wenn eine Aktualisierung vorhanden ist, werden Aktualisierungsbenachrichtigungen nun nur noch zweimal angezeigt und nicht jedes mal wenn du WhatsApp öffnest.
+- Fehler mit Hintergrundfarben, die Schwarz als Standard anzeigen, behoben
+- Andere Fehler behoben.
 	</de>
     <es>
-- Añadida una sección para colorear el fondo de las celdas del estado, en la lista de estado.
-- Optimización del código, de forma que carga más rapidas las actualizaciones.
-- Eliminada opción siempre en línea, por el momento no es posible.
-- Arreglada la opción para evitar la eliminación de mensajes.
-- Arreglada la opción de privacidad, ocultar la grabación de audio y escritura.
-- Arreglados iconos de la lista de llamadas.
-- Arreglados otros errores.
+- Se agregó la opción deslizar para responder mensajes (de WhatsApp 2.18.282).
+- Ahora con la opción de no mostrar actualizaciones, cuando hay una actualización, el Toast de actualización se mostrará solo dos veces, y no cada vez que ingrese a WhatsApp.
+- Se corrigió el error con el color de los fondos que mostraba por defecto el color negro.
+- Otros errores fueron corregidos.
     </es>
     <fr>
-- Ajout d'une section pour colorer l'arrière-plan des cellules de statut, dans la liste de statut.
-- Optimisation du code, de sorte qu'il charge les mises à jour plus rapidement.
-- L’option toujours en ligne a été supprimée, pour le moment il est impossible de fonctionner.
-- Correction de l’option pour éviter la suppression des messages.
-- L’option de confidentialité a été corrigée, masquer l’enregistrement et l’écriture audio.
-- Icônes fixes de la liste d'appels.
+- Ajout de l'option swipe pour répondre aux messages (à partir de WhatsApp 2.18.282).
+- Maintenant, avec l'option de ne pas afficher les mises à jour, lorsqu'il y a une mise à jour, le toast de mise à jour ne sera affiché que deux fois, et pas à chaque fois que vous entrez dans WhatsApp.
+- Correction du bug avec la couleur des arrière-plans qui montraient par défaut la couleur noire.
 - Les autres erreurs ont été corrigées.
     </fr>
     <hi>
-- स्थिति की सूची में स्थिति पृष्ठभूमि की पृष्ठभूमि पृष्ठभूमि रंग जोड़ा गया।
-- कोड का अनुकूलन, ताकि यह अद्यतनों को तेज़ी से लोड कर सके।
-- हमेशा ऑनलाइन विकल्प समाप्त हो गया था, इस पल के लिए यह काम करने के लिए संभव नहीं है।
-- संदेशों को हटाने से बचने के लिए विकल्प को फिक्स्ड करें।
-- गोपनीयता विकल्प को सही किया गया था, ऑडियो रिकॉर्डिंग और लेखन छुपाएं।
-- कॉल सूची के फिक्स्ड आइकॉन।
+- संदेशों का जवाब देने के लिए स्वाइप विकल्प जोड़ा गया (व्हाट्सएप 2.18.282 से).
+- अब अद्यतन दिखाने के विकल्प के साथ, जब कोई अपडेट होता है, तो अद्यतन टोस्ट केवल दो बार प्रदर्शित किया जाएगा, और जब भी आप व्हाट्सएप दर्ज नहीं करेंगे।
+- पृष्ठभूमि के रंग के साथ बग फिक्स्ड जो डिफ़ॉल्ट रूप से रंग काला दिखाया गया है।
 - अन्य त्रुटियों को सही किया गया था।
     </hi>
 	<in>
-- Menambahkan bagian ke latar belakang warna sel status, dalam daftar status.
-- Optimalisasi kode, sehingga memuat pembaruan lebih cepat.
-- Opsi selalu daring dihapuskan, untuk saat ini tidak memungkinkan untuk bekerja.
-- Memperbaiki opsi untuk menghindari penghapusan pesan.
-- Opsi privasi dikoreksi, sembunyikan rekaman audio dan tulisan.
-- Memperbaiki ikon daftar panggilan.
-- Kesalahan-kesalahan lainnya telah diperbaiki.
+- Ditambahkan opsi swipe untuk membalas pesan (dari WhatsApp 2.18.282).
+- Sekarang dengan opsi untuk tidak menampilkan pembaruan, ketika ada pembaruan, toast pembaruan akan ditampilkan hanya dua kali, dan tidak setiap kali Anda memasukkan WhatsApp.
+- Memperbaiki bug dengan warna latar belakang yang ditunjukkan secara default warna hitam.
+- Kesalahan lainnya diperbaiki.
 	</in>
     <it>
-- Aggiunta sezione per colorare lo sfondo delle celle di stato, nella lista degli stati.
-- Ottimizzazione del codice, in modo che carichi gli aggiornamenti più velocemente.
-- L'opzione sempre online è stata eliminata, per il momento non è possibile farla funzionare.
-- Risolta l'opzione per evitare la cancellazione dei messaggi.
-- L'opzione privacy, nascondi la registrazione e la scrittura dell'audio, è stata corretta. 
-- Risolto il problema con le icone della lista delle chiamate.
+- Aggiunta l'opzione per rispondere ai messaggi con uno swipe (da WhatsApp 2.18.282).
+- Ora con l'opzione di non mostrare gli aggiornamenti, quando c'è un aggiornamento, il messaggio di aggiornamento verrà visualizzato solo due volte, e non ogni volta che si entra in WhatsApp.
+- Corretto il bug con il colore degli sfondi che mostrava di default il colore nero.
 - Correzione di altri errori.
     </it>
     <nl>
-- Toegevoegd sectie om de cellen van de status in de achtergrond te kleuren in de lijst met status.
-- Optimalisatie van de code, zodat deze de updates sneller laadt.
-- De optie altijd online was geëlimineerd, voorlopig is het niet mogelijk om te werken.
-- De optie verholpen om te voorkomen dat berichten worden verwijderd.
-- De privacyoptie is gecorrigeerd, verberg audio-opname en schrijven.
-- Vaste pictogrammen van de oproeplijst.
+- Toegevoegd swipe optie om berichten te beantwoorden (van WhatsApp 2.18.282).
+- Nu met de optie om geen updates te tonen, zal bij een update de update-toast slechts tweemaal worden getoond en niet elke keer dat je WhatsApp invoert.
+- Probleem opgelost met de kleur van de achtergronden die standaard de kleur zwart laat zien.
 - Andere fouten zijn gecorrigeerd.
     </nl>	
     <pt>
-- Adicionado seção para colorir fundo as células de status, na lista de status.
-- Otimização do código, para que carregue as atualizações mais rapidamente.
-- A opção sempre online foi eliminada, por enquanto não é possível que funcione.
-- Corrigida a opção de evitar a exclusão de mensagens.
-- A opção de privacidade foi corrigida, ocultando a gravação e gravação de áudio.
-- Ícones fixos da lista de chamadas.
+- Adicionada a opção de fazer swipe para responder mensagens (do WhatsApp 2.18.282).
+- Agora com a opção de não mostrar atualizações, quando houver uma atualização, uma toast será exibida apenas duas vezes em que o WhatsApp for aberto.
+- Corrigido o bug na opção de cor dos fundos, onde era mostrado por padrão a cor preta.
 - Outros erros foram corrigidos.
     </pt>
 	<ro>
-- A fost adăugată secțiunea de fundal de culoare a celulelor de stare, în lista de stare.
-- Optimizarea codului, astfel încât să încarce actualizările mai rapid.
-- Opțiunea mereu online a fost eliminată, pentru moment nu este posibil ca aceasta să funcționeze.
-- S-a reparat opțiunea pentru a evita ștergerea mesajelor.
-- Opțiunea de confidențialitate a fost corectată, ascunderea înregistrării audio și ascunderea scrierii .
-- Icoanele pentru lista de apeluri au fost reparate.
+- A fost adăugată opțiunea de glisare pentru a răspunde la mesaje (de la WhatsApp 2.18.282).
+- Acum, cu opțiunea de a nu afișa actualizări, atunci când există o actualizare, toastul de actualizare va fi afișat numai de două ori și nu de fiecare dată când introduceți WhatsApp.
+- S-a rezolvat problema cu culoarea fundalului afișată în mod implicit culoarea neagră.
 - Alte erori au fost corectate.
 	</ro>
     <ru>
-- Добавлен раздел для цветного фона, ячейки статуса, в списке статуса.
-- Оптимизация кода, чтобы быстрее загружать обновления.
-- Опция всегда онлайн была отключена, на данный момент нет невозможности для ее работы.
-- Исправлена опция отменять удаленые сообщения.
-- Был изменен параметр конфиденциальности, скрыть набор и запись звука.
-- Исправлены значки списка вызовов.
+- Добавлена возможность прокрутки для ответа на сообщения (из WhatsApp 2.18.282).
+- Теперь с возможностью не показывать обновления, когда есть обновление, тост обновления будет отображаться только дважды, и не каждый раз, когда вы вводите WhatsApp.
+- Исправлена ошибка с цветом фона, отображаемым по умолчанию цветом черного цвета.
 - Исправлены другие ошибки.
     </ru>
     <tr>
-- Durum listesinde, durum hücrelerinin arka planını renklendirmek için bölüm eklendi.
-- Kodun optimizasyonu, güncellemeleri daha hızlı yükler.
-- Her zaman çevrimiçi seçeneği kaldırıldı, şu anda çalışması mümkün değil.
-- Mesajların silinmesini önleme seçeneği düzeltildi.
-- Gizlilik seçeneği düzeltildi, ses kaydını ve yazmayı gizleyin.
-- Arama listesinin simgeleri düzeltildi.
+- Mesajları cevaplamaz için kaydırma özelliği eklendi (WhatsApp 2.118.282'den).
+- Güncelleştirmeleri göstermeme seçeneği ile birlikte artık, güncelleştirme olduğunda, güncelleştirme toast'ı her WhatsApp'a girişinizde değil, sadece iki kez gösterilecek. 
+- Varsayılan olarak siyah renkle gösterilen arka planların rengi ile ilgili hata düzeltildi.
 - Diğer hatalar düzeltildi.
     </tr>
   </update>
