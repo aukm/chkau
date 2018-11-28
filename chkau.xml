@@ -1,89 +1,110 @@
 <AppUpdater>
   <update>
-    <latestVersion>2.7.3</latestVersion>
-    <url>https://dl-xda.xposed.info/modules/kmod.xposed_v2730_a6f585.apk</url>
+    <latestVersion>2.7.4</latestVersion>
+    <url>https://dl-xda.xposed.info/modules/kmod.xposed_v2740_74d141.apk</url>
     <en>
-- Added swipe option to reply messages (from WhatsApp 2.18.282).
-- Now with the option not to show updates when there is an update, the update toast will be displayed only twice, and not every time you enter WhatsApp.
-- Fixed bug with background colors which show black color by default.
+- Added Polish language.
+- Solved interface problems.
+- Fixed the option to avoid the deletion of messages.
+- Fixed privacy options.
 - Other bugs fixed.
     </en>
     <ar>
-- خيار التمرير السريع للرد على الرسائل (من WhatsApp 2.18.282).
-- الآن مع خيار عدم عرض التحديثات ، عندما يكون هناك تحديث ، سيتم عرض نخب التحديث مرتين فقط ، وليس كل مرة تدخل فيها WhatsApp.
-- إصلاح الخلل مع لون الخلفيات التي تظهر بشكل افتراضي باللون الأسود.
+- أضيفت اللغة البولندية.
+- مشاكل واجهة حلها.
+- تم إصلاح الخيار لتجنب حذف الرسائل.
+- خيارات الخصوصية الثابتة.
 - تم تصحيح الأخطاء الأخرى.
     </ar>
     <bn>
-- বার্তা উত্তর করার জন্য যোগ করা সোয়াপ বিকল্প (হোয়াটসঅ্যাপ থেকে 2.18.282).
-- এখন আপডেট আপডেট না দেখানোর সাথে, যখন একটি আপডেট থাকে, আপডেট টোস্ট কেবলমাত্র দুবার প্রদর্শিত হবে এবং প্রতিবারই আপনি হোয়াটসঅ্যাপে প্রবেশ করবেন না।
-- ডিফল্ট রং কালো দেখানো যা ব্যাকগ্রাউন্ড রং সঙ্গে বাগ সংশোধন করা হয়েছে
+- পোলিশ ভাষা যোগ করা হয়েছে।
+- সমাধান ইন্টারফেস সমস্যা।
+- বার্তাগুলি মুছে ফেলার জন্য বিকল্পটি স্থির করা হয়েছে
+- স্থায়ী গোপনীয়তা অপশন
 - অন্যান্য ত্রুটি সংশোধন করা হয়েছে।
     </bn>
     <de>
-- Wischoptionen zum beantworten von Nachrichten hinzugefügt (von WhatsApp 2.18.282 an).
-- Mit der Option Aktualisierungen nicht anzuzeigen, wenn eine Aktualisierung vorhanden ist, werden Aktualisierungsbenachrichtigungen nun nur noch zweimal angezeigt und nicht jedes mal wenn du WhatsApp öffnest.
-- Fehler mit Hintergrundfarben, die Schwarz als Standard anzeigen, behoben
+- Polieren Sprache hinzugefügt.
+- Oberflächen Probleme behoben.
+- Option zum Vermeiden des Nachrichten löschen behoben.
+- Privatsphäreoptionen repariert.
 - Andere Fehler behoben.
 	</de>
     <es>
-- Se agregó la opción deslizar para responder mensajes (de WhatsApp 2.18.282).
-- Ahora con la opción de no mostrar actualizaciones, cuando hay una actualización, el Toast de actualización se mostrará solo dos veces, y no cada vez que ingrese a WhatsApp.
-- Se corrigió el error con el color de los fondos que mostraba por defecto el color negro.
+- Añadido idioma Polaco.
+- Arreglados problemas de interfaz.
+- Arreglada la opción para evitar la eliminación de mensajes.
+- Arregladas opciones de privacidad.
 - Otros errores fueron corregidos.
     </es>
     <fr>
-- Ajout de l'option swipe pour répondre aux messages (à partir de WhatsApp 2.18.282).
-- Maintenant, avec l'option de ne pas afficher les mises à jour, lorsqu'il y a une mise à jour, le toast de mise à jour ne sera affiché que deux fois, et pas à chaque fois que vous entrez dans WhatsApp.
-- Correction du bug avec la couleur des arrière-plans qui montraient par défaut la couleur noire.
+- Ajout de la langue polonais.
+- Problèmes d'interface résolus.
+- Correction de l’option pour éviter la suppression des messages.
+- Correction des options de confidentialité.
 - Les autres erreurs ont été corrigées.
     </fr>
     <hi>
-- संदेशों का जवाब देने के लिए स्वाइप विकल्प जोड़ा गया (व्हाट्सएप 2.18.282 से).
-- अब अद्यतन दिखाने के विकल्प के साथ, जब कोई अपडेट होता है, तो अद्यतन टोस्ट केवल दो बार प्रदर्शित किया जाएगा, और जब भी आप व्हाट्सएप दर्ज नहीं करेंगे।
-- पृष्ठभूमि के रंग के साथ बग फिक्स्ड जो डिफ़ॉल्ट रूप से रंग काला दिखाया गया है।
+- पोलिश भाषा जोड़ा गया।
+- हल इंटरफ़ेस समस्याएं।
+- संदेशों को हटाने से बचने के लिए विकल्प को फिक्स्ड करें।
+- फिक्स्ड गोपनीयता विकल्प
 - अन्य त्रुटियों को सही किया गया था।
     </hi>
 	<in>
-- Ditambahkan opsi swipe untuk membalas pesan (dari WhatsApp 2.18.282).
-- Sekarang dengan opsi untuk tidak menampilkan pembaruan, ketika ada pembaruan, toast pembaruan akan ditampilkan hanya dua kali, dan tidak setiap kali Anda memasukkan WhatsApp.
-- Memperbaiki bug dengan warna latar belakang yang ditunjukkan secara default warna hitam.
+- Penambahan bahasa Polandia
+- Penyelesaian masalah antarmuka
+- Memperbaiki opsi untuk menghindari penghapusan pesan.
+- Memperbaiki opsi privasi.
 - Kesalahan lainnya diperbaiki.
 	</in>
     <it>
-- Aggiunta l'opzione per rispondere ai messaggi con uno swipe (da WhatsApp 2.18.282).
-- Ora con l'opzione di non mostrare gli aggiornamenti, quando c'è un aggiornamento, il messaggio di aggiornamento verrà visualizzato solo due volte, e non ogni volta che si entra in WhatsApp.
-- Corretto il bug con il colore degli sfondi che mostrava di default il colore nero.
+- Aggiunta lingua polacco.
+- Risolti problemi di interfaccia.
+- Risolta l'opzione per evitare la cancellazione dei messaggi.
+- Sistemate opzioni di privacy.
 - Correzione di altri errori.
     </it>
     <nl>
-- Toegevoegd swipe optie om berichten te beantwoorden (van WhatsApp 2.18.282).
-- Nu met de optie om geen updates te tonen, zal bij een update de update-toast slechts tweemaal worden getoond en niet elke keer dat je WhatsApp invoert.
-- Probleem opgelost met de kleur van de achtergronden die standaard de kleur zwart laat zien.
+- Toegevoegd Pools taal.
+- Opgeloste interfaceproblemen.
+- De optie verholpen om te voorkomen dat berichten worden verwijderd.
+- Vaste privacyopties.
 - Andere fouten zijn gecorrigeerd.
-    </nl>	
+    </nl>
+	<pl>
+- Dodano język polski.
+- Rozwiązane problemy z interfejsem.
+- Naprawiono opcję unikania usuwania wiadomości.
+- Naprawiono opcje prywatności.
+- Naprawiono inne błędy.
+    </pl>
     <pt>
-- Adicionada a opção de fazer swipe para responder mensagens (do WhatsApp 2.18.282).
-- Agora com a opção de não mostrar atualizações, quando houver uma atualização, uma toast será exibida apenas duas vezes em que o WhatsApp for aberto.
-- Corrigido o bug na opção de cor dos fundos, onde era mostrado por padrão a cor preta.
+- Nova lingua disponível, romênio.
+- Resolvidos problêmas de interface.
+- Corrigida a opção de evitar a exclusão de mensagens.
+- Corrigidos erros das opções de privacidade.
 - Outros erros foram corrigidos.
     </pt>
 	<ro>
-- A fost adăugată opțiunea de glisare pentru a răspunde la mesaje (de la WhatsApp 2.18.282).
-- Acum, cu opțiunea de a nu afișa actualizări, atunci când există o actualizare, toastul de actualizare va fi afișat numai de două ori și nu de fiecare dată când introduceți WhatsApp.
-- S-a rezolvat problema cu culoarea fundalului afișată în mod implicit culoarea neagră.
+- Adăugat limba poloneză.
+- Rezolvarea problemelor de interfață.
+- S-a reparat opțiunea pentru a evita ștergerea mesajelor.
+- Opțiuni fixe de confidențialitate.
 - Alte erori au fost corectate.
 	</ro>
     <ru>
-- Добавлена возможность прокрутки для ответа на сообщения (из WhatsApp 2.18.282).
-- Теперь с возможностью не показывать обновления, когда есть обновление, тост обновления будет отображаться только дважды, и не каждый раз, когда вы вводите WhatsApp.
-- Исправлена ошибка с цветом фона, отображаемым по умолчанию цветом черного цвета.
+- Добавлен польский язык.
+- Решенные проблемы с интерфейсом.
+- Исправлена опция отменять удаленые сообщения.
+- Исправлены параметры конфиденциальности.
 - Исправлены другие ошибки.
     </ru>
     <tr>
-- Mesajları cevaplamaz için kaydırma özelliği eklendi (WhatsApp 2.118.282'den).
-- Güncelleştirmeleri göstermeme seçeneği ile birlikte artık, güncelleştirme olduğunda, güncelleştirme toast'ı her WhatsApp'a girişinizde değil, sadece iki kez gösterilecek. 
-- Varsayılan olarak siyah renkle gösterilen arka planların rengi ile ilgili hata düzeltildi.
+- Polonya eklendi.
+- Arayüz problemleri düzeltildi.
+- Mesajların silinmesini önleme seçeneği düzeltildi.
+- Gizlilik ayarları düzeltildi.
 - Diğer hatalar düzeltildi.
     </tr>
   </update>
