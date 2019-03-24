@@ -1,7 +1,7 @@
 <AppUpdater>
   <update>
     <latestVersion>2.7.5</latestVersion>
-    <url>https://dl-xda.xposed.info/modules/kmod.xposed_v2750_cfb860.apk</url>
+    <url>https://dl-xda.xposed.info/modules/kmod.xposed_v2750_9ec4c9.apk</url>
     <en>
 - Extended KMod FWA expiration date.
 - Disabled all features that use Hooks until solving the problem of compatibility with new versions.
