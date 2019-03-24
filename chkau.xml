@@ -1,111 +1,66 @@
 <AppUpdater>
   <update>
-    <latestVersion>2.7.4</latestVersion>
-    <url>https://dl-xda.xposed.info/modules/kmod.xposed_v2740_74d141.apk</url>
+    <latestVersion>2.7.5</latestVersion>
+    <url>https://dl-xda.xposed.info/modules/kmod.xposed_v2750_cfb860.apk</url>
     <en>
-- Added Polish language.
-- Solved interface problems.
-- Fixed the option to avoid the deletion of messages.
-- Fixed privacy options.
-- Other bugs fixed.
+- Extended KMod FWA expiration date.
+- Disabled all features that use Hooks until solving the problem of compatibility with new versions.
     </en>
     <ar>
-- أضيفت اللغة البولندية.
-- مشاكل واجهة حلها.
-- تم إصلاح الخيار لتجنب حذف الرسائل.
-- خيارات الخصوصية الثابتة.
-- تم تصحيح الأخطاء الأخرى.
+- تاريخ انتهاء صلاحية KMod FWA.
+- تعطيل جميع الميزات التي تستخدم Hooks حتى حل مشكلة التوافق مع الإصدارات الجديدة.
     </ar>
     <bn>
-- পোলিশ ভাষা যোগ করা হয়েছে।
-- সমাধান ইন্টারফেস সমস্যা।
-- বার্তাগুলি মুছে ফেলার জন্য বিকল্পটি স্থির করা হয়েছে
-- স্থায়ী গোপনীয়তা অপশন
-- অন্যান্য ত্রুটি সংশোধন করা হয়েছে।
+- এক্সটেন্ডেড KMod FWA মেয়াদ শেষ হওয়ার তারিখ।
+- নতুন সংস্করণগুলির সাথে সামঞ্জস্যের সমস্যা সমাধান না হওয়া পর্যন্ত হুকগুলি ব্যবহার করে এমন সমস্ত বৈশিষ্ট্য অক্ষম করুন।
     </bn>
     <de>
-- Polieren Sprache hinzugefügt.
-- Oberflächen Probleme behoben.
-- Option zum Vermeiden des Nachrichten löschen behoben.
-- Privatsphäreoptionen repariert.
-- Andere Fehler behoben.
+- Erweitertes KMod-FWA-Ablaufdatum.
+- Alle Funktionen, die Hooks verwenden, wurden deaktiviert, bis das Problem der Kompatibilität mit neuen Versionen gelöst wurde.
 	</de>
     <es>
-- Añadido idioma Polaco.
-- Arreglados problemas de interfaz.
-- Arreglada la opción para evitar la eliminación de mensajes.
-- Arregladas opciones de privacidad.
-- Otros errores fueron corregidos.
+- Fecha de vencimiento de KMod FWA extendida.
+- Desactivadas todas las funciones que usan Hooks hasta resolver el problema de compatibilidad con las nuevas versiones.
     </es>
     <fr>
-- Ajout de la langue polonais.
-- Problèmes d'interface résolus.
-- Correction de l’option pour éviter la suppression des messages.
-- Correction des options de confidentialité.
-- Les autres erreurs ont été corrigées.
+- Date d'expiration KMod FWA étendue.
+- Désactivation de toutes les fonctionnalités utilisant des points d'ancrage jusqu'à la résolution du problème de compatibilité avec les nouvelles versions.
     </fr>
     <hi>
-- पोलिश भाषा जोड़ा गया।
-- हल इंटरफ़ेस समस्याएं।
-- संदेशों को हटाने से बचने के लिए विकल्प को फिक्स्ड करें।
-- फिक्स्ड गोपनीयता विकल्प
-- अन्य त्रुटियों को सही किया गया था।
+- केएमओडी एफडब्ल्यूए की समाप्ति तिथि विस्तारित।
+- सभी सुविधाओं को अक्षम करें जो नए संस्करणों के साथ संगतता की समस्या को हल करने तक हुक का उपयोग करते हैं।
     </hi>
 	<in>
-- Penambahan bahasa Polandia
-- Penyelesaian masalah antarmuka
-- Memperbaiki opsi untuk menghindari penghapusan pesan.
-- Memperbaiki opsi privasi.
-- Kesalahan lainnya diperbaiki.
+- Tanggal kedaluwarsa KMod FWA yang diperpanjang.
+- Menonaktifkan semua fitur yang menggunakan Hooks hingga menyelesaikan masalah kompatibilitas dengan versi baru.
 	</in>
     <it>
-- Aggiunta lingua polacco.
-- Risolti problemi di interfaccia.
-- Risolta l'opzione per evitare la cancellazione dei messaggi.
-- Sistemate opzioni di privacy.
-- Correzione di altri errori.
+- Data di scadenza del KMW FWA estesa.
+- Disabilita tutte le funzionalità che utilizzano Hooks fino a risolvere il problema della compatibilità con le nuove versioni.
     </it>
     <nl>
-- Toegevoegd Pools taal.
-- Opgeloste interfaceproblemen.
-- De optie verholpen om te voorkomen dat berichten worden verwijderd.
-- Vaste privacyopties.
-- Andere fouten zijn gecorrigeerd.
+- Uitgebreide KMod FWA-vervaldatum.
+- Alle functies uitgeschakeld die Hooks gebruiken totdat het probleem van compatibiliteit met nieuwe versies is opgelost.
     </nl>
 	<pl>
-- Dodano język polski.
-- Rozwiązane problemy z interfejsem.
-- Naprawiono opcję unikania usuwania wiadomości.
-- Naprawiono opcje prywatności.
-- Naprawiono inne błędy.
+- Rozszerzona data ważności FWA KMod.
+- Wyłączono wszystkie funkcje, które używają haków, aż do rozwiązania problemu zgodności z nowymi wersjami.
     </pl>
     <pt>
-- Nova lingua disponível, romênio.
-- Resolvidos problêmas de interface.
-- Corrigida a opção de evitar a exclusão de mensagens.
-- Corrigidos erros das opções de privacidade.
-- Outros erros foram corrigidos.
+- Data de expiração do KMod FWA estendida.
+- Desabilitou todos os recursos que usam Ganchos até resolver o problema de compatibilidade com novas versões.
     </pt>
 	<ro>
-- Adăugat limba poloneză.
-- Rezolvarea problemelor de interfață.
-- S-a reparat opțiunea pentru a evita ștergerea mesajelor.
-- Opțiuni fixe de confidențialitate.
-- Alte erori au fost corectate.
+- Data expirării KMod FWA extinsă.
+- Dezactivat toate caracteristicile care utilizează Hooks până la rezolvarea problemei compatibilității cu versiunile noi.
 	</ro>
     <ru>
-- Добавлен польский язык.
-- Решенные проблемы с интерфейсом.
-- Исправлена опция отменять удаленые сообщения.
-- Исправлены параметры конфиденциальности.
-- Исправлены другие ошибки.
+- Расширенная дата истечения KMod FWA.
+- Отключены все функции, использующие хуки, до решения проблемы совместимости с новыми версиями.
     </ru>
     <tr>
-- Polonya eklendi.
-- Arayüz problemleri düzeltildi.
-- Mesajların silinmesini önleme seçeneği düzeltildi.
-- Gizlilik ayarları düzeltildi.
-- Diğer hatalar düzeltildi.
+- Genişletilmiş KMod FWA son kullanma tarihi.
+- Yeni sürümlerle uyumluluk sorununu çözene kadar Kanca kullanan tüm özellikleri devre dışı bırakın.
     </tr>
   </update>
 </AppUpdater>
