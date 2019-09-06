@@ -391,7 +391,7 @@
 			[gtbol=X.2Sv,0,getBoolean,stringClass,booleanTYPE]						// Cambios en Boolean: Administración de grupos
 			[gtint=X.2Sv,0,getInt,stringClass,integerTYPE]							// Cambios en Integer: Calidad de imagenes, duración video de estado, administración de grupos, numero de participantes en grupos
 			[ghrms1=com.whatsapp.jobqueue.job.SendReadReceiptJob,1,A0B]				// Ocultar lectura de mensajes 1
-			[ghrms2=com.whatsapp.jobqueue.job.SendPlayedReceiptJob,1,A0B]				// Ocultar lectura de mensajes 2
+			[ghrms2=com.whatsapp.jobqueue.job.SendPlayedReceiptJob,1,A0B]			// Ocultar lectura de mensajes 2
 			[ghrms3=com.whatsapp.jobqueue.job.SendE2EMessageJob,1,A09]				// Ocultar lectura de mensajes 3
 			[prtabh1=X.2d9,0,A0G,intClass] 											// Ocultar TABS - Gestionar fragmentos
 			[prtabh2=X.2d9,0,A03,intClass]											// Ocultar TABS - Reasignar etiquetas
@@ -415,7 +415,7 @@
 			[gtbol=X.2T6,0,getBoolean,stringClass,booleanTYPE]						// Cambios en Boolean: Administración de grupos
 			[gtint=X.2T6,0,getInt,stringClass,integerTYPE]							// Cambios en Integer: Calidad de imagenes, duración video de estado, administración de grupos, numero de participantes en grupos
 			[ghrms1=com.whatsapp.jobqueue.job.SendReadReceiptJob,1,A0B]				// Ocultar lectura de mensajes 1
-			[ghrms2=com.whatsapp.jobqueue.job.SendPlayedReceiptJob,1,A0B]				// Ocultar lectura de mensajes 2
+			[ghrms2=com.whatsapp.jobqueue.job.SendPlayedReceiptJob,1,A0B]			// Ocultar lectura de mensajes 2
 			[ghrms3=com.whatsapp.jobqueue.job.SendE2EMessageJob,1,A09]				// Ocultar lectura de mensajes 3
 			[prtabh1=X.2d9,0,A0G,intClass] 											// Ocultar TABS - Gestionar fragmentos
 			[prtabh2=X.2d9,0,A03,intClass]											// Ocultar TABS - Reasignar etiquetas
