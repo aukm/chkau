@@ -537,11 +537,11 @@
 			[ghrms1=com.whatsapp.jobqueue.job.SendReadReceiptJob,1,A09]				// Ocultar lectura de mensajes 1
 			[ghrms2=com.whatsapp.jobqueue.job.SendPlayedReceiptJob,1,A09]			// Ocultar lectura de mensajes 2
 			[ghrms3=com.whatsapp.jobqueue.job.SendE2EMessageJob,1,A07]				// Ocultar lectura de mensajes 3
-			[prtabh1=X.2dO,0,A0G,intClass] 											// Ocultar TABS - Gestionar fragmentos
-			[prtabh2=X.2dO,0,A03,intClass]											// Ocultar TABS - Reasignar etiquetas
-			[prtabh3=X.2dO,0,A0o,intClass] 											// Ocultar TABS - Asignar botones correctos
+			[prtabh1=X.2bV,0,A0G,intClass] 											// Ocultar TABS - Gestionar fragmentos
+			[prtabh2=X.2bV,0,A03,intClass]											// Ocultar TABS - Reasignar etiquetas
+			[prtabh3=X.2bV,0,A0o,intClass] 											// Ocultar TABS - Asignar botones correctos
 			[prtabh4=com.whatsapp.HomeActivity,0,A03,X.18S,intClass]				// Ocultar TABS - Ocultar metodos
-			[prtabh5=X.2dO,1,A01] 													// Ocultar TABS - Asignar numero de pestañas visibles
+			[prtabh5=X.2bV,1,A01] 													// Ocultar TABS - Asignar numero de pestañas visibles
 			[datectm=X.2AW,0,A0i,booleanTYPE] 	// Fecha central en conversaciones
 			[datectv=A0E]
 			[cnvbtn=com.whatsapp.Conversation,0,onCreateOptionsMenu,androidMenu]	// Ocultar iconos de videollamada o llamada, y cambiar a llamada normal
@@ -561,11 +561,11 @@
 			[ghrms1=com.whatsapp.jobqueue.job.SendReadReceiptJob,1,A09]				// Ocultar lectura de mensajes 1
 			[ghrms2=com.whatsapp.jobqueue.job.SendPlayedReceiptJob,1,A09]			// Ocultar lectura de mensajes 2
 			[ghrms3=com.whatsapp.jobqueue.job.SendE2EMessageJob,1,A07]				// Ocultar lectura de mensajes 3
-			[prtabh1=X.2dO,0,A0G,intClass] 											// Ocultar TABS - Gestionar fragmentos
-			[prtabh2=X.2dO,0,A03,intClass]											// Ocultar TABS - Reasignar etiquetas
-			[prtabh3=X.2dO,0,A0f,intClass] 											// Ocultar TABS - Asignar botones correctos
+			[prtabh1=X.2Cn,0,A0G,intClass] 											// Ocultar TABS - Gestionar fragmentos
+			[prtabh2=X.2Cn,0,A03,intClass]											// Ocultar TABS - Reasignar etiquetas
+			[prtabh3=X.2Cn,0,A0f,intClass] 											// Ocultar TABS - Asignar botones correctos
 			[prtabh4=com.whatsapp.HomeActivity,0,A02,X.19q,intClass]				// Ocultar TABS - Ocultar metodos
-			[prtabh5=X.2dO,1,A01] 													// Ocultar TABS - Asignar numero de pestañas visibles
+			[prtabh5=X.2Cn,1,A01] 													// Ocultar TABS - Asignar numero de pestañas visibles
 			[datectm=X.1xA,0,A0f,booleanTYPE] 	// Fecha central en conversaciones
 			[datectv=A0E]
 			[cnvbtn=com.whatsapp.Conversation,0,onCreateOptionsMenu,androidMenu]	// Ocultar iconos de videollamada o llamada, y cambiar a llamada normal
@@ -585,11 +585,11 @@
 			[ghrms1=com.whatsapp.jobqueue.job.SendReadReceiptJob,1,A0B]				// Ocultar lectura de mensajes 1
 			[ghrms2=com.whatsapp.jobqueue.job.SendPlayedReceiptJob,1,A0B]			// Ocultar lectura de mensajes 2
 			[ghrms3=com.whatsapp.jobqueue.job.SendE2EMessageJob,1,A09]				// Ocultar lectura de mensajes 3
-			[prtabh1=X.2dO,0,A0G,intClass] 											// Ocultar TABS - Gestionar fragmentos
-			[prtabh2=X.2dO,0,A03,intClass]											// Ocultar TABS - Reasignar etiquetas
-			[prtabh3=X.2dO,0,A0Y,intClass] 											// Ocultar TABS - Asignar botones correctos
+			[prtabh1=X.2dD,0,A0G,intClass] 											// Ocultar TABS - Gestionar fragmentos
+			[prtabh2=X.2dD,0,A03,intClass]											// Ocultar TABS - Reasignar etiquetas
+			[prtabh3=X.2dD,0,A0Y,intClass] 											// Ocultar TABS - Asignar botones correctos
 			[prtabh4=com.whatsapp.HomeActivity,0,A06,X.19B,intClass]				// Ocultar TABS - Ocultar metodos
-			[prtabh5=X.2dO,1,A01] 													// Ocultar TABS - Asignar numero de pestañas visibles
+			[prtabh5=X.2dD,1,A01] 													// Ocultar TABS - Asignar numero de pestañas visibles
 			[datectm=X.2BF,0,A0i,booleanTYPE] 	// Fecha central en conversaciones
 			[datectv=A0E]
 			[cnvbtn=com.whatsapp.Conversation,0,onCreateOptionsMenu,androidMenu]	// Ocultar iconos de videollamada o llamada, y cambiar a llamada normal
@@ -597,4 +597,28 @@
 			[hlsact=com.whatsapp.SettingsPrivacy,0,AF6,integerTYPE,integerTYPE] 	// Ver última conexión de los demás pero ocultar la propia
 			[hlsps1=A0h]
 			[hlsps2=A0f]
+}
+{
+	2.19.259,[itxt=X.2H7,0,onMeasure,intClass,intClass]								// Entrada de texto en conversacion
+			[hsto=X.0vI,0,A03,booleanTYPE]											// Ocultar estado de en linea 
+			[atrvk=X.1Cf,0,A0A,X.34R,booleanTYPE]									// Evitar borrar mensajes
+
+			[ghrcm=X.25r,0,A0Y,X.1Rh]												// Ocultar recibo de mensajes
+			[gtbol=X.26b,0,getBoolean,stringClass,booleanTYPE]						// Cambios en Boolean: Administración de grupos
+			[gtint=X.26b,0,getInt,stringClass,integerTYPE]							// Cambios en Integer: Calidad de imagenes, duración video de estado, administración de grupos, numero de participantes en grupos
+			[ghrms1=com.whatsapp.jobqueue.job.SendReadReceiptJob,1,A09]				// Ocultar lectura de mensajes 1
+			[ghrms2=com.whatsapp.jobqueue.job.SendPlayedReceiptJob,1,A09]			// Ocultar lectura de mensajes 2
+			[ghrms3=com.whatsapp.jobqueue.job.SendE2EMessageJob,1,A07]				// Ocultar lectura de mensajes 3
+			[prtabh1=X.2Cq,0,A0G,intClass] 											// Ocultar TABS - Gestionar fragmentos
+			[prtabh2=X.2Cq,0,A03,intClass]											// Ocultar TABS - Reasignar etiquetas
+			[prtabh3=X.2Cq,0,A0f,intClass] 											// Ocultar TABS - Asignar botones correctos
+			[prtabh4=com.whatsapp.HomeActivity,0,A02,X.19p,intClass]				// Ocultar TABS - Ocultar metodos
+			[prtabh5=X.2Cq,1,A01] 													// Ocultar TABS - Asignar numero de pestañas visibles
+			[datectm=X.1xC,0,A0f,booleanTYPE] 	// Fecha central en conversaciones
+			[datectv=A0E]
+			[cnvbtn=com.whatsapp.Conversation,0,onCreateOptionsMenu,androidMenu]	// Ocultar iconos de videollamada o llamada, y cambiar a llamada normal
+			[cnvcbt=com.whatsapp.Conversation,0,onOptionsItemSelected,androidMenuItem] // Añadir botón de llamada normal para hacerlo funcional
+			[hlsact=com.whatsapp.SettingsPrivacy,0,AF5,integerTYPE,integerTYPE] 	// Ver última conexión de los demás pero ocultar la propia
+			[hlsps1=A0o]
+			[hlsps2=A0m]
 }
