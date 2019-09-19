@@ -395,7 +395,7 @@
 			[ghrms3=com.whatsapp.jobqueue.job.SendE2EMessageJob,1,A09]				// Ocultar lectura de mensajes 3
 			[prtabh1=X.2d9,0,A0G,intClass] 											// Ocultar TABS - Gestionar fragmentos
 			[prtabh2=X.2d9,0,A03,intClass]											// Ocultar TABS - Reasignar etiquetas
-			[prtabh3=X.2d9,0,A0Y,intClass] 											// Ocultar TABS - Asignar botones correctos
+			[prtabh3=com.whatsapp.HomeActivity,0,A0Y,intClass] 											// Ocultar TABS - Asignar botones correctos
 			[prtabh4=com.whatsapp.HomeActivity,0,A06,X.198,intClass]				// Ocultar TABS - Ocultar metodos
 			[prtabh5=X.2d9,1,A01] 													// Ocultar TABS - Asignar numero de pestañas visibles
 			[datectm=X.2B4,0,A0i,booleanTYPE] 	// Fecha central en conversaciones
@@ -419,7 +419,7 @@
 			[ghrms3=com.whatsapp.jobqueue.job.SendE2EMessageJob,1,A09]				// Ocultar lectura de mensajes 3
 			[prtabh1=X.2d9,0,A0G,intClass] 											// Ocultar TABS - Gestionar fragmentos
 			[prtabh2=X.2d9,0,A03,intClass]											// Ocultar TABS - Reasignar etiquetas
-			[prtabh3=X.2d9,0,A0Y,intClass] 											// Ocultar TABS - Asignar botones correctos
+			[prtabh3=com.whatsapp.HomeActivity,0,A0Y,intClass] 											// Ocultar TABS - Asignar botones correctos
 			[prtabh4=com.whatsapp.HomeActivity,0,A06,X.198,intClass]				// Ocultar TABS - Ocultar metodos
 			[prtabh5=X.2d9,1,A01] 													// Ocultar TABS - Asignar numero de pestañas visibles
 			[datectm=X.2BE,0,A0i,booleanTYPE] 	// Fecha central en conversaciones
@@ -443,7 +443,7 @@
 			[ghrms3=com.whatsapp.jobqueue.job.SendE2EMessageJob,1,A09]				// Ocultar lectura de mensajes 3
 			[prtabh1=X.2dK,0,A0G,intClass] 											// Ocultar TABS - Gestionar fragmentos
 			[prtabh2=X.2dK,0,A03,intClass]											// Ocultar TABS - Reasignar etiquetas
-			[prtabh3=X.2dK,0,A0Y,intClass] 											// Ocultar TABS - Asignar botones correctos
+			[prtabh3=com.whatsapp.HomeActivity,0,A0Y,intClass] 											// Ocultar TABS - Asignar botones correctos
 			[prtabh4=com.whatsapp.HomeActivity,0,A06,X.198,intClass]				// Ocultar TABS - Ocultar metodos
 			[prtabh5=X.2dK,1,A01] 													// Ocultar TABS - Asignar numero de pestañas visibles
 			[datectm=X.2BF,0,A0i,booleanTYPE] 	// Fecha central en conversaciones
@@ -491,7 +491,7 @@
 			[ghrms3=com.whatsapp.jobqueue.job.SendE2EMessageJob,1,A09]				// Ocultar lectura de mensajes 3
 			[prtabh1=X.2dO,0,A0G,intClass] 											// Ocultar TABS - Gestionar fragmentos
 			[prtabh2=X.2dO,0,A03,intClass]											// Ocultar TABS - Reasignar etiquetas
-			[prtabh3=X.2dO,0,A0Y,intClass] 											// Ocultar TABS - Asignar botones correctos
+			[prtabh3=com.whatsapp.HomeActivity,0,A0Y,intClass] 											// Ocultar TABS - Asignar botones correctos
 			[prtabh4=com.whatsapp.HomeActivity,0,A06,X.198,intClass]				// Ocultar TABS - Ocultar metodos
 			[prtabh5=X.2dO,1,A01] 													// Ocultar TABS - Asignar numero de pestañas visibles
 			[datectm=X.2BH,0,A0i,booleanTYPE] 	// Fecha central en conversaciones
@@ -515,7 +515,7 @@
 			[ghrms3=com.whatsapp.jobqueue.job.SendE2EMessageJob,1,A07]				// Ocultar lectura de mensajes 3
 			[prtabh1=X.2dO,0,A0G,intClass] 											// Ocultar TABS - Gestionar fragmentos
 			[prtabh2=X.2dO,0,A03,intClass]											// Ocultar TABS - Reasignar etiquetas
-			[prtabh3=X.2dO,0,A0o,intClass] 											// Ocultar TABS - Asignar botones correctos
+			[prtabh3=com.whatsapp.HomeActivity,0,A0o,intClass] 											// Ocultar TABS - Asignar botones correctos
 			[prtabh4=com.whatsapp.HomeActivity,0,A03,X.18V,intClass]				// Ocultar TABS - Ocultar metodos
 			[prtabh5=X.2dO,1,A01] 													// Ocultar TABS - Asignar numero de pestañas visibles
 			[datectm=X.2AO,0,A0i,booleanTYPE] 	// Fecha central en conversaciones
@@ -539,7 +539,7 @@
 			[ghrms3=com.whatsapp.jobqueue.job.SendE2EMessageJob,1,A07]				// Ocultar lectura de mensajes 3
 			[prtabh1=X.2bV,0,A0G,intClass] 											// Ocultar TABS - Gestionar fragmentos
 			[prtabh2=X.2bV,0,A03,intClass]											// Ocultar TABS - Reasignar etiquetas
-			[prtabh3=X.2bV,0,A0o,intClass] 											// Ocultar TABS - Asignar botones correctos
+			[prtabh3=com.whatsapp.HomeActivity,0,A0o,intClass] 											// Ocultar TABS - Asignar botones correctos
 			[prtabh4=com.whatsapp.HomeActivity,0,A03,X.18S,intClass]				// Ocultar TABS - Ocultar metodos
 			[prtabh5=X.2bV,1,A01] 													// Ocultar TABS - Asignar numero de pestañas visibles
 			[datectm=X.2AW,0,A0i,booleanTYPE] 	// Fecha central en conversaciones
@@ -563,7 +563,7 @@
 			[ghrms3=com.whatsapp.jobqueue.job.SendE2EMessageJob,1,A07]				// Ocultar lectura de mensajes 3
 			[prtabh1=X.2Cn,0,A0G,intClass] 											// Ocultar TABS - Gestionar fragmentos
 			[prtabh2=X.2Cn,0,A03,intClass]											// Ocultar TABS - Reasignar etiquetas
-			[prtabh3=X.2Cn,0,A0f,intClass] 											// Ocultar TABS - Asignar botones correctos
+			[prtabh3=com.whatsapp.HomeActivity,0,A0f,intClass] 											// Ocultar TABS - Asignar botones correctos
 			[prtabh4=com.whatsapp.HomeActivity,0,A02,X.19q,intClass]				// Ocultar TABS - Ocultar metodos
 			[prtabh5=X.2Cn,1,A01] 													// Ocultar TABS - Asignar numero de pestañas visibles
 			[datectm=X.1xA,0,A0f,booleanTYPE] 	// Fecha central en conversaciones
@@ -587,7 +587,7 @@
 			[ghrms3=com.whatsapp.jobqueue.job.SendE2EMessageJob,1,A09]				// Ocultar lectura de mensajes 3
 			[prtabh1=X.2dD,0,A0G,intClass] 											// Ocultar TABS - Gestionar fragmentos
 			[prtabh2=X.2dD,0,A03,intClass]											// Ocultar TABS - Reasignar etiquetas
-			[prtabh3=X.2dD,0,A0Y,intClass] 											// Ocultar TABS - Asignar botones correctos
+			[prtabh3=com.whatsapp.HomeActivity,0,A0Y,intClass] 											// Ocultar TABS - Asignar botones correctos
 			[prtabh4=com.whatsapp.HomeActivity,0,A06,X.19B,intClass]				// Ocultar TABS - Ocultar metodos
 			[prtabh5=X.2dD,1,A01] 													// Ocultar TABS - Asignar numero de pestañas visibles
 			[datectm=X.2BF,0,A0i,booleanTYPE] 	// Fecha central en conversaciones
@@ -611,7 +611,7 @@
 			[ghrms3=com.whatsapp.jobqueue.job.SendE2EMessageJob,1,A09]				// Ocultar lectura de mensajes 3
 			[prtabh1=X.2fa,0,A0G,intClass] 											// Ocultar TABS - Gestionar fragmentos
 			[prtabh2=X.2fa,0,A03,intClass]											// Ocultar TABS - Reasignar etiquetas
-			[prtabh3=X.2fa,0,A0Y,intClass] 											// Ocultar TABS - Asignar botones correctos
+			[prtabh3=com.whatsapp.HomeActivity,0,A0Y,intClass] 											// Ocultar TABS - Asignar botones correctos
 			[prtabh4=com.whatsapp.HomeActivity,0,A06,X.197,intClass]				// Ocultar TABS - Ocultar metodos
 			[prtabh5=X.2fa,1,A01] 													// Ocultar TABS - Asignar numero de pestañas visibles
 			[datectm=X.2D9,0,A0i,booleanTYPE] 	// Fecha central en conversaciones
@@ -635,7 +635,7 @@
 			[ghrms3=com.whatsapp.jobqueue.job.SendE2EMessageJob,1,A07]				// Ocultar lectura de mensajes 3
 			[prtabh1=X.2Cq,0,A0G,intClass] 											// Ocultar TABS - Gestionar fragmentos
 			[prtabh2=X.2Cq,0,A03,intClass]											// Ocultar TABS - Reasignar etiquetas
-			[prtabh3=X.2Cq,0,A0f,intClass] 											// Ocultar TABS - Asignar botones correctos
+			[prtabh3=com.whatsapp.HomeActivity,0,A0f,intClass] 											// Ocultar TABS - Asignar botones correctos
 			[prtabh4=com.whatsapp.HomeActivity,0,A02,X.19p,intClass]				// Ocultar TABS - Ocultar metodos
 			[prtabh5=X.2Cq,1,A01] 													// Ocultar TABS - Asignar numero de pestañas visibles
 			[datectm=X.1xC,0,A0f,booleanTYPE] 	// Fecha central en conversaciones
@@ -659,7 +659,7 @@
 			[ghrms3=com.whatsapp.jobqueue.job.SendE2EMessageJob,1,A07]				// Ocultar lectura de mensajes 3
 			[prtabh1=X.2Cu,0,A0G,intClass] 											// Ocultar TABS - Gestionar fragmentos
 			[prtabh2=X.2Cu,0,A03,intClass]											// Ocultar TABS - Reasignar etiquetas
-			[prtabh3=X.2Cu,0,A0f,intClass] 											// Ocultar TABS - Asignar botones correctos
+			[prtabh3=com.whatsapp.HomeActivity,0,A0f,intClass] 											// Ocultar TABS - Asignar botones correctos
 			[prtabh4=com.whatsapp.HomeActivity,0,A02,X.19o,intClass]				// Ocultar TABS - Ocultar metodos
 			[prtabh5=X.2Cu,1,A01] 													// Ocultar TABS - Asignar numero de pestañas visibles
 			[datectm=X.1xD,0,A0f,booleanTYPE] 	// Fecha central en conversaciones
@@ -683,7 +683,7 @@
 			[ghrms3=com.whatsapp.jobqueue.job.SendE2EMessageJob,1,A03]				// Ocultar lectura de mensajes 3
 			[prtabh1=X.29Z,0,A0G,intClass] 											// Ocultar TABS - Gestionar fragmentos
 			[prtabh2=X.29Z,0,A03,intClass]											// Ocultar TABS - Reasignar etiquetas
-			[prtabh3=X.29Z,0,A0Z,intClass] 											// Ocultar TABS - Asignar botones correctos
+			[prtabh3=com.whatsapp.HomeActivity,0,A0Z,intClass] 											// Ocultar TABS - Asignar botones correctos
 			[prtabh4=com.whatsapp.HomeActivity,0,A02,X.17Q,intClass]				// Ocultar TABS - Ocultar metodos
 			[prtabh5=X.29Z,1,A01] 													// Ocultar TABS - Asignar numero de pestañas visibles
 			[datectm=X.1u2,0,A0f,booleanTYPE] 	// Fecha central en conversaciones
@@ -707,7 +707,7 @@
 			[ghrms3=com.whatsapp.jobqueue.job.SendE2EMessageJob,1,A07]				// Ocultar lectura de mensajes 3
 			[prtabh1=X.2DB,0,A0G,intClass] 											// Ocultar TABS - Gestionar fragmentos
 			[prtabh2=X.2DB,0,A03,intClass]											// Ocultar TABS - Reasignar etiquetas
-			[prtabh3=X.2DB,0,A0f,intClass] 											// Ocultar TABS - Asignar botones correctos
+			[prtabh3=com.whatsapp.HomeActivity,0,A0f,intClass] 											// Ocultar TABS - Asignar botones correctos
 			[prtabh4=com.whatsapp.HomeActivity,0,A02,X.19p,intClass]				// Ocultar TABS - Ocultar metodos
 			[prtabh5=X.2DB,1,A01] 													// Ocultar TABS - Asignar numero de pestañas visibles
 			[datectm=X.1xF,0,A0f,booleanTYPE] 	// Fecha central en conversaciones
@@ -730,7 +730,7 @@
 			[ghrms3=com.whatsapp.jobqueue.job.SendE2EMessageJob,1,A07]				// Ocultar lectura de mensajes 3
 			[prtabh1=X.2DE,0,A0G,intClass] 											// Ocultar TABS - Gestionar fragmentos
 			[prtabh2=X.2DE,0,A03,intClass]											// Ocultar TABS - Reasignar etiquetas
-			[prtabh3=X.2DE,0,A0f,intClass] 											// Ocultar TABS - Asignar botones correctos
+			[prtabh3=com.whatsapp.HomeActivity,0,A0f,intClass] 											// Ocultar TABS - Asignar botones correctos
 			[prtabh4=com.whatsapp.HomeActivity,0,A02,X.19p,intClass]				// Ocultar TABS - Ocultar metodos
 			[prtabh5=X.2DE,1,A01] 													// Ocultar TABS - Asignar numero de pestañas visibles
 			[datectm=X.1xI,0,A0f,booleanTYPE] 	// Fecha central en conversaciones
