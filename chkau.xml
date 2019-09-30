@@ -5,7 +5,7 @@
     <en>
 - Added option to activate the permissive Linux SE mode in settings (Changes are applied when restarting showing a Toast, or entering KMod FWA).
 - Fixed bubble customization.
-- Fixed voice memo bubble customization.
+- Fixed voice note bubble customization.
 - Fixed privacy of hiding recording audio or writing.
 - Fixed customization of some icons.
 - Fixed other errors.
