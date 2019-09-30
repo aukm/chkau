@@ -1,200 +1,125 @@
 <AppUpdater>
   <update>
-    <latestVersion>2.7.6</latestVersion>
-    <url>https://dl-xda.xposed.info/modules/kmod.xposed_v2760_043c64.apk</url>
+    <latestVersion>2.7.7</latestVersion>
+    <url>https://dl-xda.xposed.info/modules/kmod.xposed_v2765_8b0aa7.apk</url>
     <en>
-- Added all privacy options again.
-- Now you can add a button on the conversations screen to make phone calls.
-- Restructured the icons section within the Conversations section.
-- New method to update libraries (Hooks). They are now updated by selecting the Update libraries option, in the Updates section.
-- Removed the Clear cache option in Settings (Now use the Update libraries option).
-- Removed the automatic update of Hooks when entering WhatsApp (It didn't work correctly on some devices).
-- Removed swipe to respond option (it's already active by default).
-- Removed option to activate Stickers (it's already active by default).
-- Removed option to replace the call button of WhatsApp by telephone calls (a separate button was added).
-- Removed personalization of some screens of the Settings section (for now).
+- Added option to activate the permissive Linux SE mode in settings (Changes are applied when restarting showing a Toast, or entering KMod FWA).
+- Fixed bubble customization.
+- Fixed voice memo bubble customization.
+- Fixed privacy of hiding recording audio or writing.
+- Fixed customization of some icons.
 - Fixed other errors.
     </en>
     <ar>
-- أضيفت جميع خيارات الخصوصية مرة أخرى.
-- يمكنك الآن إضافة زر على شاشة المحادثات لإجراء مكالمات هاتفية.
-- إعادة هيكلة قسم الرموز داخل قسم المحادثات.
-- طريقة جديدة لتحديث المكتبات (السنانير). يتم تحديثها الآن عن طريق تحديد خيار تحديكتبات ، في قسم التحديثات.
-- أزل خيار مسح ذاكرة التخزين المؤقت في الإعدادات (استخدم الآن خيار تحديث المكتبات).
-- أزال التحديث التلقائي لـ Hooks عند دخول WhatsApp (لم ينجح بشكل صحيح في بعض الأجهزة).
-- خيار السحب الذي تمت إزالته للرد (نشط بالفعل افتراضيًا).
-- الخيار الذي تمت إزالته لتنشيط الملصقات (إنه نشط بالفعل افتراضيًا).
-- الخيار الذي تمت إزالته لاستبدال زر الاتصال في WhatsApp عن طريق المكالمات الهاتفية (تمت إضافة زر منفصل).
-- تمت إزالة التخصيص لبعض شاشات قسم الإعدادات (في الوقت الحالي).
+- خيار مضافة لتنشيط وضع Linux SE المتسامح في الإعدادات (يتم تطبيق التغييرات عند إعادة تشغيل إظهار توست ، أو إدخال KMod FWA).
+- تخصيص فقاعة ثابتة.
+- ثابت صوت المذكرة فقاعة التخصيص.
+- الخصوصية الثابتة للاختباء تسجيل الصوت أو الكتابة.
+- التخصيص الثابت لبعض الرموز.
 - إصلاح الأخطاء الأخرى.
     </ar>
     <bn>
-- সমস্ত গোপনীয়তার বিকল্প আবার যুক্ত।
-- এখন আপনি ফোন কল করতে কথোপকথনের স্ক্রিনে একটি বোতাম যুক্ত করতে পারেন।
-- কথোপকথন বিভাগের মধ্যে আইকন বিভাগ পুনর্গঠিত।
-- লাইব্রেরি আপডেট করার নতুন পদ্ধতি (হুকস)। সেগুলি এখন আপডেট বিভাগে আপডেট লাইব্রেরি বিকল্পটি নির্বাচন করে আপডেট করা হয়।
-- সেটিংসে সাফ ক্যাশে বিকল্পটি সরানো হয়েছে (এখন আপডেট লাইব্রেরি বিকল্পটি ব্যবহার করুন)।
-- হোয়াটসঅ্যাপে প্রবেশের সময় হুক্সের স্বয়ংক্রিয় আপডেট সরিয়ে ফেলা হয়েছে (এটি কিছু ডিভাইসে সঠিকভাবে কাজ করে না)।
-- প্রতিক্রিয়া বিকল্পের জন্য সোয়াইপ সরানো হয়েছে (এটি ডিফল্টরূপে ইতিমধ্যে সক্রিয়)।
-- স্টিকারগুলি সক্রিয় করার বিকল্প অপসারণ (এটি ডিফল্টরূপে ইতিমধ্যে সক্রিয়)।
-- টেলিফোন কল দ্বারা হোয়াটসঅ্যাপের কল বোতামটি প্রতিস্থাপনের বিকল্প সরানো হয়েছে (একটি পৃথক বোতাম যুক্ত হয়েছিল)।
-- সেটিংস বিভাগের কিছু পর্দার ব্যক্তিগতকরণ সরিয়ে ফেলা হয়েছে (আপাতত)।
+- সেটিংসে অনুমতিপ্রাপ্ত লিনাক্স এসই মোডটি সক্রিয় করার জন্য বিকল্প যুক্ত করা হয়েছে (টোস্ট দেখানো পুনরায় চালু করার সময়, বা কেএমড এফডাব্লুএ প্রবেশ করার সময় পরিবর্তনগুলি প্রয়োগ করা হয়)।
+- স্থির বুদবুদ কাস্টমাইজেশন।
+- স্থির ভয়েস মেমো বুদ্বুদ কাস্টমাইজেশন।
+- রেকর্ডিং অডিও বা লেখার গোপনীয়তা স্থির করে।
+- কিছু আইকন স্থির কাস্টমাইজেশন।
 - অন্যান্য ত্রুটিগুলি স্থির করে।
     </bn>
     <de>
-- Alle Datenschutzoptionen wurden erneut hinzugefügt.
-- Jetzt können Sie eine Schaltfläche auf dem Unterhaltungsbildschirm hinzufügen, um Anrufe zu tätigen.
-- Der Abschnitt mit den Symbolen im Abschnitt "Gespräche" wurde neu strukturiert.
-- Neue Methode zum Aktualisieren von Bibliotheken (Hooks). Sie werden jetzt aktualisiert, indem Sie die Option Bibliotheken aktualisieren im Abschnitt Aktualisierungen auswählen.
-- Die Option Cache löschen in den Einstellungen wurde entfernt (jetzt die Option Bibliotheken aktualisieren verwenden).
-- Das automatische Update von Hooks beim Aufrufen von WhatsApp wurde entfernt (es funktionierte auf einigen Geräten nicht richtig).
-- Die Option "Streichen, um zu antworten" wurde entfernt (standardmäßig ist sie bereits aktiviert).
-- Option zum Aktivieren von Aufklebern entfernt (standardmäßig bereits aktiviert).
-- Option entfernt, um die Anruftaste von WhatsApp durch Telefonanrufe zu ersetzen (eine separate Taste wurde hinzugefügt).
-- Die Personalisierung einiger Bildschirme im Bereich "Einstellungen" wurde (vorerst) entfernt.
+- Option hinzugefügt, um den zulässigen Linux SE-Modus in den Einstellungen zu aktivieren (Änderungen werden angewendet, wenn ein Toast neu gestartet oder KMod FWA aufgerufen wird).
+- Blasenanpassung behoben.
+- Die Anpassung der Sprechblasen wurde korrigiert.
+- Die Privatsphäre beim Ausblenden von Audio- oder Schreibaufzeichnungen wurde behoben.
+- Die Anpassung einiger Symbole wurde korrigiert.
 - Andere Fehler behoben.
 	</de>
     <es>
-- Se agregaron todas las opciones de privacidad nuevamente.
-- Ahora puedes añadir un botón en la pantalla de conversaciones para realizar llamadas de teléfono.
-- Restructurada la sección de iconos dentro de la sección Conversaciones.
-- Nuevo metodo para actualizar las bibliotecas (Hooks). Ahora se actualizan seleccionando la opción Actualizar bibliotecas, dentro de la sección Actualizaciones.
-- Eliminada la sección Borrar cache dentro de Ajustes (Ahora se utiliza la opción Actualizar bibliotecas). 
-- Eliminada la actualización automatica de bibliotecas al entrar en WhatsApp (No funcionaba correctamente en algunos dispositivos).
-- Eliminada opción deslizar para responder (ya viene activa por defecto).
-- Eliminada opción activar Stickers (ya viene activa por defecto).
-- Eliminada opción para sustituir el botón de llamadas de WhatsApp por llamadas de teléfono (Se añadió un botón independiente).
-- Eliminada personalización de algunas pantallas de la sección Ajustes (por ahora).
-- Arreglados otros errores.
+- Se añadió la opción para activar el modo permisivo de Linux SE en la configuración (los cambios se aplican al reiniciar mostrando un Toast o ingresando KMod FWA).
+- Se corrigió la personalización de burbujas.
+- Se corrigió la personalización de burbujas de notas de voz.
+- Se corrigió la privacidad de ocultar la grabación de audio o escritura.
+- Se corrigió la personalización de algunos iconos.
+- Se corrigieron otros errores.
     </es>
     <fr>
-- Ajout de toutes les options de confidentialité à nouveau.
-- Vous pouvez maintenant ajouter un bouton sur l'écran des conversations pour passer des appels téléphoniques.
-- Restructuré la section des icônes dans la section Conversations.
-- Nouvelle méthode pour mettre à jour les bibliothèques (Hooks). Ils sont maintenant mis à jour en sélectionnant l'option Mettre à jour les bibliothèques, dans la section Mises à jour.
-- Suppression de l'option Effacer le cache dans les paramètres (utilisez maintenant l'option Mettre à jour les bibliothèques).
-- Suppression de la mise à jour automatique de Hooks lors de la saisie de WhatsApp (cela ne fonctionnait pas correctement sur certains appareils).
-- Suppression de l'option "glisser pour répondre" (elle est déjà active par défaut).
-- Suppression de l'option d'activation des autocollants (elle est déjà active par défaut).
-- Suppression de l'option permettant de remplacer le bouton d'appel de WhatsApp par des appels téléphoniques (un bouton séparé a été ajouté).
-- Suppression de la personnalisation de certains écrans de la section Paramètres (pour l'instant).
+- Ajout d'une option pour activer le mode permissif Linux SE dans les paramètres (les modifications sont appliquées lors du redémarrage de l'affichage d'un Toast ou de la saisie de KMod FWA).
+- Correction de la personnalisation des bulles.
+- Correction de la personnalisation de la bulle du mémo vocal.
+- Correction de la confidentialité de la dissimulation d'enregistrement audio ou d'écriture.
+- Correction de la personnalisation de certaines icônes.
 - Correction d'autres erreurs.
     </fr>
     <hi>
-- फिर से सभी गोपनीयता विकल्प जोड़े।
-- अब आप फोन कॉल करने के लिए वार्तालाप स्क्रीन पर एक बटन जोड़ सकते हैं।
-- वार्तालाप अनुभाग के भीतर आइकन अनुभाग को पुनर्संरचित किया।
-- पुस्तकालयों (हुक) को अद्यतन करने की नई विधि। अपडेट अनुभाग में अब वे अद्यतन लाइब्रेरी विकल्प का चयन करके अपडेट किए गए हैं।
-- सेटिंग्स में क्लियर कैश विकल्प को हटा दिया (अब अपडेट लाइब्रेरी विकल्प का उपयोग करें)।
-- व्हाट्सएप में प्रवेश करते समय हुक के स्वत: अद्यतन को हटा दिया गया (यह कुछ उपकरणों पर सही ढंग से काम नहीं करता था)।
-- विकल्प का जवाब देने के लिए स्वाइप हटाया गया (यह पहले से ही डिफ़ॉल्ट रूप से सक्रिय है)।
-- स्टिकर को सक्रिय करने के लिए हटाए गए विकल्प (यह पहले से ही डिफ़ॉल्ट रूप से सक्रिय है)।
-- टेलीफोन कॉल द्वारा व्हाट्सएप के कॉल बटन को बदलने के लिए हटाए गए विकल्प (एक अलग बटन जोड़ा गया था)।
-- सेटिंग्स अनुभाग (अभी के लिए) के कुछ स्क्रीन के निजीकरण को हटा दिया गया।
+- सेटिंग्स में अनुमेय लिनक्स एसई मोड को सक्रिय करने के लिए जोड़ा गया विकल्प (टोस्ट दिखाते समय, या केमोड एफडब्ल्यूए में प्रवेश करते समय परिवर्तन लागू होते हैं)।
+- निश्चित बुलबुला अनुकूलन।
+- फिक्स्ड वॉयस मेमो बबल कस्टमाइजेशन।
+- रिकॉर्डिंग ऑडियो या लेखन को छिपाने की निश्चित गोपनीयता।
+- कुछ आइकन का निश्चित अनुकूलन।
 - अन्य त्रुटियों को ठीक किया।
     </hi>
 	<in>
-- Menambahkan semua opsi privasi lagi.
-- Sekarang Anda dapat menambahkan tombol di layar percakapan untuk melakukan panggilan telepon.
-- Merestrukturisasi bagian ikon dalam bagian Percakapan.
-- Metode baru untuk memperbarui perpustakaan (Hooks). Mereka sekarang diperbarui dengan memilih opsi Perbarui perpustakaan, di bagian Pembaruan.
-- Menghapus opsi Hapus cache di Pengaturan (Sekarang gunakan opsi Perbarui perpustakaan).
-- Menghapus pembaruan Hooks otomatis saat memasuki WhatsApp (Tidak berfungsi dengan benar pada beberapa perangkat).
-- Gesek dihapus untuk menanggapi opsi (sudah aktif secara default).
-- Opsi yang dihapus untuk mengaktifkan Stiker (sudah aktif secara default).
-- Opsi yang dihapus untuk mengganti tombol panggilan WhatsApp oleh panggilan telepon (tombol terpisah ditambahkan).
-- Personalisasi beberapa layar yang dihapus dari bagian Pengaturan (untuk saat ini).
+- Opsi yang ditambahkan untuk mengaktifkan mode SE Linux permisif dalam pengaturan (Perubahan diterapkan saat memulai ulang menampilkan Toast, atau memasuki KMod FWA).
+- Kustomisasi gelembung diperbaiki.
+- Memperbaiki kustomisasi memo memo suara.
+- Memperbaiki privasi menyembunyikan rekaman audio atau tulisan.
+- Memperbaiki kustomisasi beberapa ikon.
 - Memperbaiki kesalahan lainnya.
 	</in>
     <it>
-- Aggiunte di nuovo tutte le opzioni sulla privacy.
-- Ora puoi aggiungere un pulsante nella schermata delle conversazioni per effettuare chiamate.
-- Ristrutturata la sezione icone all'interno della sezione Conversazioni.
-- Nuovo metodo per aggiornare le librerie (hook). Ora vengono aggiornati selezionando l'opzione Aggiorna librerie, nella sezione Aggiornamenti.
-- Rimossa l'opzione Cancella cache in Impostazioni (ora usa l'opzione Aggiorna librerie).
-- Rimosso l'aggiornamento automatico di Hooks durante l'accesso a WhatsApp (non funzionava correttamente su alcuni dispositivi).
-- Rimossa l'opzione scorri per rispondere (è già attiva per impostazione predefinita).
-- Opzione rimossa per attivare gli adesivi (è già attivo per impostazione predefinita).
-- Rimossa l'opzione per sostituire il pulsante di chiamata di WhatsApp con le telefonate (è stato aggiunto un pulsante separato).
-- Rimossa la personalizzazione di alcune schermate della sezione Impostazioni (per ora).
+- Aggiunta l'opzione per attivare la modalità Linux SE permissiva nelle impostazioni (le modifiche vengono applicate quando si riavvia mostrando un Toast o si accede a KMod FWA).
+- Risolto il problema della personalizzazione delle bolle.
+- Risolto il problema con la personalizzazione della bolla del memo vocale.
+- Risolto il problema della privacy per nascondere la registrazione dell'audio o della scrittura.
+- Corretta la personalizzazione di alcune icone.
 - Risolti altri errori.
     </it>
     <nl>
-- Alle privacy-opties opnieuw toegevoegd.
-- Nu kunt u een knop op het conversatiescherm toevoegen om te bellen.
-- Herstructureerde de pictogrammensectie in de sectie Conversaties.
-- Nieuwe methode om bibliotheken bij te werken (Hooks). Ze worden nu bijgewerkt door de optie Bibliotheken bijwerken te selecteren in het gedeelte Updates.
-- De optie Cache wissen verwijderd in Instellingen (gebruik nu de optie Update bibliotheken).
-- De automatische update van Hooks verwijderd bij het invoeren van WhatsApp (op sommige apparaten werkte het niet correct).
-- Verwijderde veeg om te reageren optie (deze is standaard al actief).
-- Optie verwijderd om Stickers te activeren (deze is standaard al actief).
-- Optie verwijderd om de belknop van WhatsApp te vervangen door telefoongesprekken (een aparte knop is toegevoegd).
-- Personalisatie van sommige schermen van de sectie Instellingen (voorlopig) verwijderd.
+- Optie toegevoegd om de permissieve Linux SE-modus in de instellingen te activeren (wijzigingen worden toegepast bij het herstarten van een Toast of bij het invoeren van KMod FWA).
+- Fixed bubble customization.
+- Vaste spraakmemo-bellenaanpassing.
+- Vaste privacy van het verbergen van opname-audio of schrijven.
+- Vaste aanpassing van sommige pictogrammen.
 - Andere fouten opgelost.
     </nl>
 	<pl>
-- Ponownie dodano wszystkie opcje prywatności.
-- Teraz możesz dodać przycisk na ekranie rozmowy, aby wykonywać połączenia telefoniczne.
-- Przebudowano sekcję ikon w sekcji Rozmowy.
-- Nowa metoda aktualizacji bibliotek (haczyki). Są one teraz aktualizowane, wybierając opcję Aktualizuj biblioteki, w sekcji Aktualizacje.
-- Usunięto opcję Wyczyść pamięć podręczną w Ustawieniach (Teraz użyj opcji Aktualizuj biblioteki).
-- Usunięto automatyczną aktualizację Haków przy wchodzeniu do WhatsApp (Nie działało to poprawnie na niektórych urządzeniach).
-- Usunięto przeciągnięcie, by odpowiedzieć (domyślnie jest już aktywne).
-- Usunięto opcję aktywacji naklejek (domyślnie jest już aktywna).
-- Usunięto opcję zastępowania przycisku połączenia WhatsApp rozmowami telefonicznymi (dodano osobny przycisk).
-- Usunięto personalizację niektórych ekranów sekcji Ustawienia (na razie).
+- Dodano opcję aktywacji permisywnego trybu Linux SE w ustawieniach (Zmiany są wprowadzane przy ponownym uruchomieniu Pokazywania lub wchodzeniu do KMod FWA).
+- Naprawiono dostosowywanie baniek.
+- Naprawione dostosowywanie bąbelków notatek głosowych.
+- Naprawiono prywatność ukrywania nagrywania dźwięku lub pisania.
+- Naprawiono dostosowanie niektórych ikon.
 - Naprawiono inne błędy.
     </pl>
     <pt>
-- Adicionado todas as opções de privacidade novamente.
-- Agora você pode adicionar um botão na tela de conversas para fazer chamadas telefônicas.
-- Reestruturei a seção de ícones dentro da seção Conversas.
-- Novo método para atualizar bibliotecas (ganchos). Eles agora são atualizados selecionando a opção Atualizar bibliotecas, na seção Atualizações.
-- Removida a opção Limpar cache nas configurações (agora use a opção Atualizar bibliotecas).
-- Removida a atualização automática dos Ganchos ao entrar no WhatsApp (não funcionava corretamente em alguns dispositivos).
-- Removido o furto para responder a opção (já está ativo por padrão).
-- Removida a opção de ativar Stickers (já está ativa por padrão).
-- Removida a opção de substituir o botão de chamada do WhatsApp por ligações telefônicas (foi adicionado um botão separado).
-- Removida a personalização de algumas telas da seção Configurações (por enquanto).
+- Adicionada opção para ativar o modo Linux SE permissivo nas configurações (as alterações são aplicadas ao reiniciar, mostrando um Toast ou ao entrar no KMod FWA).
+- Customização de bolha fixa.
+- Fixa personalização de bolha de memorando de voz.
+- Corrigida a privacidade de ocultar a gravação de áudio ou gravação.
+- Correção da personalização de alguns ícones.
 - Corrigido outros erros.
     </pt>
 	<ro>
-- A adăugat din nou toate opțiunile de confidențialitate.
-- Acum puteți adăuga un buton pe ecranul conversațiilor pentru a efectua apeluri telefonice.
-- Restructurarea secțiunii de icoane din secțiunea Conversații.
-- Nouă metodă de actualizare a bibliotecilor (cârlige). Acum sunt actualizate selectând opțiunea Actualizare biblioteci, în secțiunea Actualizări.
-- Ați eliminat opțiunea Ștergeți memoria cache din Setări (utilizați acum opțiunea Actualizare biblioteci).
-- A eliminat actualizarea automată a Hooks la intrarea WhatsApp (Nu a funcționat corect pe unele dispozitive).
-- S-a eliminat opțiunea pentru a răspunde (este deja activă implicit).
-- Opțiunea eliminată pentru a activa autocolante (este deja activă implicit).
-- Opțiunea eliminată pentru a înlocui butonul de apel al WhatsApp cu apeluri telefonice (a fost adăugat un buton separat).
-- Personalizare eliminată a unor ecrane din secțiunea Setări (deocamdată).
+- Adăugată opțiune pentru a activa modul Linux SE permisiv în setări (Modificările se aplică la repornirea afișării unui Toast sau la intrarea în KMod FWA).
+- Personalizare fixă cu bule.
+- Personalizare fixă cu bule memo.
+- Confidențialitate corectă a ascunderii înregistrării audio sau a scrierii.
+- Personalizarea corectă a unor pictograme.
 - S-au remediat alte erori.
 	</ro>
     <ru>
-- Добавлены все параметры конфиденциальности снова.
-- Теперь вы можете добавить кнопку на экране разговоров, чтобы сделать телефонные звонки.
-- Реструктурирован раздел иконок в разделе разговоров.
-- Новый метод обновления библиотек (хуки). Теперь они обновляются, выбрав параметр «Обновить библиотеки» в разделе «Обновления».
-- Удален параметр Очистить кеш в настройках (теперь используйте параметр Обновить библиотеки).
-- Удалено автоматическое обновление хуков при входе в WhatsApp (на некоторых устройствах это работало некорректно).
-- Убрана опция «Проведите пальцем до ответа» (по умолчанию она уже активна).
-- Удалена опция для активации стикеров (она уже активна по умолчанию).
-- Удалена опция замены кнопки вызова в WhatsApp на телефонные звонки (добавлена отдельная кнопка).
-- Удалена персонализация некоторых экранов раздела Настройки (на данный момент).
+- Добавлена опция для активации разрешающего режима Linux SE в настройках (изменения применяются при перезапуске показа тоста или входе в KMod FWA).
+- Исправлена настройка пузырей.
+- Исправлена настройка пузыря голосовой заметки.
+- Исправлена конфиденциальность сокрытия записи аудио или записи.
+- Исправлена настройка некоторых иконок.
 - Исправлены другие ошибки.
     </ru>
     <tr>
-- Tüm gizlilik seçeneklerini tekrar eklendi.
-- Artık telefon görüşmeleri yapmak için konuşma ekranında bir düğme ekleyebilirsiniz.
-- Konuşmalar bölümündeki simgeler bölümünü yeniden yapılandırdık.
-- Kütüphaneleri güncellemek için yeni yöntem (Hooks). Şimdi Güncellemeler bölümündeki Kütüphaneleri güncelle seçeneğini seçerek güncellenirler.
-- Ayarlar'daki Önbelleği temizle seçeneği kaldırıldı (Şimdi Kütüphaneleri güncelle seçeneğini kullanın).
-- WhatsApp'a girerken Kancaların otomatik güncellemesi kaldırıldı (Bazı cihazlarda düzgün çalışmadı).
-- Seçeneği yanıtlamak için kaldırılmış kaydırma (zaten varsayılan olarak etkindir).
-- Çıkartmaları etkinleştirmek için Kaldır seçeneği (zaten varsayılan olarak etkindir).
-- WhatsApp'ın arama düğmesini telefon aramalarıyla değiştirme seçeneği kaldırıldı (ayrı bir düğme eklendi).
-- Ayarlar bölümünün bazı ekranlarının kişiselleştirilmesi kaldırıldı (şimdilik).
+- Ayarlarda izin verilen Linux SE modunu etkinleştirmek için seçenek eklendi (Bir Tost göstermeye yeniden başladığınızda veya KMod FWA'ya girerken değişiklikler uygulanır).
+- Sabit kabarcık özelleştirme.
+- Sabit sesli not özelleştirme.
+- Ses kaydı veya yazma gizleme gizliliği düzeltildi.
+- Bazı ikonların düzeltilmesi düzeltildi.
 - Diğer hatalar düzeltildi.
     </tr>
   </update>
