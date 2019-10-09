@@ -472,5 +472,5 @@
 			[hlsps1=A0i]
 			[hlsps2=A0h]
 			[htinft=X.03n,0,A1E,drawableClass,intClass] 							// Quitar tintado de los iconos 1
-			[setclr1=057,0,A01,contextClass,integerTYPE] 							// Remplazar colores de la aplicación en general
+			[setclr1=X.057,0,A01,contextClass,integerTYPE] 							// Remplazar colores de la aplicación en general
 }
