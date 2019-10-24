@@ -754,7 +754,7 @@
 			[datectv=A0D]
 			[cnvbtn=com.whatsapp.Conversation,0,onCreateOptionsMenu,androidMenu]	// Ocultar iconos de videollamada o llamada, y cambiar a llamada normal
 			[cnvcbt=com.whatsapp.Conversation,0,onOptionsItemSelected,androidMenuItem] // Añadir botón de llamada normal para hacerlo funcional
-			[hlsact=com.whatsapp.SettingsPrivacy,0,AG6,integerTYPE,integerTYPE] 	// Ver última conexión de los demás pero ocultar la propia
+			[hlsact=com.whatsapp.SettingsPrivacy,0,AG9,integerTYPE,integerTYPE] 	// Ver última conexión de los demás pero ocultar la propia
 			[hlsps1=A0k]
 			[hlsps2=A0j]
 			[htinft=X.03n,0,A1L,drawableClass,intClass] 							// Quitar tintado de los iconos 1
