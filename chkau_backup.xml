@@ -1,132 +1,276 @@
 <AppUpdater>
   <update>
-    <latestVersion>2.7.1</latestVersion>
-    <url>https://dl-xda.xposed.info/modules/kmod.xposed_v2710_67e3bf.apk</url>
+    <latestVersion>2.7.8</latestVersion>
+    <url>https://dl-xda.xposed.info/modules/kmod.xposed_v2770_ed6e22.apk</url>
     <en>
-- Added option to customize the interface font.
-- Added option to disable all tabs (except for chats).
-- Now a warning will not be shown when a message has been deleted.
-- Fixed option to avoid deleting messages (I was not working correctly on some devices).
-- Fixed privacy option, hide recording audio and writing.
-- Fixed tab button, now correctly shows the button according to the section.
-- Fixed other errors.
+- Added option to color the text of the menu tabs.
+- Added again the menu to customize the main interface icons (it was disabled).
+- Fixed bubble customization.
+- Fixed the option to add the color to the application title.
+- Corrected and restructured the code to assign colors to some sections of WhatsApp (like the status bar).
+- Fixed access to the "About .." section.
+- Fixed Toast of custom behavior.
+- Fixed the Toast that hides the error in privacy.
+- Fixed privacy option to hide contacts.
+- Fixed a bug that prevented writing in groups.
+- Fixed a bug that prevented displaying custom icons in the main menu.
+- Fixed the problem of lag.
+- Fixed the option to hide contacts and groups (if it doesn't work, delete and add contacts or groups again).
+- Fixed some bugs on the conversation screen.
+- Fixed option to hide tabs in versions higher than WhatsApp 2.19.289
+- Restructured the show/hide calls in conversation section, this created confusion with the new options.
     </en>
     <ar>
-- وأضاف الخيار لتخصيص خط الواجهة.
-- إضافة خيار لتعطيل جميع علامات التبويب (باستثناء الدردشات).
-- الآن لن يظهر تحذير عند حذف رسالة.
-- خيار ثابت لتجنب حذف الرسائل (لم أكن أعمل بشكل صحيح على بعض الأجهزة).
-- خيار الخصوصية الثابتة ، إخفاء تسجيل الصوت والكتابة.
-- زر علامة التبويب ثابت ، الآن يظهر بشكل صحيح على الزر وفقا لهذا القسم.
-- أخطاء أخرى ثابتة.
+- إضافة خيار لتلوين نص علامات التبويب القائمة.
+- أضيفت مرة أخرى القائمة لتخصيص رموز الواجهة الرئيسية (تم تعطيله).
+- تخصيص فقاعة ثابتة.
+- إصلاح خيار إضافة اللون إلى عنوان التطبيق.
+- تصحيح وإعادة هيكلة التعليمات البرمجية لتعيين الألوان لبعض أقسام WhatsApp (مثل شريط الحالة).
+- وصول ثابت إلى قسم "حول ..".
+- نخب ثابت من السلوك المخصص.
+- إصلاح نخب الذي يخفي الخطأ في الخصوصية.
+- خيار الخصوصية الثابتة لإخفاء جهات الاتصال.
+- إصلاح الخلل الذي حال دون الكتابة في مجموعات.
+- إصلاح الخلل الذي حال دون عرض الرموز المخصصة في القائمة الرئيسية.
+- إصلاح مشكلة التأخر.
+- إصلاح خيار إخفاء جهات الاتصال والمجموعات (إذا لم ينجح ذلك ، فقم بحذف وإضافة جهات اتصال أو مجموعات مرة أخرى).
+- إصلاح بعض الخلل على شاشة المحادثة.
+- خيار ثابت لإخفاء علامات التبويب في إصدارات أعلى من WhatsApp 2.19.289
+- إعادة هيكلة إظهار / إخفاء المكالمات في قسم المحادثة ، وهذا خلق ارتباك مع الخيارات الجديدة.
     </ar>
     <bn>
-- ইন্টারফেস ফন্ট কাস্টমাইজ করার জন্য যোগ করা বিকল্প।
-- সব ট্যাব নিষ্ক্রিয় করার জন্য যোগ করা বিকল্প (চ্যাট ছাড়া)।
-- একটি বার্তা মুছে ফেলা হয়েছে যখন এখন একটি সতর্কতা দেখানো হবে না।
-- বার্তা মুছে ফেলা এড়ানোর জন্য ফিক্সড বিকল্প (আমি কিছু ডিভাইসে সঠিকভাবে কাজ করা হয় নি)
-- ফিক্সড গোপনীয়তা বিকল্প, রেকর্ডিং অডিও এবং লেখা লুকান।
-- স্থায়ী ট্যাব বোতাম, এখন সঠিকভাবে বিভাগ অনুযায়ী বোতাম দেখায়।
-- অন্যান্য ত্রুটি সংশোধন
+- মেনু ট্যাবগুলির পাঠ্য রঙ করার জন্য বিকল্প যুক্ত করা হয়েছে।
+- মূল ইন্টারফেস আইকনগুলি কাস্টমাইজ করতে আবার মেনু যুক্ত করা হয়েছে (এটি অক্ষম করা হয়েছিল)।
+- স্থির বুদবুদ কাস্টমাইজেশন।
+- অ্যাপ্লিকেশন শিরোনামে রঙ যুক্ত করার বিকল্পটি স্থির করে।
+- হোয়াটসঅ্যাপের কিছু বিভাগে (স্ট্যাটাস বারের মতো) রঙ নির্ধারণের জন্য কোডটি সংশোধন ও পুনর্গঠন করা হয়েছে।
+- "সম্পর্কে .." বিভাগে স্থির অ্যাক্সেস।
+- কাস্টম আচরণের স্থির টোস্ট।
+- গোপনীয়তার মধ্যে ত্রুটিটি আড়াল করে এমন টোস্ট স্থির করে দিয়েছে।
+- যোগাযোগগুলি গোপন করার জন্য স্থির গোপনীয়তার বিকল্প।
+- একটি বাগ সংশোধন করে যা দলে দলে লেখা রোধ করে।
+- মুখ্য মেনুতে কাস্টম আইকনগুলি প্রদর্শন করতে বাধা দেয় এমন একটি বাগ সংশোধন করা হয়েছে।
+- ল্যাগ সমস্যা স্থির।
+- পরিচিতি এবং গোষ্ঠীগুলি গোপন করার বিকল্পটি স্থির করে (যদি এটি কাজ না করে তবে পুনরায় পরিচিতি বা গোষ্ঠীগুলি মুছুন এবং যুক্ত করুন)।
+- কথোপকথনের স্ক্রিনে কিছু বাগ সমাধান করা হয়েছে।
+- WhatsApp 2.19.289 এর চেয়ে বেশি সংস্করণে ট্যাবগুলি আড়াল করার জন্য স্থির বিকল্প Fix
+- কথোপকথন বিভাগে শো / গোপন কলগুলি পুনর্গঠিত, এটি নতুন বিকল্পগুলির সাথে বিভ্রান্তি তৈরি করেছে।
     </bn>
     <de>
-- Option hinzugefügt, um die Schriftart der Benutzeroberfläche anzupassen.
-- Option zum deaktivieren aller Tabs (außer Unterhaltungen) hinzugefügt.
-- Jetzt wird keine Warnung angezeigt, wenn eine Nachricht gelöscht wurde.
-- Option wurde behoben, um das Löschen von Nachrichten zu vermeiden (ich habe auf einigen Geräten nicht richtig funktioniert).
-- Privacy-Option behoben, Audio-Aufnahme ausblenden und schreiben.
-- Reiter Schaltfläche repariert, es zeigt nun die korrekte Schaltfläche abhängig von der Sektion.
-- Andere Fehler behoben.
+- Option hinzugefügt, um den Text der Menü-Registerkarten einzufärben.
+- Das Menü zum Anpassen der Hauptoberflächensymbole wurde erneut hinzugefügt (es war deaktiviert).
+- Blasenanpassung behoben.
+- Die Option, die Farbe zum Titel der Anwendung hinzuzufügen, wurde behoben.
+- Der Code wurde korrigiert und neu strukturiert, um einigen Abschnitten von WhatsApp (wie der Statusleiste) Farben zuzuweisen.
+- Der Zugriff auf den Abschnitt "Über ..." wurde korrigiert.
+- Problem mit benutzerdefiniertem Verhalten behoben.
+- Der Toast, der den Fehler in der Privatsphäre versteckt, wurde behoben.
+- Die Datenschutzoption zum Ausblenden von Kontakten wurde korrigiert.
+- Ein Fehler, der das Schreiben in Gruppen verhinderte, wurde behoben.
+- Es wurde ein Fehler behoben, durch den keine benutzerdefinierten Symbole im Hauptmenü angezeigt wurden.
+- Das Problem der Verzögerung wurde behoben.
+- Die Option zum Ausblenden von Kontakten und Gruppen wurde korrigiert (wenn dies nicht funktioniert, löschen Sie Kontakte oder Gruppen und fügen Sie sie erneut hinzu).
+- Einige Fehler auf dem Konversationsbildschirm wurden behoben.
+- Option zum Ausblenden von Tabs in höheren Versionen als WhatsApp 2.19.289 behoben
+- Das Anzeigen / Verbergen von Anrufen im Konversationsbereich wurde neu strukturiert, was zu Verwirrung mit den neuen Optionen führte.
 	</de>
     <es>
-- Añadida la opción para personalizar la fuente de la interfaz.
-- Añadida la opción para deshabilitar todas las pestañas (excepto la de los chats).
-- Ahora no se mostrará una advertencia cuando se haya eliminado un mensaje.
-- Arreglada la opción para evitar la eliminación de mensajes (no funcionaba correctamente en algunos dispositivos).
-- Arreglada la opción de privacidad, ocultar la grabación de audio y escritura.
-- Arreglado el botón de los tabs, ahora muestra correctamente el botón de acuerdo con la sección.
-- Se corrigieron otros errores.
+- Se añadió la opción para colorear el texto de las pestañas del menú.
+- Se añadieron nuevamente los menús para personalizar los íconos de la interfaz principal (ello estaba desactivado).
+- Se corrigió la personalización de burbujas.
+- Se corrigió la opción de agregar el color al título de la aplicación.
+- Se corrigió y reestructuró el código para asignar colores a algunas secciones de WhatsApp (como la barra de estado).
+- Se corrigió el acceso a la sección "Acerca de..".
+- Se corrigió el Toast del comportamiento personalizado.
+- Se corrigió el Toast que oculta el error en la privacidad.
+- Se corrigió la opción de privacidad para ocultar contactos.
+- Se corrigió un fallo que impedía escribir en grupos.
+- Se corrigió un fallo que impedía mostrar los iconos personalizados en el menú principal.
+- Se corrigió el problema del lag.
+- Se corrigió la opción ocultar contactos y grupos (si no funciona, elimine y agregue los contactos o grupos nuevamente).
+- Se corrigieron algunos bugs en la pantalla de conversación.
+- Se corrigió la opción para ocultar pestañas en versiones superiores a WhatsApp 2.19.289
+- Restructurada la sección de mostrar/ocultar llamadas en conversación, esto creaba confusión con las nuevas opciónes.
     </es>
     <fr>
-- Ajout d'une option pour personnaliser la police d'interface.
-- Ajout d'une option pour désactiver tous les onglets (sauf pour les chats).
-- Maintenant, un avertissement ne sera pas affiché lorsqu'un message a été supprimé.
-- Option fixe pour éviter la suppression des messages (je ne travaillais pas correctement sur certains appareils).
-- Option de confidentialité fixe, masquer l'enregistrement audio et l'écriture.
-- Bouton de tabulation fixe, affiche maintenant correctement le bouton en fonction de la section.
-- Correction d'autres erreurs.
+- Ajout d'une option pour colorer le texte des onglets du menu.
+- Ajout du menu pour personnaliser les icônes de l'interface principale (il était désactivé).
+- Correction de la personnalisation des bulles.
+- Correction de l'option permettant d'ajouter la couleur au titre de l'application.
+- Correction et restructuration du code pour attribuer des couleurs à certaines sections de WhatsApp (comme la barre d'état).
+- Correction de l'accès à la section "À propos ..".
+- Correction du pain grillé du comportement personnalisé.
+- Correction du pain grillé qui cache l'erreur dans la vie privée.
+- Option de confidentialité fixe pour masquer les contacts.
+- Correction d'un bug qui empêchait l'écriture en groupes.
+- Correction d'un bug qui empêchait l'affichage des icônes personnalisées dans le menu principal.
+- Correction du problème de décalage.
+- Correction de l'option permettant de masquer les contacts et les groupes (si cela ne fonctionne pas, supprimez et ajoutez à nouveau des contacts ou des groupes).
+- Correction de quelques bugs sur l'écran de conversation.
+- Option fixe pour masquer les onglets dans les versions supérieures à WhatsApp 2.19.289
+- Restructuré la section Afficher / masquer les appels en conversation, ce qui a créé une confusion avec les nouvelles options.
     </fr>
     <hi>
-- इंटरफेस फ़ॉन्ट को अनुकूलित करने के लिए जोड़ा गया विकल्प।
-- सभी टैब अक्षम करने के लिए जोड़ा गया विकल्प (चैट को छोड़कर)।
-- जब कोई संदेश हटा दिया गया है तो अब एक चेतावनी दिखाई नहीं देगी।
-- संदेशों को हटाने से बचने के लिए निश्चित विकल्प (मैं कुछ उपकरणों पर सही ढंग से काम नहीं कर रहा था)।
-- फिक्स्ड गोपनीयता विकल्प, रिकॉर्डिंग ऑडियो और लेखन छुपाएं।
-- फिक्स्ड टैब बटन, अब अनुभाग के अनुसार बटन को सही ढंग से दिखाता है।
-- अन्य त्रुटियों को फिक्स्ड।
+- मेनू टैब के पाठ को रंग करने के लिए जोड़ा गया विकल्प।
+- मुख्य इंटरफ़ेस आइकन (यह अक्षम किया गया था) को अनुकूलित करने के लिए फिर से मेनू जोड़ा गया।
+- निश्चित बुलबुला अनुकूलन।
+- एप्लिकेशन शीर्षक में रंग जोड़ने का विकल्प तय किया।
+- व्हाट्सएप के कुछ अनुभागों (जैसे स्टेटस बार) को रंग असाइन करने के लिए कोड को सही और पुनर्गठित किया।
+- "के बारे में .." अनुभाग के लिए निश्चित पहुँच।
+- कस्टम व्यवहार का निश्चित टोस्ट।
+- गोपनीयता में त्रुटि छुपाता है कि टोस्ट फिक्स्ड।
+- संपर्क छिपाने के लिए निश्चित गोपनीयता विकल्प।
+- एक बग फिक्स्ड जो समूहों में लेखन को रोकता है।
+- मुख्य मेनू में कस्टम आइकन प्रदर्शित करने से रोकने वाली बग को ठीक किया गया।
+- लग की समस्या को ठीक किया।
+- संपर्क और समूहों को छिपाने का विकल्प तय करें (यदि यह काम नहीं करता है, तो संपर्कों या समूहों को फिर से हटाएं और जोड़ें)।
+- बातचीत स्क्रीन पर कुछ कीड़े फिक्स्ड।
+- व्हाट्सएप 2.19.289 की तुलना में अधिक संस्करणों में टैब छिपाने का निश्चित विकल्प
+- वार्तालाप अनुभाग में शो / छिपी कॉल को फिर से संगठित किया, इससे नए विकल्पों के साथ भ्रम पैदा हुआ।
     </hi>
 	<in>
-- Ditambahkan opsi untuk menyesuaikan font antarmuka.
-- Menambahkan opsi untuk menonaktifkan semua tabulasi (kecuali obrolan).
-- Sekarang peringatan tidak akan ditampilkan ketika pesan telah dihapus.
-- Pilihan tetap untuk menghindari penghapusan pesan (saya tidak bekerja dengan benar pada beberapa perangkat).
-- Memperbaiki opsi privasi, menyembunyikan rekaman audio dan menulis.
-- Perbaikan tombol tabulasi, kini menampilkan tombol dengan tepat sesuai bagian.
-- Perbaikan kerusakan.
+- Opsi yang ditambahkan untuk mewarnai teks dari tab menu.
+- Menambahkan lagi menu untuk menyesuaikan ikon antarmuka utama (itu dinonaktifkan).
+- Kustomisasi gelembung diperbaiki.
+- Memperbaiki opsi untuk menambahkan warna ke judul aplikasi.
+- Mengoreksi dan merestrukturisasi kode untuk menetapkan warna ke beberapa bagian WhatsApp (seperti bilah status).
+- Memperbaiki akses ke bagian "Tentang ..".
+- Memperbaiki Toast dari perilaku khusus.
+- Memperbaiki Toast yang menyembunyikan kesalahan dalam privasi.
+- Opsi privasi tetap untuk menyembunyikan kontak.
+- Memperbaiki bug yang mencegah penulisan dalam grup.
+- Memperbaiki bug yang mencegah menampilkan ikon khusus di menu utama.
+- Memperbaiki masalah lag.
+- Memperbaiki opsi untuk menyembunyikan kontak dan grup (jika tidak berfungsi, hapus dan tambahkan kontak atau grup lagi).
+- Memperbaiki beberapa bug di layar percakapan.
+- Opsi tetap untuk menyembunyikan tab dalam versi yang lebih tinggi dari WhatsApp 2.19.289
+- Restrukturisasi acara / sembunyikan panggilan di bagian percakapan, ini menciptakan kebingungan dengan opsi baru.
 	</in>
     <it>
-- Aggiunta opzione per personalizzare l'interfaccia del font
-- Aggiunta opzione per disabilitare tutti i tab (ad eccezione di quello delle chat).
-- Ora non verrà più mostrato un avvertimento quando un messaggio è stato cancellato.
-- Risolta opzione per evitare l'eliminazione dei messaggi (non funzionavano correttamente su alcuni dispositivi).
-- Risolto il problema della privacy per nascondere la registrazione audio e la scrittura.
-- Sistemati pulsanti tab, ora mostrano correttamente il pulsante relativo alla selezione.
-- Sistemati altri errori.
+- Aggiunta l'opzione per colorare il testo delle schede dei menu.
+- Aggiunto di nuovo il menu per personalizzare le icone dell'interfaccia principale (era disabilitato).
+- Risolto il problema della personalizzazione delle bolle.
+- Corretta l'opzione per aggiungere il colore al titolo dell'applicazione.
+- Corretto e ristrutturato il codice per assegnare i colori ad alcune sezioni di WhatsApp (come la barra di stato).
+- Risolto l'accesso alla sezione "Informazioni su".
+- Risolto Toast di comportamento personalizzato.
+- Risolto il Toast che nasconde l'errore nella privacy.
+- Corretta l'opzione di privacy per nascondere i contatti.
+- Risolto un bug che impediva la scrittura in gruppi.
+- Risolto un bug che impediva la visualizzazione di icone personalizzate nel menu principale.
+- Risolto il problema del ritardo.
+- Corretta l'opzione per nascondere contatti e gruppi (se non funziona, eliminare e aggiungere nuovamente contatti o gruppi).
+- Risolti alcuni bug nella schermata di conversazione.
+- Corretta l'opzione per nascondere le schede nelle versioni successive a WhatsApp 2.19.289
+- Ristrutturato lo show / nascondi chiamate nella sezione conversazione, questo ha creato confusione con le nuove opzioni.
     </it>
     <nl>
-- Optie toegevoegd om het interfacetype aan te passen.
-- Optie toegevoegd om alle tabbladen uit te schakelen (behalve chats).
-- Nu wordt er geen waarschuwing weergegeven als een bericht is verwijderd.
-- Vaste optie om te voorkomen dat berichten worden verwijderd (op sommige apparaten werkte ik niet correct).
-- Vaste privacy-optie, verberg opname-audio en schrijven.
-- Vaste tab-knop, geeft nu correct de knop weer volgens de sectie.
-- Andere fouten verholpen.
-    </nl>	
+- Optie toegevoegd om de tekst van de menutabs in te kleuren.
+- Het menu opnieuw toegevoegd om de pictogrammen van de hoofdinterface aan te passen (het was uitgeschakeld).
+- Fixed bubble customization.
+- Vaste de optie om de kleur toe te voegen aan de toepassingstitel.
+- De code gecorrigeerd en geherstructureerd om kleuren toe te wijzen aan sommige delen van WhatsApp (zoals de statusbalk).
+- Vaste toegang tot het gedeelte 'Over ...'.
+- Vaste Toast van aangepast gedrag.
+- De Toast opgelost die de fout in privacy verbergt.
+- Vaste privacy-optie om contacten te verbergen.
+- Een bug gerepareerd die schrijven in groepen verhinderde.
+- Een bug gerepareerd die het weergeven van aangepaste pictogrammen in het hoofdmenu verhinderde.
+- Probleem met vertraging opgelost.
+- Vaste de optie om contacten en groepen te verbergen (als het niet werkt, contacten en groepen opnieuw verwijderen en toevoegen).
+- Enkele bugs opgelost op het gespreksscherm.
+- Vaste optie om tabbladen te verbergen in versies hoger dan WhatsApp 2.19.289
+- Herstructurering van de show / hide-oproepen in de gesprekssectie, dit creëerde verwarring met de nieuwe opties.
+    </nl>
+	<pl>
+- Dodano opcję pokolorowania tekstu kart menu.
+- Dodano ponownie menu, aby dostosować ikony głównego interfejsu (zostało wyłączone).
+- Naprawiono dostosowywanie baniek.
+- Naprawiono opcję dodawania koloru do tytułu aplikacji.
+- Poprawiono i zrestrukturyzowano kod, aby przypisać kolory do niektórych sekcji WhatsApp (takich jak pasek stanu).
+- Naprawiono dostęp do sekcji „About ..”.
+- Naprawiono Toast niestandardowego zachowania.
+- Naprawiono Toast, który ukrywa błąd w prywatności.
+- Naprawiono opcję prywatności, aby ukryć kontakty.
+- Naprawiono błąd, który uniemożliwiał pisanie w grupach.
+- Naprawiono błąd, który uniemożliwiał wyświetlanie niestandardowych ikon w menu głównym.
+- Naprawiono problem opóźnienia.
+- Naprawiono opcję ukrywania kontaktów i grup (jeśli to nie działa, usuń i dodaj kontakty lub grupy ponownie).
+- Naprawiono kilka błędów na ekranie rozmowy.
+- Naprawiono opcję ukrywania zakładek w wersjach wyższych niż WhatsApp 2.19.289
+- Restrukturyzowano pokazywanie / ukrywanie połączeń w sekcji konwersacji, co spowodowało zamieszanie w nowych opcjach.
+    </pl>
     <pt>
-- Adicionado opção para personalizar a fonte da interface.
-- Adicionada a opção de esconder todas as guias, exceto pela de conversas.
-- Agora, um aviso não será exibido quando uma mensagem for excluída.
-- Opção fixa para evitar a exclusão de mensagens (não estava funcionando corretamente em alguns dispositivos).
-- Opção de privacidade fixa, ocultar gravação de áudio e escrita.
-- Arrumada a seção de guias, onde agora será mostrada corretamente de acordo com a seção.
-- Correção de outros bugs.
+- Adicionado opção para colorir o texto das guias do menu.
+- Adicionado novamente o menu para personalizar os principais ícones da interface (ele foi desativado).
+- Customização de bolha fixa.
+- Corrigida a opção de adicionar a cor ao título do aplicativo.
+- Corrigido e reestruturado o código para atribuir cores a algumas seções do WhatsApp (como a barra de status).
+- Acesso fixo à seção "Sobre ..".
+- Corrigido brinde de comportamento personalizado.
+- Corrigido o Toast que oculta o erro na privacidade.
+- Corrigida opção de privacidade para ocultar contatos.
+- Corrigido um bug que impedia a gravação em grupos.
+- Corrigido um erro que impedia a exibição de ícones personalizados no menu principal.
+- Corrigido o problema de atraso.
+- Corrigida a opção de ocultar contatos e grupos (se não funcionar, exclua e adicione contatos ou grupos novamente).
+- Corrigidos alguns erros na tela de conversação.
+- Corrigida opção para ocultar guias em versões superiores ao WhatsApp 2.19.289
+- Reestruturou a seção mostrar / ocultar chamadas na seção de conversa, criando confusão com as novas opções.
     </pt>
 	<ro>
-- Opțiune adăugată pentru personalizarea fontului interfeței.
-- Adăugată opţiunea de a dezactiva toate tab-rile (cu excepţia celor de chat-uri).
-- Acum nu va fi afișat un avertisment atunci când un mesaj a fost șters.
-- Opțiune fixă pentru a evita ștergerea mesajelor (nu funcționează corect pe unele dispozitive).
-- opțiunea de confidențialitate fixă, ascundeți înregistrarea audio și scrierea.
-- Butonul tab reparat, acum butonul se afişează corect conform secţiunii.
-- S-au rezolvat alte erori .
+- Opțiune adăugată pentru a colora textul filelor din meniu.
+- A fost adăugat din nou meniul pentru a personaliza pictogramele principale ale interfeței (a fost dezactivat).
+- Personalizare fixă cu bule.
+- S-a rezolvat opțiunea de a adăuga culoarea la titlul aplicației.
+- Corectat și restructurat codul pentru a atribui culori unor secțiuni de WhatsApp (cum ar fi bara de stare).
+- Acces fix la secțiunea „Despre ..”.
+- Toast fix al comportamentului personalizat.
+- A remediat Toastul care ascunde eroarea în confidențialitate.
+- Opțiune de confidențialitate fixă pentru a ascunde contactele.
+- S-a rezolvat o eroare care a împiedicat scrierea în grupuri.
+- S-a remediat o eroare care împiedică afișarea pictogramelor personalizate în meniul principal.
+- S-a rezolvat problema întârzierii.
+- S-a remediat opțiunea de a ascunde contactele și grupurile (dacă nu funcționează, ștergeți și adăugați din nou contacte sau grupuri).
+- S-au rezolvat unele bug-uri pe ecranul de conversație.
+- Opțiune fixă pentru a ascunde file în versiuni mai mari decât WhatsApp 2.19.289
+- Restructurarea apelurilor / ascunderii apelurilor în secțiunea de conversație, acest lucru a creat confuzie cu noile opțiuni.
 	</ro>
     <ru>
-- Добавлена возможность настройки шрифта интерфейса.
-- Добавлена опция отключения всех вкладок (кроме чатов).
-- Теперь предупреждение не будет отображаться, когда сообщение было удалено.
-- Исправлена возможность избежать удаления сообщений (я не работал правильно на некоторых устройствах).
-- Исправлена опция конфиденциальности, скрыть запись звука и запись.
-- Исправлена кнопка вкладок, теперь правильно отображается кнопка в соответствии с разделом.
-- Исправлены другие ошибки.
+- Добавлена опция для раскраски текста вкладок меню.
+- Добавлено еще раз меню для настройки основных значков интерфейса (оно было отключено).
+- Исправлена настройка пузырей.
+- Исправлена опция добавления цвета в заголовок приложения.
+- Исправлен и реструктурирован код, чтобы назначать цвета некоторым разделам WhatsApp (например, строке состояния).
+- Исправлен доступ к разделу «О ..».
+- Исправлен тост нестандартного поведения.
+- Исправлен тост, который скрывает ошибку в приватности.
+- Исправлена опция конфиденциальности, чтобы скрыть контакты.
+- Исправлена ошибка, которая мешала записи в группах.
+- Исправлена ошибка, которая мешала отображению пользовательских значков в главном меню.
+- Исправлена проблема отставания.
+- Исправлена возможность скрывать контакты и группы (если это не работает, удалите и добавьте контакты или группы снова).
+- Исправлены некоторые ошибки на экране разговора.
+- Исправлена опция, позволяющая скрывать вкладки в версиях выше, чем WhatsApp 2.19.289.
+- Изменена структура отображения / скрытия звонков в разделе разговоров, что создало путаницу с новыми параметрами.
     </ru>
     <tr>
-- Arabirim yazı tipini özelleştirmek için seçenek eklendi.
-- Bütün sekmeleri devre dışı bırakma seçeneği eklendi (konuşmalar hariç)
-- Şimdi bir mesaj silindiğinde bir uyarı gösterilmeyecektir.
-- Mesajları silmemek için sabit seçenek (Bazı cihazlarda doğru çalışmıyordum).
-- Sabit gizlilik seçeneği, kayıt sesini ve yazmayı gizler.
-- Sekme butonu düzeltildi, artık bölüme göre doğru butonu gösteriyor.
-- Diğer hatalar düzeltildi.
+- Menü sekmelerinin metnini renklendirme seçeneği eklendi.
+- Ana arayüz simgelerini özelleştirmek için tekrar menü eklendi (devre dışı bırakıldı).
+- Sabit kabarcık özelleştirme.
+- Uygulama başlığına renk ekleme seçeneği düzeltildi.
+- WhatsApp'ın bazı bölümlerine (durum çubuğu gibi) renk atamak için kod düzeltildi ve yeniden yapılandırıldı.
+- "Hakkında .." bölümüne erişim düzeltildi.
+- Özel davranış Tost Sabit.
+- Gizliliği hatayı gizleyen Tost düzeltildi.
+- Kişileri gizlemek için Sabit gizlilik seçeneği.
+- Grup halinde yazmayı engelleyen bir hata düzeltildi.
+- Ana menüde özel simgeler görüntülenmesini engelleyen bir hata düzeltildi.
+- Gecikme sorunu düzeltildi.
+- Kişileri ve grupları gizleme seçeneği düzeltildi (çalışmazsa, kişileri veya grupları yeniden silme ve silme).
+- Konuşma ekranında bazı hatalar düzeltildi.
+- WhatsApp 2.19.289’dan daha yüksek sürümlerde sekmeleri gizleme seçeneği düzeltildi.
+- Konuşma bölümünde show / hide çağrılarını yeniden yapılandırdı, bu yeni seçeneklerle karışıklık yarattı.
     </tr>
   </update>
 </AppUpdater>
