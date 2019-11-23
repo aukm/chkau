@@ -623,6 +623,32 @@
 			[setclr1=X.05Q,0,A00,contextClass,integerTYPE] 								// Remplazar colores de la aplicación en general
 }
 {
+	2.19.341,[itxt=X.2Gl,0,onMeasure,intClass,intClass]								// Entrada de texto en conversacion
+			[hsto=X.0v1,0,A03,booleanTYPE]											// Ocultar estado de en linea 
+			[atrvk=X.1CJ,0,A04,X.25O,booleanTYPE]									// Evitar borrar mensajes
+			[hwrc=X.1Pr,0,A00,messageClass]											// Ocultar escribiedo o grabando
+			[ghrcm=X.24N,0,A00,X.1RF]												// Ocultar recibo de mensajes
+			[gtbol=X.252,0,getBoolean,stringClass,booleanTYPE]						// Cambios en Boolean: Administración de grupos
+			[gtint=X.252,0,getInt,stringClass,integerTYPE]							// Cambios en Integer: Calidad de imagenes, duración video de estado, administración de grupos, numero de participantes en grupos
+			[ghrms1=com.whatsapp.jobqueue.job.SendReadReceiptJob,1,A04]				// Ocultar lectura de mensajes 1
+			[ghrms2=com.whatsapp.jobqueue.job.SendPlayedReceiptJob,1,A04]			// Ocultar lectura de mensajes 2
+			[ghrms3=com.whatsapp.jobqueue.job.SendE2EMessageJob,1,A02]				// Ocultar lectura de mensajes 3
+			[prtabh1=X.A0G,0,A0G,intClass] 											// Ocultar TABS - Gestionar fragmentos
+			[prtabh2=X.A0G,0,A04,intClass]											// Ocultar TABS - Reasignar etiquetas
+			[prtabh3=com.whatsapp.HomeActivity,0,A0X,integerTYPE] 						// Ocultar TABS - Asignar botones correctos
+			[prtabh4=com.whatsapp.HomeActivity,0,A00,X.19L,integerTYPE]				// Ocultar TABS - Ocultar metodos
+			[prtabh5=X.A0G,1,A01] 													// Ocultar TABS - Asignar numero de pestañas visibles
+			[datectm=X.1ve,0,A0b,booleanTYPE] 										// Fecha central en conversaciones
+			[datectv=A0C]
+			[cnvbtn=com.whatsapp.Conversation,0,onCreateOptionsMenu,androidMenu]	// Ocultar iconos de videollamada o llamada, y cambiar a llamada normal
+			[cnvcbt=com.whatsapp.Conversation,0,onOptionsItemSelected,androidMenuItem] // Añadir botón de llamada normal para hacerlo funcional
+			[hlsact=com.whatsapp.SettingsPrivacy,0,AFS,integerTYPE,integerTYPE] 	// Ver última conexión de los demás pero ocultar la propia
+			[hlsps1=A0f]
+			[hlsps2=A0e]
+			[htinft=X.03v,0,A0e,drawableClass,intClass] 							// Quitar tintado de los iconos 1
+			[setclr1=X.05P,0,A00,contextClass,integerTYPE] 								// Remplazar colores de la aplicación en general
+}
+{
 	2.19.343,[itxt=X.2Hx,0,onMeasure,intClass,intClass]								// Entrada de texto en conversacion
 			[hsto=X.0v0,0,A03,booleanTYPE]											// Ocultar estado de en linea 
 			[atrvk=X.1CZ,0,A04,X.26U,booleanTYPE]									// Evitar borrar mensajes
@@ -643,6 +669,58 @@
 			[cnvbtn=com.whatsapp.Conversation,0,onCreateOptionsMenu,androidMenu]	// Ocultar iconos de videollamada o llamada, y cambiar a llamada normal
 			[cnvcbt=com.whatsapp.Conversation,0,onOptionsItemSelected,androidMenuItem] // Añadir botón de llamada normal para hacerlo funcional
 			[hlsact=com.whatsapp.SettingsPrivacy,0,AGb,integerTYPE,integerTYPE] 	// Ver última conexión de los demás pero ocultar la propia
+			[hlsps1=A0g]
+			[hlsps2=A0f]
+			[htinft=X.03v,0,A0f,drawableClass,intClass] 							// Quitar tintado de los iconos 1
+			[setclr1=X.05Q,0,A00,contextClass,integerTYPE] 							// Remplazar colores de la aplicación en general
+}
+{
+	2.19.345,[itxt=X.2Hy,0,onMeasure,intClass,intClass]								// Entrada de texto en conversacion
+			[hsto=X.0v0,0,A03,booleanTYPE]											// Ocultar estado de en linea 
+			[atrvk=X.1Ca,0,A04,X.26V,booleanTYPE]									// Evitar borrar mensajes
+			[hwrc=X.1QC,0,A00,messageClass]											// Ocultar escribiedo o grabando
+			[ghrcm=X.25S,0,A00,X.1Rf]												// Ocultar recibo de mensajes
+			[gtbol=X.268,0,getBoolean,stringClass,booleanTYPE]						// Cambios en Boolean: Administración de grupos
+			[gtint=X.268,0,getInt,stringClass,integerTYPE]							// Cambios en Integer: Calidad de imagenes, duración video de estado, administración de grupos, numero de participantes en grupos
+			[ghrms1=com.whatsapp.jobqueue.job.SendReadReceiptJob,1,A03]				// Ocultar lectura de mensajes 1
+			[ghrms2=com.whatsapp.jobqueue.job.SendPlayedReceiptJob,1,A03]			// Ocultar lectura de mensajes 2
+			[ghrms3=com.whatsapp.jobqueue.job.SendE2EMessageJob,1,A01]				// Ocultar lectura de mensajes 3
+			[prtabh1=X.2DY,0,A0G,intClass] 											// Ocultar TABS - Gestionar fragmentos
+			[prtabh2=X.2DY,0,A04,intClass]											// Ocultar TABS - Reasignar etiquetas
+			[prtabh3=com.whatsapp.HomeActivity,0,A0Y,integerTYPE] 						// Ocultar TABS - Asignar botones correctos
+			[prtabh4=com.whatsapp.HomeActivity,0,A00,X.19a,integerTYPE]				// Ocultar TABS - Ocultar metodos
+			[prtabh5=X.2DY,1,A01] 													// Ocultar TABS - Asignar numero de pestañas visibles
+			[datectm=X.1wa,0,A0c,booleanTYPE] 										// Fecha central en conversaciones
+			[datectv=A0C]
+			[cnvbtn=com.whatsapp.Conversation,0,onCreateOptionsMenu,androidMenu]	// Ocultar iconos de videollamada o llamada, y cambiar a llamada normal
+			[cnvcbt=com.whatsapp.Conversation,0,onOptionsItemSelected,androidMenuItem] // Añadir botón de llamada normal para hacerlo funcional
+			[hlsact=com.whatsapp.SettingsPrivacy,0,AGc,integerTYPE,integerTYPE] 	// Ver última conexión de los demás pero ocultar la propia
+			[hlsps1=A0g]
+			[hlsps2=A0f]
+			[htinft=X.03v,0,A0f,drawableClass,intClass] 							// Quitar tintado de los iconos 1
+			[setclr1=X.05Q,0,A00,contextClass,integerTYPE] 							// Remplazar colores de la aplicación en general
+}
+{
+	2.19.346,[itxt=X.2IA,0,onMeasure,intClass,intClass]								// Entrada de texto en conversacion
+			[hsto=X.0v0,0,A03,booleanTYPE]											// Ocultar estado de en linea 
+			[atrvk=X.1Ce,0,A04,X.26f,booleanTYPE]									// Evitar borrar mensajes
+			[hwrc=X.1QM,0,A00,messageClass]											// Ocultar escribiedo o grabando
+			[ghrcm=X.25c,0,A00,X.1Rp]												// Ocultar recibo de mensajes
+			[gtbol=X.26I,0,getBoolean,stringClass,booleanTYPE]						// Cambios en Boolean: Administración de grupos
+			[gtint=X.26I,0,getInt,stringClass,integerTYPE]							// Cambios en Integer: Calidad de imagenes, duración video de estado, administración de grupos, numero de participantes en grupos
+			[ghrms1=com.whatsapp.jobqueue.job.SendReadReceiptJob,1,A03]				// Ocultar lectura de mensajes 1
+			[ghrms2=com.whatsapp.jobqueue.job.SendPlayedReceiptJob,1,A03]			// Ocultar lectura de mensajes 2
+			[ghrms3=com.whatsapp.jobqueue.job.SendE2EMessageJob,1,A01]				// Ocultar lectura de mensajes 3
+			[prtabh1=X.2Di,0,A0G,intClass] 											// Ocultar TABS - Gestionar fragmentos
+			[prtabh2=X.2Di,0,A04,intClass]											// Ocultar TABS - Reasignar etiquetas
+			[prtabh3=com.whatsapp.HomeActivity,0,A0Y,integerTYPE] 						// Ocultar TABS - Asignar botones correctos
+			[prtabh4=com.whatsapp.HomeActivity,0,A00,X.19e,integerTYPE]				// Ocultar TABS - Ocultar metodos
+			[prtabh5=X.2Di,1,A01] 													// Ocultar TABS - Asignar numero de pestañas visibles
+			[datectm=X.1wk,0,A0c,booleanTYPE] 										// Fecha central en conversaciones
+			[datectv=A0C]
+			[cnvbtn=com.whatsapp.Conversation,0,onCreateOptionsMenu,androidMenu]	// Ocultar iconos de videollamada o llamada, y cambiar a llamada normal
+			[cnvcbt=com.whatsapp.Conversation,0,onOptionsItemSelected,androidMenuItem] // Añadir botón de llamada normal para hacerlo funcional
+			[hlsact=com.whatsapp.SettingsPrivacy,0,AGf,integerTYPE,integerTYPE] 	// Ver última conexión de los demás pero ocultar la propia
 			[hlsps1=A0g]
 			[hlsps2=A0f]
 			[htinft=X.03v,0,A0f,drawableClass,intClass] 							// Quitar tintado de los iconos 1
