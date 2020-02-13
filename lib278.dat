@@ -1202,7 +1202,7 @@
 			[ghrcm=X.0Ze,0,A01,X.04H]												// Ocultar recibo de mensajes
 			[gtbol=X.00p,0,getBoolean,stringClass,booleanTYPE]						// Cambios en Boolean: Administración de grupos
 			[gtint=X.00p,0,getInt,stringClass,integerTYPE]							// Cambios en Integer: Calidad de imagenes, duración video de estado, administración de grupos, numero de participantes en grupos
-			[ghrms1=com.whatsapp.jobqueue.job.SendReadReceiptJob,0,SendReadReceiptJob,X.00I,x.00I,com.whatsapp.jid.DeviceJid,string[]Class,longClass]				// Ocultar lectura de mensajes 1
+			[ghrms1=com.whatsapp.jobqueue.job.SendReadReceiptJob,1,A03]				// Ocultar lectura de mensajes 1
 			[ghrms2=com.whatsapp.jobqueue.job.SendPlayedReceiptJob,1,A03]			// Ocultar lectura de mensajes 2
 			[ghrms3=com.whatsapp.jobqueue.job.SendE2EMessageJob,1,A01]				// Ocultar lectura de mensajes 3
 			[prtabh1=X.0bP,0,A0G,intClass] 											// Ocultar TABS - Gestionar fragmentos
