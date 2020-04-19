@@ -1222,5 +1222,5 @@
             [hlsps2=A0b]
             [htinft=X.00I,0,A0n,drawableClass,intClass]                                      // Quitar tintado de los iconos
             [setclr1=X.08i,0,A00,contextClass,intClass]                                      // Remplazar colores de la aplicación en general
-            [clchhlc=X.0oW,0,getView,intClass,X.iew,X.oup]                                   // Resalte de colores en lista de chats
+            [clchhlc=X.0oW,0,getView,intClass,viewClass,viewGroupClass]                      // Resalte de colores en lista de chats
 }
