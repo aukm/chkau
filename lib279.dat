@@ -1402,7 +1402,7 @@
             [hlsact=com.whatsapp.SettingsPrivacy,0,AIv,intClass,intClass]                    // Ver última conexión de los demás pero ocultar la propia
             [hlsps1=A0c]
             [hlsps2=A0b]
-            [htinft=X.00I,0,A19,drawableClass,intClass]                                      // Quitar tintado de los iconos
+            [htinft=X.02V,0,A0H,contextClass,intClass,intClass]                              // Tintar los iconos
             [setclr1=X.08W,0,A00,contextClass,intClass]                                      // Remplazar colores de la aplicación en general
             [clchhlc=X.0o2,0,getView,intClass,viewClass,viewGroupClass]                      // Resalte de colores en lista de chats
 }
