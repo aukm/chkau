@@ -1386,8 +1386,8 @@
             [atrvk=X.0Cz,0,A04,X.0NH,booleanTYPE]                                            // Evitar borrar mensajes
             [hwrc=X.0bQ,0,A03,X.01V,intClass]                                                // Ocultar escribiedo o grabando
             [ghrcm=X.0bQ,0,A04,X.04z]                                                        // Ocultar recibo de mensajes
-            [gtbol=X.01K,0,getBoolean,stringClass,booleanTYPE]                               // Cambios en Boolean: Administración de grupos
-            [gtint=X.01K,0,getInt,stringClass,integerTYPE]
+            [gtbol=android.app.SharedPreferencesImpl,0,getBoolean,stringClass,booleanTYPE]   // Cambios en Boolean: Administración de grupos
+            [gtint=android.app.SharedPreferencesImpl,0,getInt,stringClass,integerTYPE]
             [ghrms1=X.0B7,0,A08,messageClass]                                                // Ocultar lectura de mensajes
 
             [prtabh1=com.whatsapp.HomeActivity,0,A0X,intClass]                               // Ocultar TABS - Gestionar fragmentos
