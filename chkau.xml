@@ -1,140 +1,125 @@
 <AppUpdater>
   <update>
-    <latestVersion>2.7.9</latestVersion>
-    <url>https://dl-xda.xposed.info/modules/kmod.xposed_v2790_b58ec4.apk</url>
+    <latestVersion>2.8.0</latestVersion>
+    <url>https://dl-xda.xposed.info/modules/kmod.xposed_v2280_200d1c.apk</url>
     <en>
-- Added again the option to copy messages without date or without the name of the contact.
-- Added an option in the Settings menu, to disabled the module without restarting the device.
-- Removed support for tinting the statusbar in versions lower Android 5.
-- Disable tabs has been disabled until the code is corrected.
-- From now on the lists to hide read confirmations from chats and states are not available, and the option to hide read will be the same for chats and states.
-- Fixed some color bugs on the conversation screen.
-- Fixed other errors.
+- Added animated stickers.
+- Restructured the interface icons section.
+- Fixed interface and conversation icon settings (For a correct display, it's seen only when Android night mode is active).
+- The custom ticks have been adapted again, but at the moment the color of the ticks received and read in conversation is not configurable.
+- Fixed a bug in which audio notes with avatar activated forced WhatsApp to close.
+- Fixed other bugs.
     </en>
     <ar>
-- تمت إضافة خيار نسخ الرسائل بدون تاريخ أو بدون اسم جهة الاتصال.
-- تمت إضافة خيار في قائمة الإعدادات لتعطيل الوحدة دون إعادة تشغيل الجهاز.
-- تمت إزالة الدعم لتلوين شريط الحالة في الإصدارات الأقل من Android 5.
-- تم تعطيل علامات التبويب تعطيل حتى يتم تصحيح الرمز.
-- من الآن فصاعدًا ، لا تتوفر القوائم لإخفاء تأكيدات القراءة من المحادثات والحالات ، وسيكون خيار إخفاء القراءة هو نفسه للمحادثات والحالات.
-- إصلاح بعض الخلل اللونية على شاشة المحادثة.
-- إصلاح الأخطاء الأخرى.
+- أضيفت ملصقات متحركة.
+- إعادة هيكلة قسم أيقونات الواجهة.
+- إعدادات ثابتة للواجهة ورمز المحادثة (للعرض الصحيح ، لا يتم رؤيتها إلا عندما يكون الوضع الليلي في Android نشطًا).
+- تم تعديل القراد المخصص مرة أخرى ، ولكن في الوقت الحالي ، لا يمكن تكوين لون القراد الذي تم تلقيه وقراءته في المحادثة.
+- تم إصلاح الخلل الذي أدى إلى تنشيط الملاحظات الصوتية مع الصورة الرمزية مما أدى إلى إغلاق WhatsApp.
+- إصلاح الخلل الأخرى.
     </ar>
     <bn>
-- আবার তারিখ ছাড়াই বা যোগাযোগের নাম ছাড়াই বার্তা অনুলিপি করার বিকল্পটি যুক্ত করা হয়েছে।
-- ডিভাইসটি পুনরায় চালু না করে মডিউলটিকে অক্ষম করতে সেটিংস মেনুতে একটি বিকল্প যুক্ত করা হয়েছে।
-- অ্যানড্রয়েড 5 এর কম সংস্করণগুলিতে স্ট্যাটাসবারকে রঙ করার জন্য সমর্থন সরিয়ে দেওয়া হয়েছে।
-- কোড সংশোধন না করা পর্যন্ত অক্ষম ট্যাব অক্ষম করা হয়েছে।
-- এখন থেকে চ্যাট এবং রাজ্যগুলি থেকে পঠন নিশ্চিতকরণগুলি গোপন করার জন্য তালিকাগুলি উপলভ্য নয় এবং পঠন পাঠানোর বিকল্পটি চ্যাট এবং রাজ্যের ক্ষেত্রে সমান হবে।
-- কথোপকথনের স্ক্রিনে কিছু রঙিন বাগ সংশোধন করা হয়েছে।
-- অন্যান্য ত্রুটিগুলি স্থির করে।
+- অ্যানিমেটেড স্টিকার যুক্ত হয়েছে।
+- ইন্টারফেস আইকন বিভাগ পুনর্গঠিত।
+- স্থির ইন্টারফেস এবং কথোপকথনের আইকন সেটিংস (একটি সঠিক প্রদর্শনের জন্য, এটি কেবল তখনই দেখা যায় যখন অ্যান্ড্রয়েড নাইট মোড সক্রিয় থাকে)।
+- কাস্টম টিকগুলি আবার মানিয়ে নেওয়া হয়েছে, তবে এই মুহুর্তে কথোপকথনে প্রাপ্ত টিকগুলির রঙ কনফিগারযোগ্য নয়।
+- একটি বাগ ঠিক করা হয়েছে যেখানে অবতার সক্রিয়করণ সহ অডিও নোটগুলি বাধ্যতামূলকভাবে হোয়াটসঅ্যাপ বন্ধ করতে বাধ্য করেছে।
+- অন্যান্য বাগ সংশোধন করা হয়েছে।
     </bn>
     <de>
-- Die Option zum Kopieren von Nachrichten ohne Datum oder ohne den Namen des Kontakts wurde erneut hinzugefügt.
-- Im Menü Einstellungen wurde eine Option hinzugefügt, um das Modul zu deaktivieren, ohne das Gerät neu zu starten.
-- Die Unterstützung für das Abtönen der Statusleiste in Versionen mit niedrigerem Android 5 wurde entfernt.
-- Registerkarten deaktivieren wurde deaktiviert, bis der Code korrigiert wurde.
-- Ab sofort sind die Listen zum Ausblenden von Lesebestätigungen vor Chats und Status nicht mehr verfügbar. Die Option zum Ausblenden von Lesebestätigungen ist für Chats und Status gleich.
-- Einige Farbfehler auf dem Konversationsbildschirm wurden behoben.
+- Animierte Aufkleber hinzugefügt.
+- Der Abschnitt mit den Schnittstellensymbolen wurde neu strukturiert.
+- Die Einstellungen für Benutzeroberfläche und Konversationssymbol wurden korrigiert (für eine korrekte Anzeige wird sie nur angezeigt, wenn der Android-Nachtmodus aktiv ist).
+- Die benutzerdefinierten Ticks wurden erneut angepasst, aber im Moment ist die Farbe der im Gespräch empfangenen und gelesenen Ticks nicht konfigurierbar.
+- Es wurde ein Fehler behoben, durch den Audio-Notizen mit aktiviertem Avatar WhatsApp zum Schließen zwangen.
 - Andere Fehler behoben.
 	</de>
     <es>
-- Se añadió nuevamente la opción de copiar mensajes sin fecha o sin el nombre del contacto.
-- Se añadió una opción en el menú Configuración, para deshabilitar el módulo sin reiniciar el dispositivo.
-- Se eliminó el soporte para tintar la barra de estado en versiones inferiores a Android 5.
-- Desactivar pestañas se ha desactivado hasta que se corrija el código.
-- De ahora en adelante, las listas para ocultar las confirmaciones de lectura de los chats y los estados no están disponibles, y la opción para ocultar la lectura será la misma para los chats y los estados.
-- Se corrigieron algunos errores de color en la pantalla de conversación.
-- Se corrigieron otros errores.
+- Añadidos stickers animados.
+- Restructurada la sección de iconos de interfaz.
+- Arreglada la configuración de iconos de interfaz y conversaciones (Para una correcta visualización, se ve solo cuando el modo nocturno de Android está activo).
+- Se adaptaron de nuevo los ticks personalizados, pero de momento el color de los ticks recibido y leido en conversación no es configurable.
+- Corregido un error en el que las notas de audio con avatar activado, forzaban cierre de WhatsApp.
+- Corregidos otros errores.
     </es>
     <fr>
-- Ajout à nouveau de l'option de copier les messages sans date ou sans le nom du contact.
-- Ajout d'une option dans le menu Paramètres, pour désactiver le module sans redémarrer l'appareil.
-- Suppression de la prise en charge de la coloration de la barre d'état dans les versions inférieures d'Android 5.
-- Désactiver les onglets a été désactivé jusqu'à ce que le code soit corrigé.
-- Désormais, les listes pour masquer les confirmations de lecture des chats et des états ne sont pas disponibles, et l'option de masquer la lecture sera la même pour les chats et les états.
-- Correction de quelques bugs de couleur sur l'écran de conversation.
-- Correction d'autres erreurs.
+- Ajout d'autocollants animés.
+- Restructuration de la section des icônes d'interface.
+- Paramètres d'interface et d'icône de conversation fixes (pour un affichage correct, il n'est visible que lorsque le mode nuit Android est actif).
+- Les ticks personnalisés ont de nouveau été adaptés, mais pour le moment la couleur des ticks reçus et lus en conversation n'est pas configurable.
+- Correction d'un bug dans lequel les notes audio avec avatar activé forçaient la fermeture de WhatsApp.
+- Correction d'autres bugs.
     </fr>
     <hi>
-- फिर से तिथि के बिना या संपर्क के नाम के बिना संदेशों को कॉपी करने का विकल्प जोड़ा गया।
-- डिवाइस को पुनरारंभ किए बिना मॉड्यूल को अक्षम करने के लिए सेटिंग्स मेनू में एक विकल्प जोड़ा गया।
-- कम Android 5 संस्करणों में स्टेटबार को टिन करने के लिए हटाए गए समर्थन।
-- कोड सही होने तक अक्षम टैब अक्षम कर दिए गए हैं।
-- अब से चैट और स्टेट्स से रीड कन्फर्मेशन छिपाने के लिए लिस्ट उपलब्ध नहीं हैं, और रीड को हाइड करने का ऑप्शन चैट और स्टेट्स के लिए समान होगा।
-- बातचीत स्क्रीन पर कुछ रंग कीड़े फिक्स्ड।
-- अन्य त्रुटियों को ठीक किया।
+जोड़ा एनिमेटेड स्टिकर।
+- इंटरफ़ेस आइकन अनुभाग को फिर से संगठित किया।
+- फिक्स्ड इंटरफेस और बातचीत आइकन सेटिंग्स (एक सही प्रदर्शन के लिए, यह केवल तभी देखा जाता है जब एंड्रॉइड नाइट मोड सक्रिय होता है)।
+- कस्टम टिक्स को फिर से अनुकूलित किया गया है, लेकिन फिलहाल टिक्स का रंग और बातचीत में पढ़ा जाने वाला रंग विन्यास योग्य नहीं है।
+- एक बग फिक्स्ड जिसमें अवतार के साथ ऑडियो नोट्स सक्रिय व्हाट्सएप को बंद करने के लिए मजबूर किया।
+- अन्य कीड़े फिक्स्ड।
     </hi>
 	<in>
-- Menambahkan lagi opsi untuk menyalin pesan tanpa tanggal atau tanpa nama kontak.
-- Menambahkan opsi dalam menu Pengaturan, untuk menonaktifkan modul tanpa memulai ulang perangkat.
-- Dukungan yang dihapus untuk mewarnai bilah status di versi Android yang lebih rendah 5.
-- Nonaktifkan tab telah dinonaktifkan hingga kode diperbaiki.
-- Mulai sekarang pada daftar untuk menyembunyikan konfirmasi baca dari obrolan dan status tidak tersedia, dan opsi untuk menyembunyikan baca akan sama untuk obrolan dan status.
-- Memperbaiki beberapa bug warna pada layar percakapan.
-- Memperbaiki kesalahan lainnya.
+- Menambahkan stiker animasi.
+- Merestrukturisasi bagian ikon antarmuka.
+- Pengaturan antarmuka dan ikon percakapan tetap (Untuk tampilan yang benar, itu hanya terlihat ketika mode malam Android aktif).
+- Kutu khusus telah disesuaikan lagi, tetapi saat ini warna kutu yang diterima dan dibaca dalam percakapan tidak dapat dikonfigurasi.
+- Memperbaiki bug di mana catatan audio dengan avatar diaktifkan memaksa WhatsApp untuk menutup.
+- Memperbaiki bug lain.
 	</in>
     <it>
-- Aggiunta di nuovo l'opzione per copiare i messaggi senza data o senza il nome del contatto.
-- Aggiunta un'opzione nel menu Impostazioni, per disabilitare il modulo senza riavviare il dispositivo.
-- Rimosso il supporto per la colorazione della barra di stato nelle versioni precedenti ad Android 5.
-- Disabilitare le schede è stato disabilitato fino alla correzione del codice.
-- D'ora in poi gli elenchi per nascondere le conferme di lettura dalle chat e dagli stati non sono disponibili e l'opzione per nascondere la lettura sarà la stessa per le chat e gli stati.
-- Risolti alcuni bug di colore nella schermata di conversazione.
-- Risolti altri errori.
+- Aggiunti adesivi animati.
+- Ristrutturata la sezione delle icone dell'interfaccia.
+- Risolto il problema con le impostazioni dell'interfaccia e dell'icona della conversazione (per una visualizzazione corretta, è visibile solo quando è attiva la modalità notte Android).
+- I tick personalizzati sono stati nuovamente adattati, ma al momento il colore dei tick ricevuti e letti in conversazione non è configurabile.
+- Risolto un bug in cui le note audio con l'avatar attivato attivavano la chiusura di WhatsApp.
+- Risolti altri bug.
     </it>
     <nl>
-- Weer de optie toegevoegd om berichten zonder datum of zonder de naam van de contactpersoon te kopiëren.
-- Een optie toegevoegd in het menu Instellingen om de module uit te schakelen zonder het apparaat opnieuw op te starten.
-- Ondersteuning voor het kleuren van de statusbalk verwijderd in versies lager Android 5.
-- Tabbladen uitschakelen is uitgeschakeld totdat de code is gecorrigeerd.
-- Vanaf nu zijn de lijsten om leesbevestigingen van chats en staten te verbergen niet beschikbaar, en de optie om gelezen te verbergen is hetzelfde voor chats en staten.
-- Enkele kleurenbugs op het gespreksscherm opgelost.
-- Vaste andere fouten.
+- Geanimeerde stickers toegevoegd.
+- De sectie met interfacepictogrammen opnieuw gestructureerd.
+- Vaste instellingen voor interface en gesprekspictogrammen (voor een juiste weergave is deze alleen zichtbaar als de Android-nachtmodus actief is).
+- De custom ticks zijn weer aangepast, maar op dit moment is de kleur van de ticks die ontvangen en gelezen worden in gesprek niet configureerbaar.
+- Een bug opgelost waarbij audionotities met geactiveerde avatar WhatsApp dwongen te sluiten.
+- Andere bugs opgelost.
     </nl>
 	<pl>
-- Dodano ponownie opcję kopiowania wiadomości bez daty lub bez nazwy kontaktu.
-- Dodano opcję w menu Ustawienia, aby wyłączyć moduł bez ponownego uruchamiania urządzenia.
-- Usunięto obsługę przyciemniania paska stanu w wersjach niższych Androida 5.
-- Wyłącz karty zostało wyłączone, dopóki kod nie zostanie poprawiony.
-- Od tej pory listy, aby ukryć potwierdzenia odczytu z czatów i stanów, nie są dostępne, a opcja ukrywania odczytu będzie taka sama dla czatów i stanów.
-- Naprawiono niektóre błędy kolorów na ekranie rozmowy.
+- Dodano animowane naklejki.
+- Przebudowano sekcję ikon interfejsu.
+- Naprawiono ustawienia interfejsu i ikony konwersacji (dla prawidłowego wyświetlania, jest widoczny tylko wtedy, gdy aktywny jest tryb nocny Androida).
+- Niestandardowe tiki zostały ponownie dostosowane, ale w tej chwili kolor tików otrzymanych i odczytanych w rozmowie nie jest konfigurowalny.
+- Naprawiono błąd, w którym notatki dźwiękowe z aktywowanym awatarem zmuszały WhatsApp do zamknięcia.
 - Naprawiono inne błędy.
     </pl>
     <pt>
-- Adicionada novamente a opção de copiar mensagens sem data ou sem o nome do contato.
-- Adicionada uma opção no menu Configurações, para desativar o módulo sem reiniciar o dispositivo.
-- Suporte removido para colorir a barra de status nas versões inferiores ao Android 5.
-- Desativar guias foi desativado até que o código seja corrigido.
-- A partir de agora, as listas para ocultar confirmações de leitura de chats e estados não estarão disponíveis, e a opção para ocultar a leitura será a mesma para chats e estados.
-- Corrigidos alguns erros de cores na tela de conversação.
+- Adicionado adesivos animados.
+- Reestruturou a seção de ícones da interface.
+- Configurações fixas da interface e do ícone da conversa (para uma exibição correta, ela é vista apenas quando o modo noturno do Android está ativo).
+- Os ticks personalizados foram adaptados novamente, mas no momento a cor dos ticks recebidos e lidos na conversa não é configurável.
+- Corrigido um erro no qual as anotações de áudio com o avatar ativado obrigavam o fechamento do WhatsApp.
 - Corrigido outros erros.
     </pt>
 	<ro>
-- A fost adăugată din nou opțiunea de a copia mesaje fără dată sau fără numele contactului.
-- A adăugat o opțiune în meniul Setări, pentru a dezactiva modulul fără a reporni dispozitivul.
-- S-a eliminat suportul pentru nuanțarea barei de stare în versiunile inferioare Android 5.
-- Filele Dezactivare au fost dezactivate până la corectarea codului.
-- De acum, listele pentru a ascunde confirmările de citire de la chaturi și state nu sunt disponibile, iar opțiunea de a ascunde citirea va fi aceeași pentru chaturi și state.
-- S-au rezolvat unele erori de culoare pe ecranul de conversație.
-- S-au remediat alte erori.
+- Adăugate autocolante animate.
+- Restructurarea secțiunii de pictograme a interfeței.
+- Setări interfață fixă și pictogramă conversație (Pentru o afișare corectă, aceasta este văzută doar atunci când modul de noapte Android este activ).
+- Căpușele personalizate au fost adaptate din nou, dar momentan culoarea căpușelor primite și citite în conversație nu este configurabilă.
+- S-a remediat o eroare în care notele audio cu avatar activat forțau WhatsApp să închidă.
+- S-au rezolvat alte bug-uri.
 	</ro>
     <ru>
-- Добавлена снова возможность копировать сообщения без даты или без имени контакта.
-- Добавлена опция в меню настроек, чтобы отключить модуль без перезагрузки устройства.
-- Убрана поддержка тонирования строки состояния в версиях ниже Android 5.
-- Отключить вкладки было отключено, пока код не будет исправлен.
-- С сегодняшнего дня списки для скрытия подтверждений чтения из чатов и состояний недоступны, а опция скрытия чтения будет одинаковой для чатов и состояний.
-- Исправлены некоторые цветные ошибки на экране разговора.
+- Добавлены анимированные наклейки.
+- Реструктурирован раздел значков интерфейса.
+- Исправлены настройки интерфейса и иконки разговора (для корректного отображения он виден только при активном ночном режиме Android).
+- Пользовательские тики были снова адаптированы, но на данный момент цвет тиков, полученных и прочитанных в разговоре, не настраивается.
+- Исправлена ошибка, из-за которой звуковые заметки с активированным аватаром заставляли закрываться WhatsApp.
 - Исправлены другие ошибки.
     </ru>
     <tr>
-- İletileri tarihsiz veya kişinin adı olmadan kopyalama seçeneği yeniden eklendi.
-- Cihazı yeniden başlatmadan modülü devre dışı bırakmak için Ayarlar menüsünde bir seçenek eklendi.
-- Android 5'in altındaki sürümlerde durum çubuğunu renklendirme desteği kaldırıldı.
-- Devre dışı bırak sekmeleri, kod düzeltilene kadar devre dışı bırakıldı.
-- Artık sohbetlerden ve durumlardan okuma onaylarını gizlemek için listelerde mevcut değildir ve okumayı gizleme seçeneği sohbetler ve durumlar için aynı olacaktır.
-- Konuşma ekranındaki bazı renk hataları düzeltildi.
+- Animasyonlu çıkartmalar eklendi.
+- Arayüz simgeleri bölümü yeniden yapılandırıldı.
+- Sabit arayüz ve konuşma simgesi ayarları (Doğru bir ekran için sadece Android gece modu etkinken görülür).
+- Özel keneler tekrar uyarlanmıştır, ancak şu anda konuşmada okunan ve okunan kenelerin rengi yapılandırılamaz.
+- Avatar etkinleştirilen sesli notların WhatsApp'ı kapatmaya zorladığı bir hata düzeltildi.
 - Diğer hatalar düzeltildi.
     </tr>
   </update>
