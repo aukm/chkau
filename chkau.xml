@@ -1,125 +1,95 @@
 <AppUpdater>
   <update>
-    <latestVersion>2.8.0</latestVersion>
-    <url>https://dl-xda.xposed.info/modules/kmod.xposed_v2800_493f1e.apk</url>
+    <latestVersion>2.8.1</latestVersion>
+    <url>https://github.com/Krowne/App/raw/master/KMod-FWA-v2.8.1.apk</url>
     <en>
-- Added animated stickers.
-- Restructured the interface icons section.
-- Fixed interface and conversation icon settings (For a correct display, it's seen only when Android night mode is active).
-- The custom ticks have been adapted again, but at the moment the color of the ticks received and read in conversation is not configurable.
-- Fixed a bug in which audio notes with avatar activated forced WhatsApp to close.
+- Added again the option to hide the tabs independently.
+- Fixed option to hide all tabs.
+- Fixed the option that disabling KMod FWA from its settings prevented getting back into the application.
 - Fixed other bugs.
     </en>
     <ar>
-- أضيفت ملصقات متحركة.
-- إعادة هيكلة قسم أيقونات الواجهة.
-- إعدادات ثابتة للواجهة ورمز المحادثة (للعرض الصحيح ، لا يتم رؤيتها إلا عندما يكون الوضع الليلي في Android نشطًا).
-- تم تعديل القراد المخصص مرة أخرى ، ولكن في الوقت الحالي ، لا يمكن تكوين لون القراد الذي تم تلقيه وقراءته في المحادثة.
-- تم إصلاح الخلل الذي أدى إلى تنشيط الملاحظات الصوتية مع الصورة الرمزية مما أدى إلى إغلاق WhatsApp.
+- تمت إضافة خيار إخفاء علامات التبويب بشكل مستقل مرة أخرى.
+- خيار ثابت لإخفاء جميع علامات التبويب.
+- تم إصلاح خيار أن تعطيل KMod FWA من إعداداته حال دون العودة إلى التطبيق.
 - إصلاح الخلل الأخرى.
     </ar>
     <bn>
-- অ্যানিমেটেড স্টিকার যুক্ত হয়েছে।
-- ইন্টারফেস আইকন বিভাগ পুনর্গঠিত।
-- স্থির ইন্টারফেস এবং কথোপকথনের আইকন সেটিংস (একটি সঠিক প্রদর্শনের জন্য, এটি কেবল তখনই দেখা যায় যখন অ্যান্ড্রয়েড নাইট মোড সক্রিয় থাকে)।
-- কাস্টম টিকগুলি আবার মানিয়ে নেওয়া হয়েছে, তবে এই মুহুর্তে কথোপকথনে প্রাপ্ত টিকগুলির রঙ কনফিগারযোগ্য নয়।
-- একটি বাগ ঠিক করা হয়েছে যেখানে অবতার সক্রিয়করণ সহ অডিও নোটগুলি বাধ্যতামূলকভাবে হোয়াটসঅ্যাপ বন্ধ করতে বাধ্য করেছে।
+- ট্যাবগুলি স্বতন্ত্রভাবে আড়াল করার বিকল্পটি আবার যুক্ত করা হয়েছে।
+- সমস্ত ট্যাব আড়াল করার জন্য স্থির বিকল্প।
+- কেএমড এফডাব্লুএর সেটিংস থেকে অক্ষম করে দেওয়া বিকল্পটি অ্যাপ্লিকেশনটিতে ফিরে আসতে বাধা দেয় ed
 - অন্যান্য বাগ সংশোধন করা হয়েছে।
     </bn>
     <de>
-- Animierte Aufkleber hinzugefügt.
-- Der Abschnitt mit den Schnittstellensymbolen wurde neu strukturiert.
-- Die Einstellungen für Benutzeroberfläche und Konversationssymbol wurden korrigiert (für eine korrekte Anzeige wird sie nur angezeigt, wenn der Android-Nachtmodus aktiv ist).
-- Die benutzerdefinierten Ticks wurden erneut angepasst, aber im Moment ist die Farbe der im Gespräch empfangenen und gelesenen Ticks nicht konfigurierbar.
-- Es wurde ein Fehler behoben, durch den Audio-Notizen mit aktiviertem Avatar WhatsApp zum Schließen zwangen.
+- Es wurde erneut die Option hinzugefügt, die Registerkarten unabhängig voneinander auszublenden.
+- Option zum Ausblenden aller Registerkarten behoben.
+- Die Option, dass das Deaktivieren von KMod FWA aus den Einstellungen verhindert wurde, wurde behoben.
 - Andere Fehler behoben.
 	</de>
     <es>
-- Añadidos stickers animados.
-- Restructurada la sección de iconos de interfaz.
-- Arreglada la configuración de iconos de interfaz y conversaciones (Para una correcta visualización, se ve solo cuando el modo nocturno de Android está activo).
-- Se adaptaron de nuevo los ticks personalizados, pero de momento el color de los ticks recibido y leido en conversación no es configurable.
-- Corregido un error en el que las notas de audio con avatar activado, forzaban cierre de WhatsApp.
-- Corregidos otros errores.
+- Añadida de nueva la opción para ocultar las pestañas de forma independiente.
+- Arreglada la opción de ocultar todas las pestañas.
+- Arreglada la opción que al desactivar KMod FWA desde sus ajustes impedía volver a meterse dentro de la aplicación.
+- Arreglados otros errores.
     </es>
     <fr>
-- Ajout d'autocollants animés.
-- Restructuration de la section des icônes d'interface.
-- Paramètres d'interface et d'icône de conversation fixes (pour un affichage correct, il n'est visible que lorsque le mode nuit Android est actif).
-- Les ticks personnalisés ont de nouveau été adaptés, mais pour le moment la couleur des ticks reçus et lus en conversation n'est pas configurable.
-- Correction d'un bug dans lequel les notes audio avec avatar activé forçaient la fermeture de WhatsApp.
+- Ajout à nouveau de l'option de masquer les onglets indépendamment.
+- Option fixe pour masquer tous les onglets.
+- Correction de l'option qui désactivait KMod FWA de ses paramètres empêchait de revenir dans l'application.
 - Correction d'autres bugs.
     </fr>
     <hi>
-जोड़ा एनिमेटेड स्टिकर।
-- इंटरफ़ेस आइकन अनुभाग को फिर से संगठित किया।
-- फिक्स्ड इंटरफेस और बातचीत आइकन सेटिंग्स (एक सही प्रदर्शन के लिए, यह केवल तभी देखा जाता है जब एंड्रॉइड नाइट मोड सक्रिय होता है)।
-- कस्टम टिक्स को फिर से अनुकूलित किया गया है, लेकिन फिलहाल टिक्स का रंग और बातचीत में पढ़ा जाने वाला रंग विन्यास योग्य नहीं है।
-- एक बग फिक्स्ड जिसमें अवतार के साथ ऑडियो नोट्स सक्रिय व्हाट्सएप को बंद करने के लिए मजबूर किया।
+- टैब को स्वतंत्र रूप से छिपाने का विकल्प फिर से जोड़ा गया।
+- सभी टैब को छिपाने के लिए निश्चित विकल्प।
+- केएमओडी एफडब्ल्यूए को अपनी सेटिंग्स से अक्षम करने वाले विकल्प को एप्लिकेशन में वापस आने से रोक दिया।
 - अन्य कीड़े फिक्स्ड।
     </hi>
 	<in>
-- Menambahkan stiker animasi.
-- Merestrukturisasi bagian ikon antarmuka.
-- Pengaturan antarmuka dan ikon percakapan tetap (Untuk tampilan yang benar, itu hanya terlihat ketika mode malam Android aktif).
-- Kutu khusus telah disesuaikan lagi, tetapi saat ini warna kutu yang diterima dan dibaca dalam percakapan tidak dapat dikonfigurasi.
-- Memperbaiki bug di mana catatan audio dengan avatar diaktifkan memaksa WhatsApp untuk menutup.
+- Menambahkan lagi opsi untuk menyembunyikan tab secara mandiri.
+- Opsi tetap untuk menyembunyikan semua tab.
+- Memperbaiki opsi yang menonaktifkan KMod FWA dari pengaturannya mencegah masuk kembali ke aplikasi.
 - Memperbaiki bug lain.
 	</in>
     <it>
-- Aggiunti adesivi animati.
-- Ristrutturata la sezione delle icone dell'interfaccia.
-- Risolto il problema con le impostazioni dell'interfaccia e dell'icona della conversazione (per una visualizzazione corretta, è visibile solo quando è attiva la modalità notte Android).
-- I tick personalizzati sono stati nuovamente adattati, ma al momento il colore dei tick ricevuti e letti in conversazione non è configurabile.
-- Risolto un bug in cui le note audio con l'avatar attivato attivavano la chiusura di WhatsApp.
+- Aggiunta di nuovo l'opzione per nascondere le schede in modo indipendente.
+- Opzione fissa per nascondere tutte le schede.
+- Risolta l'opzione che disabilitava KMod FWA dalle sue impostazioni impediva il rientro nell'applicazione.
 - Risolti altri bug.
     </it>
     <nl>
-- Geanimeerde stickers toegevoegd.
-- De sectie met interfacepictogrammen opnieuw gestructureerd.
-- Vaste instellingen voor interface en gesprekspictogrammen (voor een juiste weergave is deze alleen zichtbaar als de Android-nachtmodus actief is).
-- De custom ticks zijn weer aangepast, maar op dit moment is de kleur van de ticks die ontvangen en gelezen worden in gesprek niet configureerbaar.
-- Een bug opgelost waarbij audionotities met geactiveerde avatar WhatsApp dwongen te sluiten.
+- Weer de optie toegevoegd om de tabbladen onafhankelijk te verbergen.
+- Vaste optie om alle tabbladen te verbergen.
+- Oplossing voor de optie dat het uitschakelen van KMod FWA uit de instellingen ervan verhinderde om weer in de applicatie te komen.
 - Andere bugs opgelost.
     </nl>
 	<pl>
-- Dodano animowane naklejki.
-- Przebudowano sekcję ikon interfejsu.
-- Naprawiono ustawienia interfejsu i ikony konwersacji (dla prawidłowego wyświetlania, jest widoczny tylko wtedy, gdy aktywny jest tryb nocny Androida).
-- Niestandardowe tiki zostały ponownie dostosowane, ale w tej chwili kolor tików otrzymanych i odczytanych w rozmowie nie jest konfigurowalny.
-- Naprawiono błąd, w którym notatki dźwiękowe z aktywowanym awatarem zmuszały WhatsApp do zamknięcia.
+- Dodano ponownie opcję niezależnego ukrywania kart.
+- Naprawiono opcję ukrywania wszystkich kart.
+- Naprawiono opcję, że wyłączenie KMod FWA z jego ustawień uniemożliwiało powrót do aplikacji.
 - Naprawiono inne błędy.
     </pl>
     <pt>
-- Adicionado adesivos animados.
-- Reestruturou a seção de ícones da interface.
-- Configurações fixas da interface e do ícone da conversa (para uma exibição correta, ela é vista apenas quando o modo noturno do Android está ativo).
-- Os ticks personalizados foram adaptados novamente, mas no momento a cor dos ticks recebidos e lidos na conversa não é configurável.
-- Corrigido um erro no qual as anotações de áudio com o avatar ativado obrigavam o fechamento do WhatsApp.
+- Adicionada novamente a opção de ocultar as guias independentemente.
+- Opção fixa para ocultar todas as guias.
+- Corrigida a opção de desativar o KMod FWA de suas configurações, impedindo o retorno ao aplicativo.
 - Corrigido outros erros.
     </pt>
 	<ro>
-- Adăugate autocolante animate.
-- Restructurarea secțiunii de pictograme a interfeței.
-- Setări interfață fixă și pictogramă conversație (Pentru o afișare corectă, aceasta este văzută doar atunci când modul de noapte Android este activ).
-- Căpușele personalizate au fost adaptate din nou, dar momentan culoarea căpușelor primite și citite în conversație nu este configurabilă.
-- S-a remediat o eroare în care notele audio cu avatar activat forțau WhatsApp să închidă.
+- A fost adăugată din nou opțiunea de a ascunde filele în mod independent.
+- Opțiune fixă pentru a ascunde toate filele.
+- S-a rezolvat opțiunea de dezactivare a KMod FWA de la setările sale, a împiedicat revenirea în aplicație.
 - S-au rezolvat alte bug-uri.
 	</ro>
     <ru>
-- Добавлены анимированные наклейки.
-- Реструктурирован раздел значков интерфейса.
-- Исправлены настройки интерфейса и иконки разговора (для корректного отображения он виден только при активном ночном режиме Android).
-- Пользовательские тики были снова адаптированы, но на данный момент цвет тиков, полученных и прочитанных в разговоре, не настраивается.
-- Исправлена ошибка, из-за которой звуковые заметки с активированным аватаром заставляли закрываться WhatsApp.
+- Добавлена снова возможность скрывать вкладки самостоятельно.
+- Исправлена опция, позволяющая скрыть все вкладки.
+- Исправлена опция, при которой отключение KMod FWA из его настроек препятствовало возврату в приложение.
 - Исправлены другие ошибки.
     </ru>
     <tr>
-- Animasyonlu çıkartmalar eklendi.
-- Arayüz simgeleri bölümü yeniden yapılandırıldı.
-- Sabit arayüz ve konuşma simgesi ayarları (Doğru bir ekran için sadece Android gece modu etkinken görülür).
-- Özel keneler tekrar uyarlanmıştır, ancak şu anda konuşmada okunan ve okunan kenelerin rengi yapılandırılamaz.
-- Avatar etkinleştirilen sesli notların WhatsApp'ı kapatmaya zorladığı bir hata düzeltildi.
+- Sekmeleri bağımsız olarak gizleme seçeneği tekrar eklendi.
+- Tüm sekmeleri gizlemek için sabit seçenek.
+- KMod FWA'nın ayarlarından devre dışı bırakılmasının uygulamaya geri dönmesini engellediği seçeneği düzeltildi.
 - Diğer hatalar düzeltildi.
     </tr>
   </update>
