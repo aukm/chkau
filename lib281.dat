@@ -4383,6 +4383,6 @@
             [hlsps1=A0g]
             [htinft=X.01d,0,A0X,contextClass,intClass,intClass]                              // Remplazar y tintar iconos
             [setclr1=X.06y,0,A00,contextClass,intClass]                                      // Asignar colores desde metodo principal
-            [clchhlc=X.0eM,0,getView,intClass,viewClass,viewGroupClass]                      // Resalte de colores en lista de chats
+            [clchhlc=X.0eF,0,getView,intClass,viewClass,viewGroupClass]                      // Resalte de colores en lista de chats
             [htconcl=X.06y,0,A03,contextClass,intClass]                                      // Checks conversación
 }
