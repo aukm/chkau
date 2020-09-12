@@ -4903,6 +4903,7 @@
             [cnvcbt=com.whatsapp.Conversation,0,onOptionsItemSelected,androidMenuItem]       // Añadir botón de llamada normal para hacerlo funcional
             [hlsact=com.whatsapp.SettingsPrivacy,0,AOk,intClass,intClass]                    // Ver última conexión de los demás pero ocultar la propia
             [hlsps1=A0g]
+            [hlsps2=A0f]
             [htinft=X.01e,0,A0Y,contextClass,intClass,intClass]                              // Remplazar y tintar iconos
             [setclr1=X.06x,0,A00,contextClass,intClass]                                      // Asignar colores desde metodo principal
             [clchhlc=X.1cC,0,getView,intClass,viewClass,viewGroupClass]                      // Resalte de colores en lista de chats
