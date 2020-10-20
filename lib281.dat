@@ -818,7 +818,7 @@
             [gtbol=android.app.SharedPreferencesImpl,0,getBoolean,stringClass,booleanTYPE]   // Cambios en Boolean: Administración de grupos
             [gtint=android.app.SharedPreferencesImpl,0,getInt,stringClass,integerTYPE]
             [ghrms1=X.08c,0,A08,messageClass]                                                // Ocultar lectura de mensajes
-            [prtabh1=X.0YP,0,A01,intClass]                                                   // Ocultar TABS 1
+            [prtabh1=X.0YP,0,A0F,intClass]                                                   // Ocultar TABS 1
             [prtabh2=X.0YP,0,A0G,intClass]                                                   // Ocultar TABS 2
             [prtabh3=com.whatsapp.HomeActivity,0,A04,X.01Z,intClass]                         // Ocultar TABS 3
             [prtabh4=com.whatsapp.HomeActivity,0,A0X,intClass]                               // Ocultar TABS 4
