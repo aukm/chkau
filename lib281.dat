@@ -356,3 +356,29 @@
             [clchhlc=X.0g7,0,getView,intClass,viewClass,viewGroupClass]                      // Resalte de colores en lista de chats
             [htconcl=X.02i,0,A03,contextClass,intClass]                                      // Checks conversaci¾n
 }
+{
+    2.20.206.10,[itxt=X.2Cq,0,onMeasure,intClass,intClass]                                   // Entrada de texto en conversacion
+            [hsto=X.0Ko,0,A02,booleanTYPE]                                                   // Ocultar estado de en linea
+            [atrvk=X.0CU,0,A04,X.0bE,booleanTYPE]                                            // Evitar borrar mensajes
+            [hwrc=X.0Yk,0,A00,messageClass]                                                  // Ocultar escribiedo o grabando
+            [ghrcm=X.0Yl,0,A01,X.041]                                                        // Ocultar recibo de mensajes
+            [gtbol=android.app.SharedPreferencesImpl,0,getBoolean,stringClass,booleanTYPE]   // Cambios en Boolean: Administración de grupos
+            [gtint=android.app.SharedPreferencesImpl,0,getInt,stringClass,integerTYPE]
+            [ghrms1=X.0A3,0,A08,messageClass]                                                // Ocultar lectura de mensajes
+            [prtabh2=X.0a2,0,A0F,intClass]                                                   // Ocultar TABS 2
+            [prtabh3=com.whatsapp.HomeActivity,0,A04,X.01b,intClass]                         // Ocultar TABS 3
+            [prtabh4=com.whatsapp.HomeActivity,0,A0U,intClass]                               // Ocultar TABS 4
+            [prtabh5=com.whatsapp.HomeActivity,0,A0a,intClass]                               // Ocultar TABS 5
+            [prtabh6=X.0a1,0,C07940a1,com.whatsapp.HomeActivity,X.0N0]                       // Ocultar TABS 6
+            [datectm=X.2dT,0,A0d,booleanTYPE]                                                // Fecha central en conversaciones
+            [datectv=A0A]
+            [cnvbtn=com.whatsapp.Conversation,0,onCreateOptionsMenu,androidMenu]             // Ocultar iconos de videollamada o llamada, y cambiar a llamada normal
+            [cnvcbt=com.whatsapp.Conversation,0,onOptionsItemSelected,androidMenuItem]       // Añadir botón de llamada normal para hacerlo funcional
+            [hlsact=com.whatsapp.SettingsPrivacy,0,AOd,intClass,intClass]                    // Ver última conexión de los demás pero ocultar la propia
+            [hlsps1=A0c]
+            [hlsps2=A0b]
+            [htinft=X.01g,0,A0a,contextClass,intClass,intClass]                              // Remplazar y tintar iconos
+            [setclr1=X.02h,0,A00,contextClass,intClass]                                      // Asignar colores desde metodo principal
+            [clchhlc=X.0g5,0,getView,intClass,viewClass,viewGroupClass]                      // Resalte de colores en lista de chats
+            [htconcl=X.02h,0,A03,contextClass,intClass]                                      // Checks conversaci¾n
+}
