@@ -196,7 +196,32 @@
             [clchhlc=X.0gH,0,getView,intClass,viewClass,viewGroupClass]                      // Resalte de colores en lista de chats
             [htconcl=X.02i,0,A03,contextClass,intClass]                                      // Checks conversaci¾n
 }
-
+{
+    2.20.205.17,[itxt=X.2Ep,0,onMeasure,intClass,intClass]                                   // Entrada de texto en conversacion
+            [hsto=X.0Kr,0,A02,booleanTYPE]                                                   // Ocultar estado de en linea
+            [atrvk=X.0CV,0,A04,X.0bQ,booleanTYPE]                                            // Evitar borrar mensajes
+            [hwrc=X.0Yx,0,A00,messageClass]                                                  // Ocultar escribiedo o grabando
+            [ghrcm=X.0Yy,0,A01,X.042]                                                        // Ocultar recibo de mensajes
+            [gtbol=android.app.SharedPreferencesImpl,0,getBoolean,stringClass,booleanTYPE]   // Cambios en Boolean: Administración de grupos
+            [gtint=android.app.SharedPreferencesImpl,0,getInt,stringClass,integerTYPE]
+            [ghrms1=X.0A4,0,A08,messageClass]                                                // Ocultar lectura de mensajes
+            [prtabh2=X.0aE,0,A0F,intClass]                                                   // Ocultar TABS 2
+            [prtabh3=com.whatsapp.HomeActivity,0,A04,X.01b,intClass]                         // Ocultar TABS 3
+            [prtabh4=com.whatsapp.HomeActivity,0,A0T,intClass]                               // Ocultar TABS 4
+            [prtabh5=com.whatsapp.HomeActivity,0,A0Z,intClass]                               // Ocultar TABS 5
+            [prtabh6=X.0aD,0,C07950aD,com.whatsapp.HomeActivity,X.0N4]                       // Ocultar TABS 6
+            [datectm=X.2d1,0,A0d,booleanTYPE]                                                // Fecha central en conversaciones
+            [datectv=A0A]
+            [cnvbtn=com.whatsapp.Conversation,0,onCreateOptionsMenu,androidMenu]             // Ocultar iconos de videollamada o llamada, y cambiar a llamada normal
+            [cnvcbt=com.whatsapp.Conversation,0,onOptionsItemSelected,androidMenuItem]       // Añadir botón de llamada normal para hacerlo funcional
+            [hlsact=com.whatsapp.SettingsPrivacy,0,AOT,intClass,intClass]                    // Ver última conexión de los demás pero ocultar la propia
+            [hlsps1=A0b]
+            [hlsps2=A0a]
+            [htinft=X.01g,0,A0b,contextClass,intClass,intClass]                              // Remplazar y tintar iconos
+            [setclr1=X.02i,0,A00,contextClass,intClass]                                      // Asignar colores desde metodo principal
+            [clchhlc=X.0gH,0,getView,intClass,viewClass,viewGroupClass]                      // Resalte de colores en lista de chats
+            [htconcl=X.02i,0,A03,contextClass,intClass]                                      // Checks conversaci¾n
+}
 {2.20.206.1,[itxt=X.2DX,0,onMeasure,intClass,intClass][hsto=X.0JA,0,A02,booleanTYPE][atrvk=X.0Ao,0,A04,X.0Z4,booleanTYPE][hwrc=X.0Wg,0,A00,messageClass][ghrcm=X.0Wj,0,A01,X.0CN][gtbol=android.app.SharedPreferencesImpl,0,getBoolean,stringClass,booleanTYPE][gtint=android.app.SharedPreferencesImpl,0,getInt,stringClass,integerTYPE][ghrms1=X.08T,0,A08,messageClass][prtabh2=X.0Xu,0,A0F,intClass][prtabh3=com.whatsapp.HomeActivity,0,A04,X.01W,intClass][prtabh4=com.whatsapp.HomeActivity,0,A0T,intClass][prtabh5=com.whatsapp.HomeActivity,0,A0Z,intClass][prtabh6=X.0Xt,0,C07300Xt,com.whatsapp.HomeActivity,X.0Ox][datectm=X.2d7,0,A0d,booleanTYPE][datectv=A0A][cnvbtn=com.whatsapp.Conversation,0,onCreateOptionsMenu,androidMenu][cnvcbt=com.whatsapp.Conversation,0,onOptionsItemSelected,androidMenuItem][hlsact=com.whatsapp.SettingsPrivacy,0,AOZ,intClass,intClass][hlsps1=A0b][hlsps2=A0a][htinft=X.01a,0,A0b,contextClass,intClass,intClass][setclr1=X.06q,0,A00,contextClass,intClass][clchhlc=X.0dA,0,getView,intClass,viewClass,viewGroupClass][htconcl=X.06q,0,A03,contextClass,intClass]}
 {2.20.206.2,[itxt=X.2ET,0,onMeasure,intClass,intClass][hsto=X.0Kq,0,A02,booleanTYPE][atrvk=X.0CV,0,A04,X.0bR,booleanTYPE][hwrc=X.0Yx,0,A00,messageClass][ghrcm=X.0Yy,0,A01,X.042][gtbol=android.app.SharedPreferencesImpl,0,getBoolean,stringClass,booleanTYPE][gtint=android.app.SharedPreferencesImpl,0,getInt,stringClass,integerTYPE][ghrms1=X.0A4,0,A08,messageClass][prtabh2=X.0aF,0,A0F,intClass][prtabh3=com.whatsapp.HomeActivity,0,A04,X.01b,intClass][prtabh4=com.whatsapp.HomeActivity,0,A0U,intClass][prtabh5=com.whatsapp.HomeActivity,0,A0a,intClass][prtabh6=X.0aE,0,C07990aE,com.whatsapp.HomeActivity,X.0N2][datectm=X.2dT,0,A0d,booleanTYPE][datectv=A0A][cnvbtn=com.whatsapp.Conversation,0,onCreateOptionsMenu,androidMenu][cnvcbt=com.whatsapp.Conversation,0,onOptionsItemSelected,androidMenuItem][hlsact=com.whatsapp.SettingsPrivacy,0,AOb,intClass,intClass][hlsps1=A0c][hlsps2=A0b][htinft=X.01g,0,A0b,contextClass,intClass,intClass][setclr1=X.02i,0,A00,contextClass,intClass][clchhlc=X.0gI,0,getView,intClass,viewClass,viewGroupClass][htconcl=X.02i,0,A03,contextClass,intClass]}
 {2.20.206.3,[itxt=X.2EH,0,onMeasure,intClass,intClass][hsto=X.0Kq,0,A02,booleanTYPE][atrvk=X.0CV,0,A04,X.0bM,booleanTYPE][hwrc=X.0Ys,0,A00,messageClass][ghrcm=X.0Yt,0,A01,X.042][gtbol=android.app.SharedPreferencesImpl,0,getBoolean,stringClass,booleanTYPE][gtint=android.app.SharedPreferencesImpl,0,getInt,stringClass,integerTYPE][ghrms1=X.0A4,0,A08,messageClass][prtabh2=X.0aA,0,A0F,intClass][prtabh3=com.whatsapp.HomeActivity,0,A04,X.01b,intClass][prtabh4=com.whatsapp.HomeActivity,0,A0U,intClass][prtabh5=com.whatsapp.HomeActivity,0,A0a,intClass][prtabh6=X.0a9,0,C07930a9,com.whatsapp.HomeActivity,X.0N2][datectm=X.2dl,0,A0d,booleanTYPE][datectv=A0A][cnvbtn=com.whatsapp.Conversation,0,onCreateOptionsMenu,androidMenu][cnvcbt=com.whatsapp.Conversation,0,onOptionsItemSelected,androidMenuItem][hlsact=com.whatsapp.SettingsPrivacy,0,AOd,intClass,intClass][hlsps1=A0c][hlsps2=A0b][htinft=X.01g,0,A0b,contextClass,intClass,intClass][setclr1=X.02i,0,A00,contextClass,intClass][clchhlc=X.0gD,0,getView,intClass,viewClass,viewGroupClass][htconcl=X.02i,0,A03,contextClass,intClass]}
