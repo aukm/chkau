@@ -1,95 +1,65 @@
 <AppUpdater>
   <update>
-    <latestVersion>2.8.1</latestVersion>
-    <url>https://github.com/Krowne/App/raw/master/KMod-FWA-v2.8.1.apk</url>
+    <latestVersion>2.8.2</latestVersion>
+    <url>https://github.com/Krowne/App/raw/master/KMod-FWA-v2.8.2.apk</url>
     <en>
-- Added again the option to hide the tabs independently.
-- Fixed option to hide all tabs.
-- Fixed the option that disabling KMod FWA from its settings prevented getting back into the application.
+- Update expiration date.
 - Fixed other bugs.
     </en>
     <ar>
-- تمت إضافة خيار إخفاء علامات التبويب بشكل مستقل مرة أخرى.
-- خيار ثابت لإخفاء جميع علامات التبويب.
-- تم إصلاح خيار أن تعطيل KMod FWA من إعداداته حال دون العودة إلى التطبيق.
+- تحديث تاريخ انتهاء الصلاحية.
 - إصلاح الخلل الأخرى.
     </ar>
     <bn>
-- ট্যাবগুলি স্বতন্ত্রভাবে আড়াল করার বিকল্পটি আবার যুক্ত করা হয়েছে।
-- সমস্ত ট্যাব আড়াল করার জন্য স্থির বিকল্প।
-- কেএমড এফডাব্লুএর সেটিংস থেকে অক্ষম করে দেওয়া বিকল্পটি অ্যাপ্লিকেশনটিতে ফিরে আসতে বাধা দেয় ed
+- সমাপ্তির তারিখ আপডেট করুন।
 - অন্যান্য বাগ সংশোধন করা হয়েছে।
     </bn>
     <de>
-- Es wurde erneut die Option hinzugefügt, die Registerkarten unabhängig voneinander auszublenden.
-- Option zum Ausblenden aller Registerkarten behoben.
-- Die Option, dass das Deaktivieren von KMod FWA aus den Einstellungen verhindert wurde, wurde behoben.
+- Ablaufdatum aktualisieren.
 - Andere Fehler behoben.
 	</de>
     <es>
-- Añadida de nueva la opción para ocultar las pestañas de forma independiente.
-- Arreglada la opción de ocultar todas las pestañas.
-- Arreglada la opción que al desactivar KMod FWA desde sus ajustes impedía volver a meterse dentro de la aplicación.
+- Actualizada fecha de caducidad.
 - Arreglados otros errores.
     </es>
     <fr>
-- Ajout à nouveau de l'option de masquer les onglets indépendamment.
-- Option fixe pour masquer tous les onglets.
-- Correction de l'option qui désactivait KMod FWA de ses paramètres empêchait de revenir dans l'application.
+- Mettre à jour la date d'expiration.
 - Correction d'autres bugs.
     </fr>
     <hi>
-- टैब को स्वतंत्र रूप से छिपाने का विकल्प फिर से जोड़ा गया।
-- सभी टैब को छिपाने के लिए निश्चित विकल्प।
-- केएमओडी एफडब्ल्यूए को अपनी सेटिंग्स से अक्षम करने वाले विकल्प को एप्लिकेशन में वापस आने से रोक दिया।
+- समाप्ति तिथि अपडेट करें।
 - अन्य कीड़े फिक्स्ड।
     </hi>
 	<in>
-- Menambahkan lagi opsi untuk menyembunyikan tab secara mandiri.
-- Opsi tetap untuk menyembunyikan semua tab.
-- Memperbaiki opsi yang menonaktifkan KMod FWA dari pengaturannya mencegah masuk kembali ke aplikasi.
+- Perbarui tanggal kedaluwarsa.
 - Memperbaiki bug lain.
 	</in>
     <it>
-- Aggiunta di nuovo l'opzione per nascondere le schede in modo indipendente.
-- Opzione fissa per nascondere tutte le schede.
-- Risolta l'opzione che disabilitava KMod FWA dalle sue impostazioni impediva il rientro nell'applicazione.
+- Aggiorna la data di scadenza.
 - Risolti altri bug.
     </it>
     <nl>
-- Weer de optie toegevoegd om de tabbladen onafhankelijk te verbergen.
-- Vaste optie om alle tabbladen te verbergen.
-- Oplossing voor de optie dat het uitschakelen van KMod FWA uit de instellingen ervan verhinderde om weer in de applicatie te komen.
+- Vervaldatum updaten.
 - Andere bugs opgelost.
     </nl>
 	<pl>
-- Dodano ponownie opcję niezależnego ukrywania kart.
-- Naprawiono opcję ukrywania wszystkich kart.
-- Naprawiono opcję, że wyłączenie KMod FWA z jego ustawień uniemożliwiało powrót do aplikacji.
+- Zaktualizuj datę ważności.
 - Naprawiono inne błędy.
     </pl>
     <pt>
-- Adicionada novamente a opção de ocultar as guias independentemente.
-- Opção fixa para ocultar todas as guias.
-- Corrigida a opção de desativar o KMod FWA de suas configurações, impedindo o retorno ao aplicativo.
+- Atualize a data de validade.
 - Corrigido outros erros.
     </pt>
 	<ro>
-- A fost adăugată din nou opțiunea de a ascunde filele în mod independent.
-- Opțiune fixă pentru a ascunde toate filele.
-- S-a rezolvat opțiunea de dezactivare a KMod FWA de la setările sale, a împiedicat revenirea în aplicație.
+- Actualizați data de expirare.
 - S-au rezolvat alte bug-uri.
 	</ro>
     <ru>
-- Добавлена снова возможность скрывать вкладки самостоятельно.
-- Исправлена опция, позволяющая скрыть все вкладки.
-- Исправлена опция, при которой отключение KMod FWA из его настроек препятствовало возврату в приложение.
+- Дата истечения срока действия обновления.
 - Исправлены другие ошибки.
     </ru>
     <tr>
-- Sekmeleri bağımsız olarak gizleme seçeneği tekrar eklendi.
-- Tüm sekmeleri gizlemek için sabit seçenek.
-- KMod FWA'nın ayarlarından devre dışı bırakılmasının uygulamaya geri dönmesini engellediği seçeneği düzeltildi.
+- Son kullanma tarihini güncelleyin.
 - Diğer hatalar düzeltildi.
     </tr>
   </update>
