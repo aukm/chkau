@@ -1,80 +1,81 @@
 <AppUpdater>
   <update>
-    <latestVersion>2.8.3</latestVersion>
-    <url>https://github.com/Krowne/App/raw/master/KMod-FWA-v2.8.3.apk</url>
+    <latestVersion>2.8.4</latestVersion>
+    <url>https://dl-xda.xposed.info/modules/kmod.xposed_v2840_8b8cc7.apk</url>
     <en>
-- Required base 2.21.4.1 or higher.
-- Fixed a bug that prevented opening WhatsApp 2.21.4.1.
-- Fixed other bugs.
+- Updated Gradle and some deprecated methods.
+- Compatibility check of the latest versions of Magisk and Riru core and Yahfa modules.
+- Some bug fixes.
     </en>
     <ar>
-- مطلوب أساس 2.21.4.1 أو أعلى.
-- إصلاح الخلل الذي كان يمنع فتح WhatsApp 2.21.4.1.
-- إصلاح الخلل الأخرى.
+- تحديث Gradle وبعض الطرق المهملة.
+- التحقق من توافق أحدث إصدارات Magisk و Riru core و Yahfa.
+- بعض الاصلاحات.
     </ar>
     <bn>
-- প্রয়োজনীয় বেস 2.21.4.1 বা উচ্চতর।
-- হোয়াটসঅ্যাপ 2.21.4.1 খোলার প্রতিরোধকারী একটি বাগ স্থির করে।
-- অন্যান্য বাগ সংশোধন করা হয়েছে।
+- গ্র্যাডেল এবং কিছু অবমূল্যায়ন পদ্ধতি আপডেট করা হয়েছে।
+- Magisk এবং Riru কোর এবং ইয়াহফা মডিউলগুলির সর্বশেষতম সংস্করণগুলির সামঞ্জস্যতা চেক।
+- কিছু বাগ ফিক্স।
     </bn>
     <de>
-- Erforderliche Basis 2.21.4.1 oder höher.
-- Es wurde ein Fehler behoben, der das Öffnen von WhatsApp 2.21.4.1 verhinderte.
-- Andere Fehler behoben.
+- Gradle und einige veraltete Methoden wurden aktualisiert.
+- Kompatibilitätsprüfung der neuesten Versionen der Magisk- und Riru-Core- und Yahfa-Module.
+- Einige Fehlerbehebungen.
 	</de>
     <es>
-- Base requerida 2.21.4.1 o superior.
-- Se corrigió un error que impedía abrir WhatsApp 2.21.4.1.
-- Corregidos otros errores.
+- Actualizado Gradle  y algunos métodos obsoletos.
+- Comprobación de compatibilidad de las últimas versiones de Magisk y módulos Riru core y Yahfa.
+- Algunas correcciones de errores.
     </es>
     <fr>
-- Base 2.21.4.1 ou supérieure requise.
-- Correction d'un bug qui empêchait d'ouvrir WhatsApp 2.21.4.1.
-- Correction d'autres bugs.
+- Mise à jour de Gradle et de certaines méthodes obsolètes.
+- Vérification de la compatibilité des dernières versions des modules Magisk et Riru core et Yahfa.
+- Quelques corrections de bugs.
     </fr>
     <hi>
-- आवश्यक आधार 2.21.4.1 या उच्चतर।
-- एक बग फिक्स्ड जो व्हाट्सएप को 2.21.4.1 खोलने से रोकता है।
-- अन्य कीड़े फिक्स्ड।
+- अपडेटेड ग्रेडल और कुछ पदावनत विधियां।
+- मैजिक और रिरू कोर और याफा मॉड्यूल के नवीनतम संस्करणों की संगतता जांच।
+- कुछ बग फिक्स।
     </hi>
 	<in>
-- Diperlukan basis 2.21.4.1 atau lebih tinggi.
-- Memperbaiki bug yang menghalangi pembukaan WhatsApp 2.21.4.1.
-- Memperbaiki bug lainnya.
+- Gradle yang diperbarui dan beberapa metode yang tidak digunakan lagi.
+- Pemeriksaan kompatibilitas versi terbaru modul Magisk dan Riru core dan Yahfa.
+- Beberapa perbaikan bug.
 	</in>
     <it>
-- Base richiesta 2.21.4.1 o successiva.
-- Risolto un bug che impediva l'apertura di WhatsApp 2.21.4.1.
-- Risolti altri bug.
+- Aggiornato Gradle e alcuni metodi deprecati.
+- Verifica della compatibilità delle ultime versioni dei moduli Magisk e Riru core e Yahfa.
+- Alcune correzioni di bug.
     </it>
     <nl>
-- Vereiste basis 2.21.4.1 of hoger.
-- Een bug verholpen waardoor WhatsApp 2.21.4.1 niet kon worden geopend.
-- Andere bugs opgelost.
+- Bijgewerkte Gradle en enkele verouderde methoden.
+- Compatibiliteitscontrole van de nieuwste versies van Magisk- en Riru-kern- en Yahfa-modules.
+- Enkele bugfixes.
     </nl>
 	<pl>
-- Wymagana podstawa 2.21.4.1 lub nowsza.
-- Naprawiono błąd, który uniemożliwiał otwarcie WhatsApp 2.21.4.1.
-- Naprawiono inne błędy.
+- Zaktualizowano Gradle i niektóre przestarzałe metody.
+- Kontrola kompatybilności najnowszych wersji rdzeni Magisk i Riru oraz modułów Yahfa.
+- Poprawki błędów.
     </pl>
     <pt>
-- Base necessária 2.21.4.1 ou superior.
-- Corrigido um bug que impedia a abertura do WhatsApp 2.21.4.1.
-- Corrigido outros bugs.
+- Gradle atualizado e alguns métodos obsoletos.
+- Verificação de compatibilidade das últimas versões do núcleo Magisk e Riru e módulos Yahfa.
+- Algumas correções de bugs.
     </pt>
 	<ro>
-- Baza necesară 2.21.4.1 sau mai mare.
-- S-au rezolvat alte bug-uri.
+- Gradle actualizate și câteva metode depreciate.
+- Verificarea compatibilității celor mai recente versiuni ale modulelor Magisk și Riru core și Yahfa.
+- Unele remedieri de erori.
 	</ro>
     <ru>
-- Требуется база 2.21.4.1 или выше.
-- S-a remediat o eroare care împiedica deschiderea WhatsApp 2.21.4.1.
-- S-au remediat alte erori.
+- Обновлен Gradle и некоторые устаревшие методы.
+- Проверка совместимости последних версий Magisk и Riru core и модулей Yahfa.
+- Исправлены некоторые ошибки.
     </ru>
     <tr>
-- Gerekli temel 2.21.4.1 veya üstü.
-- WhatsApp 2.21.4.1'in açılmasını engelleyen bir hata düzeltildi.
-- Diğer hatalar düzeltildi.
+- Güncellenmiş Gradle ve bazı kullanımdan kaldırılmış yöntemler.
+- Magisk ve Riru çekirdek ve Yahfa modüllerinin en son sürümlerinin uyumluluk kontrolü.
+- Bazı hata düzeltmeleri.
     </tr>
   </update>
 </AppUpdater>
