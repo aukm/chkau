@@ -1,7 +1,7 @@
 <AppUpdater>
   <update>
     <latestVersion>2.8.4</latestVersion>
-    <url>https://dl-xda.xposed.info/modules/kmod.xposed_v2840_8b8cc7.apk</url>
+    <url>https://dl-xda.xposed.info/modules/kmod.xposed_v2840_c23ff8.apk</url>
     <en>
 - Updated Gradle and some deprecated methods.
 - Compatibility check of the latest versions of Magisk and Riru core and Yahfa modules.
